@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2047025282654335131",
+    "created_at": "2026-04-25T14:30:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T15:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048047013636542769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1029992475690065920",
+          "start": 0,
+          "username": "DDD89195877"
+        },
+        {
+          "end": 22,
+          "id": "1541248951843663873",
+          "start": 13,
+          "username": "Anermoka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048047013636542769",
+    "in_reply_to_user_id": "1029992475690065920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047359885797687410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDD89195877 @Anermoka 可笑 暂且不知朋友哪位 本壬引用名壬名言完美华丽到底偷在哪里 反观“偷梗”这一词经过多次dssq 对此词的使用算不算偷梗我暂且蒙在鼓里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2047025282654335131",
+        "created_at": "2026-04-25T14:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048047013636542769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1029992475690065920",
+              "start": 0,
+              "username": "DDD89195877"
+            },
+            {
+              "end": 22,
+              "id": "1541248951843663873",
+              "start": 13,
+              "username": "Anermoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048047013636542769",
+        "in_reply_to_user_id": "1029992475690065920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047359885797687410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDD89195877 @Anermoka 可笑 暂且不知朋友哪位 本壬引用名壬名言完美华丽到底偷在哪里 反观“偷梗”这一词经过多次dssq 对此词的使用算不算偷梗我暂且蒙在鼓里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1029992475690065920",
+        "conversation_id": "2047025282654335131",
+        "created_at": "2026-04-23T17:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T18:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047359885797687410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044496192734666752",
+              "start": 0,
+              "username": "UWATCHLIFE"
+            },
+            {
+              "end": 21,
+              "id": "1541248951843663873",
+              "start": 12,
+              "username": "Anermoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047359885797687410",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047025282654335131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UWATCHLIFE @Anermoka 在？你偷宗文瑞的梗干什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 25,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 190
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-16T07:25:17.000Z",
+        "description": "女巫灭门惨案",
+        "id": "1029992475690065920",
+        "name": "Chairman☆Artyom",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006064034030968833/BX-v6DYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 854,
+          "like_count": 10364,
+          "listed_count": 7,
+          "media_count": 75,
+          "tweet_count": 2017
+        },
+        "username": "DDD89195877",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-27T02:36:10.000Z",
+        "description": "只是恰好路过这个世界",
+        "id": "1541248951843663873",
+        "location": "驻马店",
+        "name": "而已",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931245645597380608/xHAWTaMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 210,
+          "like_count": 16474,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 552
+        },
+        "username": "Anermoka",
+        "verified": false
+      }
+    ]
+  }
+}

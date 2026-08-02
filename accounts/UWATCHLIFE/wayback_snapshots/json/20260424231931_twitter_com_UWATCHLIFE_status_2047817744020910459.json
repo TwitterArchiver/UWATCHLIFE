@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2047500415298928859",
+    "created_at": "2026-04-24T23:19:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T00:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047817744020910459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2008034704134754304",
+          "start": 0,
+          "username": "kk2b2t"
+        },
+        {
+          "end": 23,
+          "id": "1918274202580467713",
+          "start": 8,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 29,
+          "id": "1720665183188922368",
+          "start": 24,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047817744020910459",
+    "in_reply_to_user_id": "2008034704134754304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047717698843664624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kk2b2t @CyberKanjousen @grok 恁也知道专门加个特殊药品了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2047500415298928859",
+        "created_at": "2026-04-24T23:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T00:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047817744020910459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2008034704134754304",
+              "start": 0,
+              "username": "kk2b2t"
+            },
+            {
+              "end": 23,
+              "id": "1918274202580467713",
+              "start": 8,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 29,
+              "id": "1720665183188922368",
+              "start": 24,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047817744020910459",
+        "in_reply_to_user_id": "2008034704134754304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047717698843664624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kk2b2t @CyberKanjousen @grok 恁也知道专门加个特殊药品了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008034704134754304",
+        "conversation_id": "2047500415298928859",
+        "created_at": "2026-04-24T16:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T17:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047717698843664624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044496192734666752",
+              "start": 0,
+              "username": "UWATCHLIFE"
+            },
+            {
+              "end": 27,
+              "id": "1918274202580467713",
+              "start": 12,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 33,
+              "id": "1720665183188922368",
+              "start": 28,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047717698843664624",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047678295374995896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UWATCHLIFE @CyberKanjousen @grok 请指出鼓励他人overdose特殊药品的犯罪依据"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 20,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 157
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T04:36:05.000Z",
+        "description": "Handcrafting lover 🥰",
+        "id": "2008034704134754304",
+        "name": "k k",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008034863933472768/G45P1Q3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 155,
+          "like_count": 2317,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 661
+        },
+        "username": "kk2b2t",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | まのさば好き | 友跨 | 想当猫猫\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 92,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 69,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1898,
+          "following_count": 572,
+          "like_count": 15016,
+          "listed_count": 5,
+          "media_count": 901,
+          "tweet_count": 4767
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8574048,
+          "following_count": 4,
+          "like_count": 88,
+          "listed_count": 6680,
+          "media_count": 8860211,
+          "tweet_count": 123708969
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

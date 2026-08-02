@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2062392553023185198",
+    "created_at": "2026-06-04T04:49:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T05:49:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062396243612246176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2054196065172344832",
+          "start": 0,
+          "username": "GptRainy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062396243612246176",
+    "in_reply_to_user_id": "2054196065172344832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062392553023185198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GptRainy 我谔谔，慢性疼痛患者特别事腰疼患者本来就要用阿片类啊，神经痛能开到的弱阿片在哪？本壬三叉神经痛怎么跑了几家医院才开到？患者们的止痛需求被忽视乃事客观事实，不少壬就连非甾体类都被说不许吃，你的阿片恐惧症是否过重力？，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2062392553023185198",
+        "created_at": "2026-06-04T04:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T05:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062396243612246176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054196065172344832",
+              "start": 0,
+              "username": "GptRainy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062396243612246176",
+        "in_reply_to_user_id": "2054196065172344832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062392553023185198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GptRainy 我谔谔，慢性疼痛患者特别事腰疼患者本来就要用阿片类啊，神经痛能开到的弱阿片在哪？本壬三叉神经痛怎么跑了几家医院才开到？患者们的止痛需求被忽视乃事客观事实，不少壬就连非甾体类都被说不许吃，你的阿片恐惧症是否过重力？，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2062392553023185198",
+        "created_at": "2026-06-04T04:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T05:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062392553023185198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/UWATCHLIFE/sta…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/UWATCHLIFE/status/2061255193808032096",
+              "start": 61,
+              "url": "https://t.co/5TYZ4KJc0r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062392553023185198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 860,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061255193808032096",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "慢性疼痛患者用阿片类？？？能不能不要为反对而反对啊，而且你国医院神经痛也是能开弱阿片的啊，癌症患者更不用说了芬大尼都报销 https://t.co/5TYZ4KJc0r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 90,
+          "like_count": 1018,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 732
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "堂堂转生！\n\n07年Transfem/🐱我的小猫叫卡尔/OD💊/割🔪🩸/🤖独立AI研究者/药物咨询 https://t.co/5EE1WxkPHD / #病み垢 #OD界隈 #お薬界隈 #病み垢さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 76,
+                "tag": "病み垢"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "OD界隈"
+              },
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "お薬界隈"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "tag": "病み垢さんと繋がりたい"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 73,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 50,
+                "url": "https://t.co/5EE1WxkPHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（转生复活ing）",
+        "pinned_tweet_id": "2060575051024564602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 150,
+          "like_count": 258,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 154
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      }
+    ]
+  }
+}

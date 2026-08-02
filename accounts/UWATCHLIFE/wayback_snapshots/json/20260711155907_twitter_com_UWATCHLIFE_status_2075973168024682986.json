@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2075923531117036029",
+    "created_at": "2026-07-11T15:59:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T16:59:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075973168024682986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1810704701744435200",
+          "start": 0,
+          "username": "worlds_end_fumo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075973168024682986",
+    "in_reply_to_user_id": "1810704701744435200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075923531117036029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@worlds_end_fumo 邪恶的蝾螈壬深层政府为统治oder所建立"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2075923531117036029",
+        "created_at": "2026-07-11T15:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075973168024682986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1810704701744435200",
+              "start": 0,
+              "username": "worlds_end_fumo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075973168024682986",
+        "in_reply_to_user_id": "1810704701744435200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075923531117036029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@worlds_end_fumo 邪恶的蝾螈壬深层政府为统治oder所建立"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810704701744435200",
+        "conversation_id": "2075923531117036029",
+        "created_at": "2026-07-11T12:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075923531117036029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KrvyScorpii/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/KrvyScorpii/status/2075894585952498141",
+              "start": 11,
+              "url": "https://t.co/YJqSux2w31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075923531117036029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075894585952498141",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药圈是谁建立的来着。 https://t.co/YJqSux2w31"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 128,
+          "like_count": 1584,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1076
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T15:57:11.000Z",
+        "description": "第二次转生/🎈批发 /可代购任何能力以内的东西 \n联系https://t.co/Ve4lzmqf76\n原号\n@popcat1234566\n\n3.25/一支 12邮 9g\n互关寻回！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 54,
+                "username": "popcat1234566"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/opodoge",
+                "end": 50,
+                "expanded_url": "http://t.me/opodoge",
+                "start": 27,
+                "url": "https://t.co/Ve4lzmqf76"
+              }
+            ]
+          }
+        },
+        "id": "1810704701744435200",
+        "location": "fumo island",
+        "name": "popcat1234566",
+        "pinned_tweet_id": "2063607798639030523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608187446812672/qwIQh47u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 278,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "worlds_end_fumo",
+        "verified": false
+      }
+    ]
+  }
+}

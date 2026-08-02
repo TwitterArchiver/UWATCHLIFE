@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2053280846417891698",
+    "created_at": "2026-05-10T07:43:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T08:43:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053380427759653052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1959893383633358848",
+          "start": 0,
+          "username": "Cbscfe"
+        },
+        {
+          "end": 20,
+          "id": "1860552199585300482",
+          "start": 8,
+          "username": "Seven_Eraya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053380427759653052",
+    "in_reply_to_user_id": "1959893383633358848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053311209148174546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cbscfe @Seven_Eraya 贸然报警事坏的，会造成当事壬心理社会乃至精神上的损伤，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2053280846417891698",
+        "created_at": "2026-05-10T07:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053380427759653052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1959893383633358848",
+              "start": 0,
+              "username": "Cbscfe"
+            },
+            {
+              "end": 20,
+              "id": "1860552199585300482",
+              "start": 8,
+              "username": "Seven_Eraya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053380427759653052",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053311209148174546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cbscfe @Seven_Eraya 贸然报警事坏的，会造成当事壬心理社会乃至精神上的损伤，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2053280846417891698",
+        "created_at": "2026-05-10T03:08:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T04:08:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053311209148174546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1860552199585300482",
+              "start": 0,
+              "username": "Seven_Eraya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053311209148174546",
+        "in_reply_to_user_id": "1860552199585300482",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053280846417891698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seven_Eraya qwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 69,
+          "like_count": 440,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 435
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 531,
+          "like_count": 22302,
+          "listed_count": 1,
+          "media_count": 208,
+          "tweet_count": 4916
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T05:15:08.000Z",
+        "description": "无证含糖🍥|边缘性人格特质|非典型强迫症|重度抑郁|重度焦虑|性别烦躁|超强易敏体质|已拥盐|Hrt Start26.3.7|生产日期12.1.7|已炸柜26.5.9|正在研究 C++11",
+        "id": "1860552199585300482",
+        "name": "Eraya🍥_",
+        "pinned_tweet_id": "2053280846417891698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000119531575095296/-lELMvd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 109,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 233
+        },
+        "username": "Seven_Eraya",
+        "verified": false
+      }
+    ]
+  }
+}

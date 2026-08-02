@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2046856437109051571",
+    "created_at": "2026-04-22T12:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T13:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046922224142283201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1468141721900896259",
+          "start": 0,
+          "username": "o3olyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046922224142283201",
+    "in_reply_to_user_id": "1468141721900896259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046856437109051571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@o3olyy 这里是睡眠障碍患者或者清明梦爱好者的交流场所吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2046856437109051571",
+        "created_at": "2026-04-22T12:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046922224142283201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1468141721900896259",
+              "start": 0,
+              "username": "o3olyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046922224142283201",
+        "in_reply_to_user_id": "1468141721900896259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046856437109051571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o3olyy 这里是睡眠障碍患者或者清明梦爱好者的交流场所吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468141721900896259",
+        "conversation_id": "2046856437109051571",
+        "created_at": "2026-04-22T07:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T08:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046856437109051571"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046856437109051571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1364,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安和美金刚哪个更容易精分"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 19,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 90
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-07T08:54:12.000Z",
+        "description": "=真理｜18 ↑｜od 自伤🩹餐券女｜双向｜adhd｜认知障碍｜自杀未遂｜泛性恋｜bart｜绳缚｜我是精日🚫pink\n同类宝宝互fo私一下我♡\n我穷疯了我很惨 求怜爱 我只是一个可怜的小女孩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/o3olyy",
+                "end": 23,
+                "expanded_url": "http://ngl.link/o3olyy",
+                "start": 0,
+                "url": "https://t.co/Xp1scCAHXW"
+              }
+            ]
+          }
+        },
+        "id": "1468141721900896259",
+        "location": "看看你身后｜🚪52坐标10",
+        "name": "真理",
+        "pinned_tweet_id": "2038328082357223865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028928773631188992/y2_EJ7g1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 211,
+          "like_count": 645,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 429
+        },
+        "url": "https://t.co/Xp1scCAHXW",
+        "username": "o3olyy",
+        "verified": false
+      }
+    ]
+  }
+}

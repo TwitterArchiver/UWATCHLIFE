@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2046074351548805255",
+    "created_at": "2026-04-20T04:14:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T05:14:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046080056418836901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1986453582716280834",
+          "start": 0,
+          "username": "darawkko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046080056418836901",
+    "in_reply_to_user_id": "1986453582716280834",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046074351548805255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@darawkko 文明"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2046074351548805255",
+        "created_at": "2026-04-20T04:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T05:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046080056418836901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1986453582716280834",
+              "start": 0,
+              "username": "darawkko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046080056418836901",
+        "in_reply_to_user_id": "1986453582716280834",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046074351548805255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@darawkko 文明"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986453582716280834",
+        "conversation_id": "2046074351548805255",
+        "created_at": "2026-04-20T03:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T04:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046074351548805255"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046074351548805255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝国又名大烟宝宝国，全民抽大烟，所有兔子倒在街头，药效里去中心化，加速一切一切的崩解……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 10,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T15:20:37.000Z",
+        "description": "電波発生器 ˙˚ʚ( ´ᵕ`⸝⸝⸝ )ɞ˚˙//超现实的碎碎念日记本♪( ´▽｀)//最爱的宝宝@La_reflexion000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 48,
+                "username": "La_reflexion000"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oioioi000",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oioioi000",
+                "start": 0,
+                "url": "https://t.co/UdwRNKzpCP"
+              }
+            ]
+          }
+        },
+        "id": "1986453582716280834",
+        "location": "☕️",
+        "name": "✞soizepam✞",
+        "pinned_tweet_id": "1995129414762291412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039207446657556480/qTyefXPL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 355,
+          "like_count": 10705,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 5503
+        },
+        "url": "https://t.co/UdwRNKzpCP",
+        "username": "darawkko",
+        "verified": false
+      }
+    ]
+  }
+}

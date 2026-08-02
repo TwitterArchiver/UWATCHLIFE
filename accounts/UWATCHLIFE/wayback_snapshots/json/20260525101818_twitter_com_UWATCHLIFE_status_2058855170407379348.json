@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2058855170407379348",
+    "created_at": "2026-05-25T10:18:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T11:18:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058855170407379348"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cmqxccc/status…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/cmqxccc/status/2058853568392884735",
+          "start": 11,
+          "url": "https://t.co/n7zlSk2MbG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058855170407379348",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058853568392884735",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "蝾壬十三与姥姥，，， https://t.co/n7zlSk2MbG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2058855170407379348",
+        "created_at": "2026-05-25T10:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058855170407379348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cmqxccc/status…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/cmqxccc/status/2058853568392884735",
+              "start": 11,
+              "url": "https://t.co/n7zlSk2MbG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058855170407379348",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058853568392884735",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蝾壬十三与姥姥，，， https://t.co/n7zlSk2MbG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048537365275422720",
+        "conversation_id": "2058853568392884735",
+        "created_at": "2026-05-25T10:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058853568392884735"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058853568392884735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "后藤你这废人，每天蹲在外婆家吸人家养老金不出门在你那频道里写那些狗屁不通的精神病文章干啥呢，自己外婆没什么钱榨干老人家也不愿意去工作"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 86,
+          "like_count": 824,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 650
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T23:00:42.000Z",
+        "description": "/mtf hrt：22.12.8/欢迎大家和我互关互赞/前身@know_hhh51945/@Masterlatos/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "know_hhh51945"
+              },
+              {
+                "end": 57,
+                "start": 45,
+                "username": "Masterlatos"
+              }
+            ]
+          }
+        },
+        "id": "2048537365275422720",
+        "name": "穗雨烛花",
+        "pinned_tweet_id": "2053137254504443959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054407306012717056/45SKeWTj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 165,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 45
+        },
+        "username": "cmqxccc",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2056941297928396822",
+    "created_at": "2026-05-21T00:40:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T01:40:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057260270544924715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2040088816770338816",
+          "start": 0,
+          "username": "tanyuen904"
+        }
+      ],
+      "urls": [
+        {
+          "description": "在这里所有od知识都是自由开源编辑的，你可以来解决你的疑惑，顺便帮我们完善我们的od百科喵！",
+          "display_url": "freeodwiki.org",
+          "end": 70,
+          "expanded_url": "https://freeodwiki.org/",
+          "start": 47,
+          "status": 200,
+          "title": "FreeODWiki主页 - FreeODwiki——可自由编辑的开源Overdose百科",
+          "unwound_url": "https://freeodwiki.org/",
+          "url": "https://t.co/Y4Kp7F38yK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057260270544924715",
+    "in_reply_to_user_id": "2040088816770338816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057096142350151716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tanyuen904 不要气到自己就ao，注意健康\n如果你想了解一下真实的瘾君子们，可以看看https://t.co/Y4Kp7F38yK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2056941297928396822",
+        "created_at": "2026-05-21T00:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T01:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057260270544924715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040088816770338816",
+              "start": 0,
+              "username": "tanyuen904"
+            }
+          ],
+          "urls": [
+            {
+              "description": "在这里所有od知识都是自由开源编辑的，你可以来解决你的疑惑，顺便帮我们完善我们的od百科喵！",
+              "display_url": "freeodwiki.org",
+              "end": 70,
+              "expanded_url": "https://freeodwiki.org/",
+              "start": 47,
+              "status": 200,
+              "title": "FreeODWiki主页 - FreeODwiki——可自由编辑的开源Overdose百科",
+              "unwound_url": "https://freeodwiki.org/",
+              "url": "https://t.co/Y4Kp7F38yK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057260270544924715",
+        "in_reply_to_user_id": "2040088816770338816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057096142350151716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanyuen904 不要气到自己就ao，注意健康\n如果你想了解一下真实的瘾君子们，可以看看https://t.co/Y4Kp7F38yK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040088816770338816",
+        "conversation_id": "2056941297928396822",
+        "created_at": "2026-05-20T13:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057096142350151716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044496192734666752",
+              "start": 0,
+              "username": "UWATCHLIFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057096142350151716",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057057505042477557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UWATCHLIFE 其實我也覺得（。\n當然不會的都只是氣話而已（不過我是真的很討厭藥跟毒販）我就是個什麼都不敢做的膽小鬼罷了不用擔心這個問題🙌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 81,
+          "like_count": 729,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 602
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T15:27:46.000Z",
+        "description": "🇹🇼Taiwan🇹🇼 18↑ 無言フォロー失礼します 日本語がまだ苦手なので普段は翻訳を使っています RT多い めがね男女が好き",
+        "id": "2040088816770338816",
+        "location": "Taiwan",
+        "name": "湯圓（タンユエン）",
+        "pinned_tweet_id": "2052188418575323368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040089268799098880/mJW1JwOp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 536,
+          "like_count": 3501,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1992
+        },
+        "username": "tanyuen904",
+        "verified": false
+      }
+    ]
+  }
+}

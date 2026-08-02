@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2052391118763905293",
+    "created_at": "2026-05-08T07:54:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T08:54:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052658282570092837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1395658814402162689",
+          "start": 0,
+          "username": "8964tou12345678"
+        },
+        {
+          "end": 33,
+          "id": "1997279917621510145",
+          "start": 17,
+          "username": "eronya_Official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052658282570092837",
+    "in_reply_to_user_id": "1395658814402162689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052636802385678371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964tou12345678 @eronya_Official 由此可得宁事在发泄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2052391118763905293",
+        "created_at": "2026-05-08T07:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052658282570092837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1395658814402162689",
+              "start": 0,
+              "username": "8964tou12345678"
+            },
+            {
+              "end": 33,
+              "id": "1997279917621510145",
+              "start": 17,
+              "username": "eronya_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052658282570092837",
+        "in_reply_to_user_id": "1395658814402162689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052636802385678371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964tou12345678 @eronya_Official 由此可得宁事在发泄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1395658814402162689",
+        "conversation_id": "2052391118763905293",
+        "created_at": "2026-05-08T06:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T07:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052636802385678371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1997279917621510145",
+              "start": 0,
+              "username": "eronya_Official"
+            },
+            {
+              "end": 28,
+              "id": "2044496192734666752",
+              "start": 17,
+              "username": "UWATCHLIFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052636802385678371",
+        "in_reply_to_user_id": "1997279917621510145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 212,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052635385138663561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eronya_Official @UWATCHLIFE 我寻思真每句话拿去查有科学证据和依据进行修改来输出观点，又变成把仇恨变成压迫的工具，或者直接被叫婆罗门，我寻思反智就承认吧，非这样显得都是相对而没有个高低\n且一般人对无关的事也是无所谓态度，能长篇大论这么多，多少有点发泄的意味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 64,
+          "like_count": 401,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 413
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-21T08:32:55.000Z",
+        "description": "是圣彼得，是朱斯蒂娜，是你的幻想朋友/moratorium/我开始积极的撒谎/这世界已不是我的地头，就当我在宇宙漂流/曾经是🇹🇭🇵🇭🇮🇩华人，最近🇨🇿华人属于是/不喜欢浪费时间吵架，因此你觉得如果我没有反驳你，可以当作你赢了，庆祝去吧",
+        "id": "1395658814402162689",
+        "name": "✝️Wayne✝️",
+        "pinned_tweet_id": "1675532843366088706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653431411918114816/I99EdSEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10289,
+          "following_count": 10322,
+          "like_count": 309786,
+          "listed_count": 67,
+          "media_count": 2336,
+          "tweet_count": 49867
+        },
+        "username": "8964tou12345678",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-06T12:20:24.000Z",
+        "description": "ネットアーティスト",
+        "id": "1997279917621510145",
+        "name": "eronya",
+        "pinned_tweet_id": "2052639172591051111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046104641348534272/dhW1z1dX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 2,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "eronya_Official",
+        "verified": false
+      }
+    ]
+  }
+}

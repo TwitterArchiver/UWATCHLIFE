@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2077678330703487288",
+    "created_at": "2026-07-18T10:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T11:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078433812267323746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1459204882066722816",
+          "start": 0,
+          "username": "QAQhuaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078433812267323746",
+    "in_reply_to_user_id": "1459204882066722816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078430888874869122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QAQhuaq 青涩的船长与船员们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2077678330703487288",
+        "created_at": "2026-07-18T10:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078433812267323746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1459204882066722816",
+              "start": 0,
+              "username": "QAQhuaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078433812267323746",
+        "in_reply_to_user_id": "1459204882066722816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078430888874869122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QAQhuaq 青涩的船长与船员们"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1459204882066722816",
+        "conversation_id": "2077678330703487288",
+        "created_at": "2026-07-18T10:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078430888874869122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044496192734666752",
+              "start": 0,
+              "username": "UWATCHLIFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078430888874869122",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077678330703487288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UWATCHLIFE 挺好玩儿的，像次有趣的冒险，结束了甚至还有奖励 笑死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "pinned_tweet_id": "2078365186466156746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 154,
+          "like_count": 1757,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1160
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-12T17:02:33.000Z",
+        "description": "",
+        "id": "1459204882066722816",
+        "name": "一ノ瀨きかわ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597894571949703170/9711JVXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 596,
+          "like_count": 1899,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 75
+        },
+        "url": "",
+        "username": "QAQhuaq",
+        "verified": false
+      }
+    ]
+  }
+}

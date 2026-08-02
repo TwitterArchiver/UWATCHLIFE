@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2046483349192257843",
+    "created_at": "2026-04-23T03:36:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T04:36:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047157606251389346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1446002090237513731",
+          "start": 0,
+          "username": "Misaka1042"
+        },
+        {
+          "end": 22,
+          "id": "1885154179922227200",
+          "start": 12,
+          "username": "Snow_Xue_"
+        },
+        {
+          "end": 34,
+          "id": "1491630608832876547",
+          "start": 23,
+          "username": "hakanopesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047157606251389346",
+    "in_reply_to_user_id": "1446002090237513731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046562438200656095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Misaka1042 @Snow_Xue_ @hakanopesu 不好意思，愈美片和普瑞巴林，从头到尾都不是毒品。直至今日这两种药品才成为网络禁售药物，而雌二醇色谱龙早在几年前就达到了这一高度"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Snow_Xue_].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Snow_Xue_",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Snow_Xue_"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2046483349192257843",
+        "created_at": "2026-04-23T03:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T04:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047157606251389346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1446002090237513731",
+              "start": 0,
+              "username": "Misaka1042"
+            },
+            {
+              "end": 22,
+              "id": "1885154179922227200",
+              "start": 12,
+              "username": "Snow_Xue_"
+            },
+            {
+              "end": 34,
+              "id": "1491630608832876547",
+              "start": 23,
+              "username": "hakanopesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047157606251389346",
+        "in_reply_to_user_id": "1446002090237513731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046562438200656095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misaka1042 @Snow_Xue_ @hakanopesu 不好意思，愈美片和普瑞巴林，从头到尾都不是毒品。直至今日这两种药品才成为网络禁售药物，而雌二醇色谱龙早在几年前就达到了这一高度"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1446002090237513731",
+        "conversation_id": "2046483349192257843",
+        "created_at": "2026-04-21T12:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046562438200656095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1885154179922227200",
+              "start": 0,
+              "username": "Snow_Xue_"
+            },
+            {
+              "end": 22,
+              "id": "1491630608832876547",
+              "start": 11,
+              "username": "hakanopesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046562438200656095",
+        "in_reply_to_user_id": "1885154179922227200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 876,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046533780853440728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snow_Xue_ @hakanopesu 吸毒就吸毒还优越上了是吧，别给跨性别抹黑谢谢\n还嫌我们路人缘不够差吗\n别拿雌二醇色谱龙说事\nHRT是正规的医学治疗，你o你那点右美沙芬普瑞巴林从头到尾就是吸毒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 21,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 118
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-07T06:39:11.000Z",
+        "description": "19yr/out-dated JK/🍥:2021/MTF🏳️‍⚧️/SRS:2025",
+        "id": "1446002090237513731",
+        "name": "Misaka10042🍥",
+        "pinned_tweet_id": "1766128163976036475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900091749701394432/oq_27XDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4418,
+          "following_count": 1127,
+          "like_count": 2198,
+          "listed_count": 15,
+          "media_count": 288,
+          "tweet_count": 1641
+        },
+        "username": "Misaka1042",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T04:30:46.000Z",
+        "description": "想成为男娘 | 不学无术 | 并非Developer | HRT since 24.02.23 | 含糖顺男 | 如果你想 block 我的话请记住道不同不相为谋",
+        "id": "1491630608832876547",
+        "name": "Haskina🍥",
+        "pinned_tweet_id": "1790356918353158650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770327321951793152/et0NXeqx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 269,
+          "like_count": 2098,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 1102
+        },
+        "username": "hakanopesu",
+        "verified": false
+      }
+    ]
+  }
+}

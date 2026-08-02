@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2062295702378811729",
+    "created_at": "2026-06-04T07:47:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T08:47:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062440994940084259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1798724969695977472",
+          "start": 0,
+          "username": "overdosewiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062440994940084259",
+    "in_reply_to_user_id": "1798724969695977472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062295702378811729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdosewiki 怎么没有传奇多奈哌齐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1260,
+        "media_key": "3_2062295695827288064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ6_AkOaQAALzGO.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2062295702378811729",
+        "created_at": "2026-06-04T07:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T08:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062440994940084259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1798724969695977472",
+              "start": 0,
+              "username": "overdosewiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062440994940084259",
+        "in_reply_to_user_id": "1798724969695977472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062295702378811729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdosewiki 怎么没有传奇多奈哌齐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062295695827288064"
+          ]
+        },
+        "author_id": "1798724969695977472",
+        "conversation_id": "2062295702378811729",
+        "created_at": "2026-06-03T22:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T23:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062295702378811729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BsIVOV76Go",
+              "end": 142,
+              "expanded_url": "https://x.com/overdosewiki/status/2062295702378811729/photo/1",
+              "media_key": "3_2062295695827288064",
+              "start": 119,
+              "url": "https://t.co/BsIVOV76Go"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062295702378811729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1182,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "OD圈没有活着的传奇🤣\n因为传奇都躺在坟墓里😂\n珍爱生命尽量远离RC和连用💀\n（生命只有一次，哪怕是为了以后继续嗑药也要安全过量啊.jpg）\n\n20:11剧烈变形（骆驼蓬子+XX碱）\n\n2026年初：诶我怎么变大小眼了（阿片类呼吸抑制） https://t.co/BsIVOV76Go"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 91,
+          "like_count": 1028,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 741
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T14:33:54.000Z",
+        "description": "我们没有计划运营站点\nhttps://t.co/1UhiZIz90O —— odw直属群",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/o_d_wiki",
+                "end": 34,
+                "expanded_url": "http://t.me/o_d_wiki",
+                "start": 11,
+                "url": "https://t.co/1UhiZIz90O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/6fVCD4QQ92"
+              }
+            ]
+          }
+        },
+        "id": "1798724969695977472",
+        "location": "但愿世间人无病 何妨架上药生尘",
+        "name": "高原观察团——odw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060745192475643904/XAszfBgv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3691,
+          "following_count": 6,
+          "like_count": 426,
+          "listed_count": 5,
+          "media_count": 121,
+          "tweet_count": 697
+        },
+        "url": "https://t.co/6fVCD4QQ92",
+        "username": "overdosewiki",
+        "verified": false
+      }
+    ]
+  }
+}

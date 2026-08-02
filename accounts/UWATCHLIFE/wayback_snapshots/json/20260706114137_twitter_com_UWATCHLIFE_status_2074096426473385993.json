@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2074096426473385993",
+    "created_at": "2026-07-06T11:41:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T12:41:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074096426473385993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2044176423460515840",
+          "start": 3,
+          "username": "dupinkepu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074096426473385993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074086161174392858",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dupinkepu: 代Zemin Jiang发，不知道还有人记得他吗：\n&gt;&gt;之前X高压管控，致使我删推跑路。跑路前曾在推上发过pr开头的某羧酸的购买方式，现在借助该化工原料牟利的不法分子太多了！为了给大家绕过中间商的权利，请加入原料革命群。我会解答关于寻找厂家、购买原…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2074096426473385993",
+        "created_at": "2026-07-06T11:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T12:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074096426473385993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2044176423460515840",
+              "start": 3,
+              "username": "dupinkepu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074096426473385993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074086161174392858",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dupinkepu: 代Zemin Jiang发，不知道还有人记得他吗：\n&gt;&gt;之前X高压管控，致使我删推跑路。跑路前曾在推上发过pr开头的某羧酸的购买方式，现在借助该化工原料牟利的不法分子太多了！为了给大家绕过中间商的权利，请加入原料革命群。我会解答关于寻找厂家、购买原…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044176423460515840",
+        "conversation_id": "2074086161174392858",
+        "created_at": "2026-07-06T11:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T12:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074086161174392858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Follow this link to join a group on Signal Messenger.",
+              "display_url": "signal.group/#CjQKIGvEk8Y6V…",
+              "end": 158,
+              "expanded_url": "https://signal.group/#CjQKIGvEk8Y6VvWtB0xvZV-iVMjzy0qnhaZbNwGT9dD5P96XEhDFVGn8vIqMkCdb2RC2zC3i",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2072978570218233856/T8FTmQsv?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2072978570218233856/T8FTmQsv?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 135,
+              "status": 200,
+              "title": "Signal Messenger Group",
+              "unwound_url": "https://signal.group/#CjQKIGvEk8Y6VvWtB0xvZV-iVMjzy0qnhaZbNwGT9dD5P96XEhDFVGn8vIqMkCdb2RC2zC3i",
+              "url": "https://t.co/ujVUDQu0m7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074086161174392858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "代Zemin Jiang发，不知道还有人记得他吗：\n&gt;&gt;之前X高压管控，致使我删推跑路。跑路前曾在推上发过pr开头的某羧酸的购买方式，现在借助该化工原料牟利的不法分子太多了！为了给大家绕过中间商的权利，请加入原料革命群。我会解答关于寻找厂家、购买原料的问题。https://t.co/ujVUDQu0m7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 117,
+          "like_count": 1512,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1047
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T22:10:24.000Z",
+        "description": "知的强奸者",
+        "id": "2044176423460515840",
+        "name": "橘雪莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062369390272925696/pssWTzLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 84,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "dupinkepu",
+        "verified": false
+      }
+    ]
+  }
+}

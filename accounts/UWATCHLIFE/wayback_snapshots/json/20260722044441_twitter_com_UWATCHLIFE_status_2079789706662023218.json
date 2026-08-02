@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2079789706662023218",
+    "created_at": "2026-07-22T04:44:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T05:44:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079789706662023218"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huaxiangdiea/s…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/huaxiangdiea/status/2079770793123483873",
+          "start": 16,
+          "url": "https://t.co/HFGVqaJCr6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079789706662023218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079770793123483873",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个圈子的名字叫作，O↑D↓圈 https://t.co/HFGVqaJCr6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2079789706662023218",
+        "created_at": "2026-07-22T04:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T05:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079789706662023218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huaxiangdiea/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/huaxiangdiea/status/2079770793123483873",
+              "start": 16,
+              "url": "https://t.co/HFGVqaJCr6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079789706662023218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079770793123483873",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个圈子的名字叫作，O↑D↓圈 https://t.co/HFGVqaJCr6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079623281263706112",
+        "conversation_id": "2079770793123483873",
+        "created_at": "2026-07-22T03:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079770793123483873"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079770793123483873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你的意思是 没有wiki的话 会比现在情况更糟糕 死更多人？wiki在我眼里仅此于广州禁毒了 因为wiki才去帮助oder的填都要多以及福……\n笑死 没有wiki根本不会有现在这么庞大的药圈人和od思想\n脑袋还没被药完全侵蚀的人啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "pinned_tweet_id": "2078365186466156746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 174,
+          "like_count": 1833,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1185
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-21T17:44:21.000Z",
+        "description": "我和死亡处成了朋友 从地狱归来之人\n想知道我是谁吗？来了解我吧\n只是一只代表死亡的蝴蝶…\n药圈和平 减害主义 请爱我 永远",
+        "id": "2079623281263706112",
+        "location": "hell",
+        "name": "花乡蝶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079623941732331520/W9QuYVqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 14,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "huaxiangdiea",
+        "verified": false
+      }
+    ]
+  }
+}

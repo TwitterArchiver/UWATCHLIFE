@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2054717815387734305",
+    "created_at": "2026-05-14T14:53:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T15:53:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054938213727576441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1959893383633358848",
+          "start": 0,
+          "username": "Cbscfe"
+        },
+        {
+          "end": 18,
+          "id": "1737447648536506368",
+          "start": 8,
+          "username": "_AngelDe_"
+        },
+        {
+          "end": 35,
+          "id": "1852895432269234176",
+          "start": 19,
+          "username": "432Ifantrygroup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054938213727576441",
+    "in_reply_to_user_id": "1959893383633358848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054828106469490970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cbscfe @_AngelDe_ @432Ifantrygroup 少了，年轻壬来说抑郁率可是五分之一，精神疾病率四分之一"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2054717815387734305",
+        "created_at": "2026-05-14T14:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054938213727576441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1959893383633358848",
+              "start": 0,
+              "username": "Cbscfe"
+            },
+            {
+              "end": 18,
+              "id": "1737447648536506368",
+              "start": 8,
+              "username": "_AngelDe_"
+            },
+            {
+              "end": 35,
+              "id": "1852895432269234176",
+              "start": 19,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054938213727576441",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054828106469490970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cbscfe @_AngelDe_ @432Ifantrygroup 少了，年轻壬来说抑郁率可是五分之一，精神疾病率四分之一"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2054717815387734305",
+        "created_at": "2026-05-14T07:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054828106469490970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1737447648536506368",
+              "start": 0,
+              "username": "_AngelDe_"
+            },
+            {
+              "end": 27,
+              "id": "1852895432269234176",
+              "start": 11,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054828106469490970",
+        "in_reply_to_user_id": "1737447648536506368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054786112762388908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_AngelDe_ @432Ifantrygroup f\"{9500e4 / 14e8:.1%}\" -&gt; 6.8%\n一个30人的班级可能就有两个是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 78,
+          "like_count": 598,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 531
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n\n(outdated sync)\n---\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 595,
+          "like_count": 23261,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 5330
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T12:25:36.000Z",
+        "description": "INTP-T",
+        "id": "1737447648536506368",
+        "name": "AngelDeus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832578462164643840/ELvt_My1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 123,
+          "like_count": 3849,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 341
+        },
+        "username": "_AngelDe_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2054924200830509429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1329,
+          "following_count": 3795,
+          "like_count": 36342,
+          "listed_count": 4,
+          "media_count": 391,
+          "tweet_count": 9756
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

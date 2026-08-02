@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2049575659446681692",
+    "created_at": "2026-04-30T03:06:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T04:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049686748310192287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1243491753019101184",
+          "start": 0,
+          "username": "fanduizhongxiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049686748310192287",
+    "in_reply_to_user_id": "1243491753019101184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049575659446681692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanduizhongxiu 堕落并非一种罪恶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2049575652320485377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHGOMljaIAExTSw.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2049575659446681692",
+        "created_at": "2026-04-30T03:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T04:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049686748310192287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243491753019101184",
+              "start": 0,
+              "username": "fanduizhongxiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049686748310192287",
+        "in_reply_to_user_id": "1243491753019101184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049575659446681692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanduizhongxiu 堕落并非一种罪恶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049575652320485377"
+          ]
+        },
+        "author_id": "1243491753019101184",
+        "conversation_id": "2049575659446681692",
+        "created_at": "2026-04-29T19:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T20:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049575659446681692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WSAYesMPxD",
+              "end": 92,
+              "expanded_url": "https://x.com/fanduizhongxiu/status/2049575659446681692/photo/1",
+              "media_key": "3_2049575652320485377",
+              "start": 69,
+              "url": "https://t.co/WSAYesMPxD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049575659446681692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次见到如此特色的社会主义，底层是窝囊废废物，追求五天八小时等更好的工作待遇反而成了殖人，原来特色不止是官僚垄断资本这一点 还掺了社达 https://t.co/WSAYesMPxD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 47,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 275
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T10:55:19.000Z",
+        "description": "反帝反纳粹反粉红反一切压迫剥削｜民主社会主义｜视为兼顾生产力和个人权力的手段，最终目标是以此跨入共产主义｜友跨性别｜欢迎不同看法 但要理性讨论 ｜制度应当以人为本实现每个人的解放和自由才能实现集体的自由｜反对废除死刑｜支持严肃处刑毒贩｜顺直",
+        "id": "1243491753019101184",
+        "location": "在学习的路上",
+        "name": "天宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048589858449608704/uhiW6t6V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 71,
+          "like_count": 3501,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1537
+        },
+        "username": "fanduizhongxiu",
+        "verified": true
+      }
+    ]
+  }
+}

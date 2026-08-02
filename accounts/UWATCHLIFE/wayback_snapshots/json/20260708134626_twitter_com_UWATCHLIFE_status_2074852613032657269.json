@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2074734688024093172",
+    "created_at": "2026-07-08T13:46:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T14:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074852613032657269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1702221879434436608",
+          "start": 0,
+          "username": "8964zhajipai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074852613032657269",
+    "in_reply_to_user_id": "1702221879434436608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074734688024093172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964zhajipai 10mg就可以，第一次可能没感觉，多尝试几次，别盲目加药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2074734688024093172",
+        "created_at": "2026-07-08T13:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074852613032657269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1702221879434436608",
+              "start": 0,
+              "username": "8964zhajipai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074852613032657269",
+        "in_reply_to_user_id": "1702221879434436608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074734688024093172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964zhajipai 10mg就可以，第一次可能没感觉，多尝试几次，别盲目加药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702221879434436608",
+        "conversation_id": "2074734688024093172",
+        "created_at": "2026-07-08T05:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T06:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074734688024093172"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074734688024093172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2233,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吗啡多少mg能有欣快感呀，我好像能开到一个含吗啡的药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 118,
+          "like_count": 1545,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1054
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T07:25:04.000Z",
+        "description": "=小鸠/鸡排                                                             集日记朋友圈碎碎念垃圾桶裸照自残嗑药一体的神秘账号 || 互fo大欢迎=ω=                     我是钱性恋🚪188/288/520/1314",
+        "id": "1702221879434436608",
+        "name": "像素",
+        "pinned_tweet_id": "2074621267400077792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860587158731653120/sZ21AxRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1499,
+          "following_count": 81,
+          "like_count": 332,
+          "listed_count": 4,
+          "media_count": 69,
+          "tweet_count": 638
+        },
+        "url": "",
+        "username": "8964zhajipai",
+        "verified": false
+      }
+    ]
+  }
+}

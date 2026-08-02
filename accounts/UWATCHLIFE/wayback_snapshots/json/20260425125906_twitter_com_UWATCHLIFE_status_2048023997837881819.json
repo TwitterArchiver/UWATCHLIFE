@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2047741369125392555",
+    "created_at": "2026-04-25T12:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T13:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048023997837881819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1395658814402162689",
+          "start": 0,
+          "username": "8964tou12345678"
+        },
+        {
+          "end": 29,
+          "id": "914028453174796293",
+          "start": 17,
+          "username": "Ajisai1207_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048023997837881819",
+    "in_reply_to_user_id": "1395658814402162689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047983202900308078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964tou12345678 @Ajisai1207_ 把百分之几（甚至多得多得多）的人踩在脚底，让他们受尽折磨压迫，然后再说这是他们自作自受，你似乎对这么个玩意儿感到自豪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2047741369125392555",
+        "created_at": "2026-04-25T12:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048023997837881819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1395658814402162689",
+              "start": 0,
+              "username": "8964tou12345678"
+            },
+            {
+              "end": 29,
+              "id": "914028453174796293",
+              "start": 17,
+              "username": "Ajisai1207_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048023997837881819",
+        "in_reply_to_user_id": "1395658814402162689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047983202900308078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964tou12345678 @Ajisai1207_ 把百分之几（甚至多得多得多）的人踩在脚底，让他们受尽折磨压迫，然后再说这是他们自作自受，你似乎对这么个玩意儿感到自豪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1395658814402162689",
+        "conversation_id": "2047741369125392555",
+        "created_at": "2026-04-25T10:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047983202900308078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044496192734666752",
+              "start": 0,
+              "username": "UWATCHLIFE"
+            },
+            {
+              "end": 24,
+              "id": "914028453174796293",
+              "start": 12,
+              "username": "Ajisai1207_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047983202900308078",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047929177639461121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UWATCHLIFE @Ajisai1207_ 很遗憾，自然层面的正常在社会层面并不是，甚至几乎所有社群性动物内部都有保留淘汰机制给那些异常者。\n所以只能要么矫正要么陷入社群淘汰机制，我们人类社会自称没有，实际上有，也就是在孤独和结构性压力下选择自杀，只是这被视为自愿，因此无人可追责。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 24,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 167
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-21T08:32:55.000Z",
+        "description": "是圣彼得，是朱斯蒂娜，是你的幻想朋友/moratorium/我开始积极的撒谎/这世界已不是我的地头，就当我在宇宙漂流/曾经是🇹🇭🇵🇭🇮🇩华人，最近🇨🇿华人属于是/不喜欢浪费时间吵架，因此你觉得如果我没有反驳你，可以当作你赢了，庆祝去吧",
+        "id": "1395658814402162689",
+        "name": "✝️Wayne✝️",
+        "pinned_tweet_id": "1675532843366088706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653431411918114816/I99EdSEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10194,
+          "following_count": 10212,
+          "like_count": 305354,
+          "listed_count": 67,
+          "media_count": 2319,
+          "tweet_count": 49087
+        },
+        "username": "8964tou12345678",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-30T07:25:39.000Z",
+        "description": "Идиот",
+        "id": "914028453174796293",
+        "location": "地下室",
+        "name": "紫陽花開🌸",
+        "pinned_tweet_id": "1935689907256594753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968809273300774912/Lvdg3qot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 972,
+          "like_count": 14997,
+          "listed_count": 15,
+          "media_count": 640,
+          "tweet_count": 6747
+        },
+        "username": "Ajisai1207_",
+        "verified": false
+      }
+    ]
+  }
+}

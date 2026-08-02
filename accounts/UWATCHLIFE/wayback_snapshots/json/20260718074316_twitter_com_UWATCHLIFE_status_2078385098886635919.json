@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2078060977648750764",
+    "created_at": "2026-07-18T07:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T08:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078385098886635919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2023258926880636928",
+          "start": 0,
+          "username": "plane294"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078385098886635919",
+    "in_reply_to_user_id": "2023258926880636928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078060977648750764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plane294 润韩不就有未来力，，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1241,
+        "media_key": "3_2078060969545416705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbBcRdbwAEa_0y.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2078060977648750764",
+        "created_at": "2026-07-18T07:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T08:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078385098886635919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2023258926880636928",
+              "start": 0,
+              "username": "plane294"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078385098886635919",
+        "in_reply_to_user_id": "2023258926880636928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078060977648750764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plane294 润韩不就有未来力，，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078060969545416705"
+          ]
+        },
+        "author_id": "2023258926880636928",
+        "conversation_id": "2078060977648750764",
+        "created_at": "2026-07-17T10:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078060977648750764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ojivJJhETN",
+              "end": 61,
+              "expanded_url": "https://x.com/plane294/status/2078060977648750764/photo/1",
+              "media_key": "3_2078060969545416705",
+              "start": 38,
+              "url": "https://t.co/ojivJJhETN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078060977648750764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有死亡的理由了\n没有未来\n一眼看不到头\n哪怕我的学历再高\n也是没有意义的 https://t.co/ojivJJhETN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "pinned_tweet_id": "2078365186466156746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 148,
+          "like_count": 1744,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1155
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-16T04:51:43.000Z",
+        "description": "🚪114514 辞落的不健康账号\n此账号专门用来挂人，od，紫餐等相关。",
+        "id": "2023258926880636928",
+        "location": "距离你0.0001cm🩷❤️🧡💛💚🩵💙💜",
+        "name": "Chi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078329752310693888/oXP90y0G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 10,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "plane294",
+        "verified": false
+      }
+    ]
+  }
+}

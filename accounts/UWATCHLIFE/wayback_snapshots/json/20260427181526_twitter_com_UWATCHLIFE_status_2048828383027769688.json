@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2048213663165874533",
+    "created_at": "2026-04-27T18:15:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T19:15:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048828383027769688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1243491753019101184",
+          "start": 0,
+          "username": "fanduizhongxiu"
+        },
+        {
+          "end": 26,
+          "id": "1813561571941183488",
+          "start": 16,
+          "username": "care1337_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048828383027769688",
+    "in_reply_to_user_id": "1243491753019101184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048287680702918829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanduizhongxiu @care1337_ 这是否"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2048213663165874533",
+        "created_at": "2026-04-27T18:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T19:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048828383027769688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243491753019101184",
+              "start": 0,
+              "username": "fanduizhongxiu"
+            },
+            {
+              "end": 26,
+              "id": "1813561571941183488",
+              "start": 16,
+              "username": "care1337_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048828383027769688",
+        "in_reply_to_user_id": "1243491753019101184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048287680702918829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanduizhongxiu @care1337_ 这是否"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243491753019101184",
+        "conversation_id": "2048213663165874533",
+        "created_at": "2026-04-26T06:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048287680702918829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "care1337_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048287680702918829",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2813,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048213663165874533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@care1337_ 我以前也爱和包书记建政 后面越来越带价值观引导我就不玩了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 35,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 235
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T10:55:19.000Z",
+        "description": "反帝反纳粹反粉红反一切压迫剥削｜民主社会主义｜视为兼顾生产力和个人权力的手段，最终目标是以此跨入共产主义｜友跨性别｜欢迎不同看法 但要理性讨论 ｜制度应当以人为本实现每个人的解放和自由才能实现集体的自由｜反对废除死刑｜支持严肃处刑毒贩｜顺直",
+        "id": "1243491753019101184",
+        "location": "在学习的路上",
+        "name": "天宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048589858449608704/uhiW6t6V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 68,
+          "like_count": 3343,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 1457
+        },
+        "username": "fanduizhongxiu",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-17T13:09:16.000Z",
+        "description": "蓝v互关！男(ftm)🍥🍥，河南新乡人🚸，常驻宛平南路600号🏥，曾因偷吃东北桌饺被行政拘留\n鞋码37🩰，袜子两周换一次，平时最爱吃腊肉🥩，欢迎互关，请不要因为破防了就拉黑我",
+        "id": "1813561571941183488",
+        "name": "maybe🍥",
+        "pinned_tweet_id": "2048696018045374573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047660982370287616/9dQU-KLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 320,
+          "like_count": 4328,
+          "listed_count": 2,
+          "media_count": 492,
+          "tweet_count": 1749
+        },
+        "username": "care1337_",
+        "verified": true
+      }
+    ]
+  }
+}

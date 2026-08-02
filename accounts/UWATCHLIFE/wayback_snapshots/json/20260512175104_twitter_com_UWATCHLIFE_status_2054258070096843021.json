@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2053864009112453239",
+    "created_at": "2026-05-12T17:51:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T18:51:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054258070096843021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1327197298930028544",
+          "start": 0,
+          "username": "Psydrugswiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054258070096843021",
+    "in_reply_to_user_id": "1327197298930028544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053864009112453239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Psydrugswiki 收网咯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2055,
+        "media_key": "3_2053855383970783232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIDClwWaIAABZU9.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2053864009112453239",
+        "created_at": "2026-05-12T17:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T18:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054258070096843021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1327197298930028544",
+              "start": 0,
+              "username": "Psydrugswiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054258070096843021",
+        "in_reply_to_user_id": "1327197298930028544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053864009112453239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Psydrugswiki 收网咯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053855383970783232"
+          ]
+        },
+        "author_id": "1327197298930028544",
+        "conversation_id": "2053864009112453239",
+        "created_at": "2026-05-11T15:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053864009112453239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f3K8vK8eMC",
+              "end": 28,
+              "expanded_url": "https://x.com/Psydrugswiki/status/2053864009112453239/photo/1",
+              "media_key": "3_2053855383970783232",
+              "start": 5,
+              "url": "https://t.co/f3K8vK8eMC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053864009112453239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 707,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎来玩 https://t.co/f3K8vK8eMC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 71,
+          "like_count": 528,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 496
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-13T10:31:21.000Z",
+        "description": "精神活性物质指栏  Psydrugs Wiki官方账号，多人运营中，https://t.co/CB9yLA9IjF 专注于精神药物科普 一个神奇的工作台 https://t.co/5yfyOKiE0A",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 57,
+                "expanded_url": "https://psydrugs.org",
+                "start": 34,
+                "url": "https://t.co/CB9yLA9IjF"
+              },
+              {
+                "display_url": "generator.psydrugs.org",
+                "end": 100,
+                "expanded_url": "http://generator.psydrugs.org",
+                "start": 77,
+                "url": "https://t.co/5yfyOKiE0A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "https://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/CB9yLA9IjF"
+              }
+            ]
+          }
+        },
+        "id": "1327197298930028544",
+        "location": "Kansai, Hyogo",
+        "name": "Psydrugs official",
+        "pinned_tweet_id": "2034229162811293768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015057185953263616/EoNq2pvq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 220,
+          "like_count": 6223,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1313
+        },
+        "url": "https://t.co/CB9yLA9IjF",
+        "username": "Psydrugswiki",
+        "verified": false
+      }
+    ]
+  }
+}

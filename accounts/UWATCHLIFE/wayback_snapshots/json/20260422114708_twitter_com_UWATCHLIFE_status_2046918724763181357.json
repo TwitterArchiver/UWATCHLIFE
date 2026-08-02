@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2046433996100321663",
+    "created_at": "2026-04-22T11:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T12:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046918724763181357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1926589725189476352",
+          "start": 0,
+          "username": "sandyyyy0922"
+        },
+        {
+          "end": 24,
+          "id": "1659962043460354050",
+          "start": 14,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046918724763181357",
+    "in_reply_to_user_id": "1926589725189476352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046783420454318188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sandyyyy0922 @SalviaSWC 要是真像你说的这样对购买药物没有影响，那禁售一事也对oder购买药物没有任何影响\n然而就是有影响啊，药店的药普遍比网上贵，医院的药又普遍比药店贵（计算挂号费与时间成本）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2046433996100321663",
+        "created_at": "2026-04-22T11:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T12:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046918724763181357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1926589725189476352",
+              "start": 0,
+              "username": "sandyyyy0922"
+            },
+            {
+              "end": 24,
+              "id": "1659962043460354050",
+              "start": 14,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046918724763181357",
+        "in_reply_to_user_id": "1926589725189476352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046783420454318188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sandyyyy0922 @SalviaSWC 要是真像你说的这样对购买药物没有影响，那禁售一事也对oder购买药物没有任何影响\n然而就是有影响啊，药店的药普遍比网上贵，医院的药又普遍比药店贵（计算挂号费与时间成本）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926589725189476352",
+        "conversation_id": "2046433996100321663",
+        "created_at": "2026-04-22T02:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T03:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046783420454318188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046783420454318188",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046782902185173388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 既然是市面上买不到的处方药，说明就不是小感冒或者不严重的感冒需要的啊，如果你的严重程度已经需要用了那为什么不去看医生？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 19,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 87
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T10:42:55.000Z",
+        "description": "碎碎念+照片随机掉落+恋爱碎片｜🇨🇦｜叫我M豆或者豆就好｜Bisexual｜infp｜有主人/老公/哥哥/宝宝（同一个人）｜另一个豆@woxihuandaMdou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "woxihuandaMdou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%BB%84%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%BB%84%E8%89%B2%E5%A4%A7m%E8%B1%86",
+                "start": 0,
+                "url": "https://t.co/AcyHhjdINC"
+              }
+            ]
+          }
+        },
+        "id": "1926589725189476352",
+        "location": "Ontario, Canada",
+        "name": "黄色大M🫘",
+        "pinned_tweet_id": "2044582265523454025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926595280301875202/aWTzMjuv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1112,
+          "following_count": 370,
+          "like_count": 2650,
+          "listed_count": 1,
+          "media_count": 269,
+          "tweet_count": 2393
+        },
+        "url": "https://t.co/AcyHhjdINC",
+        "username": "sandyyyy0922",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3900,
+          "following_count": 991,
+          "like_count": 22557,
+          "listed_count": 10,
+          "media_count": 456,
+          "tweet_count": 7186
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

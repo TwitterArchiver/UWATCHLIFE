@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2071906807833121082",
+    "created_at": "2026-07-01T08:06:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T09:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072230460265271435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1830192135120850944",
+          "start": 0,
+          "username": "Ikenzakura"
+        },
+        {
+          "end": 24,
+          "id": "1781745564738281472",
+          "start": 12,
+          "username": "Stolly21_TG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072230460265271435",
+    "in_reply_to_user_id": "1830192135120850944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072219737569034378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ikenzakura @Stolly21_TG 那么想必会开设恶俗系罢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2071906807833121082",
+        "created_at": "2026-07-01T08:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T09:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072230460265271435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1830192135120850944",
+              "start": 0,
+              "username": "Ikenzakura"
+            },
+            {
+              "end": 24,
+              "id": "1781745564738281472",
+              "start": 12,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072230460265271435",
+        "in_reply_to_user_id": "1830192135120850944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072219737569034378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ikenzakura @Stolly21_TG 那么想必会开设恶俗系罢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830192135120850944",
+        "conversation_id": "2071906807833121082",
+        "created_at": "2026-07-01T07:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072219737569034378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044496192734666752",
+              "start": 0,
+              "username": "UWATCHLIFE"
+            },
+            {
+              "end": 24,
+              "id": "1781745564738281472",
+              "start": 12,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072219737569034378",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071985300952449356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UWATCHLIFE @Stolly21_TG 俄亥俄州立大学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 116,
+          "like_count": 1447,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1021
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T10:33:40.000Z",
+        "description": "喵",
+        "id": "1830192135120850944",
+        "name": "桜と彼猫と彼猫の恋🍥",
+        "pinned_tweet_id": "1864283188891406540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067169839727378432/omTfLn0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 20,
+          "like_count": 858,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 169
+        },
+        "url": "",
+        "username": "Ikenzakura",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 167,
+          "like_count": 912,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 517
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

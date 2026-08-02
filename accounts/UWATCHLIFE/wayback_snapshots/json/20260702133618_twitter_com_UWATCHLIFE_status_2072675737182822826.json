@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2072640600294473880",
+    "created_at": "2026-07-02T13:36:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T14:36:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072675737182822826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2054196065172344832",
+          "start": 0,
+          "username": "GptRainy"
+        },
+        {
+          "end": 21,
+          "id": "1556985487784493056",
+          "start": 10,
+          "username": "LokmenoWer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072675737182822826",
+    "in_reply_to_user_id": "2054196065172344832",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072664955552440499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GptRainy @LokmenoWer L"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2072640600294473880",
+        "created_at": "2026-07-02T13:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072675737182822826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054196065172344832",
+              "start": 0,
+              "username": "GptRainy"
+            },
+            {
+              "end": 21,
+              "id": "1556985487784493056",
+              "start": 10,
+              "username": "LokmenoWer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072675737182822826",
+        "in_reply_to_user_id": "2054196065172344832",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072664955552440499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GptRainy @LokmenoWer L"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054196065172344832",
+        "conversation_id": "2072640600294473880",
+        "created_at": "2026-07-02T12:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072664955552440499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1556985487784493056",
+              "start": 0,
+              "username": "LokmenoWer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072664955552440499",
+        "in_reply_to_user_id": "1556985487784493056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072664062153167217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LokmenoWer 月"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 116,
+          "like_count": 1462,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1024
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨（疯狂互fo版）",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 444,
+          "like_count": 664,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 406
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-09T12:47:33.000Z",
+        "description": "mtf 20岁\n是只大废物",
+        "id": "1556985487784493056",
+        "name": "洛洛",
+        "pinned_tweet_id": "1726214497608798601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824319614157029376/S0RfkneQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 459,
+          "like_count": 6806,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1871
+        },
+        "url": "",
+        "username": "LokmenoWer",
+        "verified": false
+      }
+    ]
+  }
+}

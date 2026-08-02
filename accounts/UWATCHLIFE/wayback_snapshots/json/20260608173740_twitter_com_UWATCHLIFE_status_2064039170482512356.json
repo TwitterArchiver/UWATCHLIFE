@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2064033642326925797",
+    "created_at": "2026-06-08T17:37:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T18:37:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064039170482512356"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064039170482512356",
+    "in_reply_to_user_id": "2044496192734666752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064037974166405543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这下还敢搞个大新闻吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2064033642326925797",
+        "created_at": "2026-06-08T17:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064039170482512356"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064039170482512356",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064037974166405543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这下还敢搞个大新闻吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2064033642326925797",
+        "created_at": "2026-06-08T17:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064037974166405543"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064037974166405543",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064037909192409588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "杜特蒂还在电视上向犯罪分子呛声：“如果我当了总统，你还是快躲起来，那个数字（指在达沃市被秘密处决的罪犯）将由一千上升到十万。我把你杀了之后，还把你丢到马尼拉湾喂鱼，鱼都会变肥。”（毛泽东并感）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 97,
+          "like_count": 1106,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 795
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      }
+    ]
+  }
+}

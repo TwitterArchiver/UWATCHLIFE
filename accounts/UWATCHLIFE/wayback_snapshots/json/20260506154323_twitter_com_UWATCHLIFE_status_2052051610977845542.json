@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2051983815795413418",
+    "created_at": "2026-05-06T15:43:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T16:43:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052051610977845542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1884546510919979008",
+          "start": 0,
+          "username": "iamThuja"
+        },
+        {
+          "end": 20,
+          "id": "1659962043460354050",
+          "start": 10,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052051610977845542",
+    "in_reply_to_user_id": "1884546510919979008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052011325023551912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iamThuja @SalviaSWC 不ao意思OD药物没有违禁品，我看比起OD反OD才事真正坏脑子的吧？恁可真事自嘲完美"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2051983815795413418",
+        "created_at": "2026-05-06T15:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052051610977845542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1884546510919979008",
+              "start": 0,
+              "username": "iamThuja"
+            },
+            {
+              "end": 20,
+              "id": "1659962043460354050",
+              "start": 10,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052051610977845542",
+        "in_reply_to_user_id": "1884546510919979008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052011325023551912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iamThuja @SalviaSWC 不ao意思OD药物没有违禁品，我看比起OD反OD才事真正坏脑子的吧？恁可真事自嘲完美"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884546510919979008",
+        "conversation_id": "2051983815795413418",
+        "created_at": "2026-05-06T13:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052011325023551912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052011325023551912",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051983815795413418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 看完了。人家指的是医用裸盖菇素，至少俩专业医护人员陪同，针对重度尼古丁依赖。\n\n只能说，OD确实是坏脑子。以为自己有爹妈看着能打120医护人员就凑齐了，自己拿点网购违禁品骂两句警察，跟着“社区经验”磕就万事大吉了。\n\n对喽就这么啃你那破药，哪有赌徒天天输，是不？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 62,
+          "like_count": 366,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 378
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T10:18:10.000Z",
+        "description": "社会保守主义最锋利的矛，粉红中最坚实的盾//一半灵珠一半魔丸，立场温和表达肮脏//@theRealThuja唯一小号，@ThujaSlover为支黑假扮号。默认一切到处瞎鉴证、追着骂的，不论立场全是孙笑川的走狗帮凶/我线下真不是大老粗//喝多了会泄露隐私⛔️激粉红激LGBT先去问AI查我成分再开火好不，乱扣帽子的蠢货",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "theRealThuja"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "ThujaSlover"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuexi.cn",
+                "end": 23,
+                "expanded_url": "http://xuexi.cn",
+                "start": 0,
+                "url": "https://t.co/Wwc59b2vAo"
+              }
+            ]
+          }
+        },
+        "id": "1884546510919979008",
+        "location": "发射桥鲁鲁工位上",
+        "name": "传奇出生乌鲁鲁（巡飞弹只飞别人浮木）",
+        "pinned_tweet_id": "2051999410415149457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025544194094489600/fqjmK1vS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 690,
+          "like_count": 5240,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 1877
+        },
+        "url": "https://t.co/Wwc59b2vAo",
+        "username": "iamThuja",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4371,
+          "following_count": 1009,
+          "like_count": 23374,
+          "listed_count": 11,
+          "media_count": 495,
+          "tweet_count": 7516
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

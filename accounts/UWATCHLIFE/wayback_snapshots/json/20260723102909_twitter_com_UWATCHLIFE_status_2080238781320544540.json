@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2080123492868186474",
+    "created_at": "2026-07-23T10:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T11:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080238781320544540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823160336691982336",
+          "start": 0,
+          "username": "Hozheganma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080238781320544540",
+    "in_reply_to_user_id": "1823160336691982336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080123492868186474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hozheganma 药物滥用进校园"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2080123476451733504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4VR-bbMAAeshz.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2080123492868186474",
+        "created_at": "2026-07-23T10:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T11:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080238781320544540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823160336691982336",
+              "start": 0,
+              "username": "Hozheganma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080238781320544540",
+        "in_reply_to_user_id": "1823160336691982336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080123492868186474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hozheganma 药物滥用进校园"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080123476451733504"
+          ]
+        },
+        "author_id": "1823160336691982336",
+        "conversation_id": "2080123492868186474",
+        "created_at": "2026-07-23T02:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080123492868186474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EvbZvVVJyU",
+              "end": 36,
+              "expanded_url": "https://x.com/Hozheganma/status/2080123492868186474/photo/1",
+              "media_key": "3_2080123476451733504",
+              "start": 13,
+              "url": "https://t.co/EvbZvVVJyU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080123492868186474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1795,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "希望小学还真是充满希望啊 https://t.co/EvbZvVVJyU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "pinned_tweet_id": "2078365186466156746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 176,
+          "like_count": 1862,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1190
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T00:51:44.000Z",
+        "description": "银叶红丝，压片与胶囊散落…/昏迷于白天，活跃于夜间/废高三牲/oder🚬/自伤/友跨/存在二象性…/同类互fo（若没及时回sorry😿）",
+        "id": "1823160336691982336",
+        "location": "Highland F-1",
+        "name": "沫依#Ng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991569214524805120/tUZ2PIpI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 424,
+          "like_count": 2158,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 721
+        },
+        "url": "",
+        "username": "Hozheganma",
+        "verified": false
+      }
+    ]
+  }
+}

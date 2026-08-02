@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2048950566450270580",
+    "created_at": "2026-04-28T03:28:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T04:28:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048967571245039895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1987496594594496512",
+          "start": 0,
+          "username": "aldn126633"
+        },
+        {
+          "end": 23,
+          "id": "2042859706142601216",
+          "start": 12,
+          "username": "TankcheOuO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048967571245039895",
+    "in_reply_to_user_id": "1987496594594496512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048966012645904456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aldn126633 @TankcheOuO 对此人的迫害将不会在此人道歉并缴清退款与货物前停止"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2048950566450270580",
+        "created_at": "2026-04-28T03:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T04:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048967571245039895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987496594594496512",
+              "start": 0,
+              "username": "aldn126633"
+            },
+            {
+              "end": 23,
+              "id": "2042859706142601216",
+              "start": 12,
+              "username": "TankcheOuO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048967571245039895",
+        "in_reply_to_user_id": "1987496594594496512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048966012645904456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aldn126633 @TankcheOuO 对此人的迫害将不会在此人道歉并缴清退款与货物前停止"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987496594594496512",
+        "conversation_id": "2048950566450270580",
+        "created_at": "2026-04-28T03:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T04:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048966012645904456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2042859706142601216",
+              "start": 0,
+              "username": "TankcheOuO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048966012645904456",
+        "in_reply_to_user_id": "2042859706142601216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048960608826163356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TankcheOuO 卧槽真的假的能不能发我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 35,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 240
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T12:25:06.000Z",
+        "description": "一键按下注销键",
+        "id": "1987496594594496512",
+        "name": "噩梦的最终场景",
+        "pinned_tweet_id": "2043346189853364636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037775897512820736/Wl9OoB4v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 23,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 252
+        },
+        "username": "aldn126633",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T06:58:14.000Z",
+        "description": "幽暗的、深邃的、家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+NGZgHLdad28xZ…",
+                "end": 23,
+                "expanded_url": "http://t.me/+NGZgHLdad28xZWJl",
+                "start": 0,
+                "url": "https://t.co/et1GI6cQ9l"
+              }
+            ]
+          }
+        },
+        "id": "2042859706142601216",
+        "name": "坦克姬🎗",
+        "pinned_tweet_id": "2042861236908626197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042860345832935425/WHafROeV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 112,
+          "like_count": 1067,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 41
+        },
+        "url": "https://t.co/et1GI6cQ9l",
+        "username": "TankcheOuO",
+        "verified": false
+      }
+    ]
+  }
+}

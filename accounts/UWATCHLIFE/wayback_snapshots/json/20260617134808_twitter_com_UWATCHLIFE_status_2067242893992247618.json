@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2067242893992247618",
+    "created_at": "2026-06-17T13:48:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T14:48:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067242893992247618"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/SalviaSWC/status/2067160316878963188",
+          "start": 18,
+          "url": "https://t.co/NgFA6YzxeF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067242893992247618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067160316878963188",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们批准的药物和心理咨询屁用没有。 https://t.co/NgFA6YzxeF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2066832179372384256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7c6qXWYAAD90K.jpg",
+        "width": 2100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2067242893992247618",
+        "created_at": "2026-06-17T13:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067242893992247618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2067160316878963188",
+              "start": 18,
+              "url": "https://t.co/NgFA6YzxeF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067242893992247618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067160316878963188",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们批准的药物和心理咨询屁用没有。 https://t.co/NgFA6YzxeF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066832179372384256"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2067160316878963188",
+        "created_at": "2026-06-17T08:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067160316878963188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D9XldDgqqB",
+              "end": 174,
+              "expanded_url": "https://x.com/SalviaSWC/status/2067160316878963188/photo/1",
+              "media_key": "3_2066832179372384256",
+              "start": 151,
+              "url": "https://t.co/D9XldDgqqB"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 198,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2066797930363924765",
+              "start": 175,
+              "url": "https://t.co/Zy9PPBvsyp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067160316878963188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 963,
+          "like_count": 22,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066797930363924765",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药物报告day36——GHB抗抑郁的报告\n\n作者的妻子患有双相情感障碍，影响日常生活，但常规的疗法收效甚微，而进口药疗效却立竿见影。作者尝试购买更多进口药，却因管制药物的政策耽误了时机。最终，作者的婚姻破裂，妻子则移居他处吸毒成瘾。\n\n由此可见，药物管制政策的后果，是得由普通人来承担的......😢 https://t.co/D9XldDgqqB https://t.co/Zy9PPBvsyp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 106,
+          "like_count": 1219,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 873
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4851,
+          "following_count": 1016,
+          "like_count": 24565,
+          "listed_count": 12,
+          "media_count": 554,
+          "tweet_count": 7913
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2060350737935409538",
+    "created_at": "2026-06-01T02:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T03:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061276983515058211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2030870585509904384",
+          "start": 0,
+          "username": "gussan93ryo"
+        },
+        {
+          "end": 21,
+          "id": "1643480388663386112",
+          "start": 13,
+          "username": "ori_nmk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061276983515058211",
+    "in_reply_to_user_id": "2030870585509904384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060608331778302370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gussan93ryo @ori_nmk 比起服用安非他命入狱或不服用安非他命而死，果然还是服用安非他命而死最好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2060350737935409538",
+        "created_at": "2026-06-01T02:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T03:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061276983515058211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2030870585509904384",
+              "start": 0,
+              "username": "gussan93ryo"
+            },
+            {
+              "end": 21,
+              "id": "1643480388663386112",
+              "start": 13,
+              "username": "ori_nmk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061276983515058211",
+        "in_reply_to_user_id": "2030870585509904384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060608331778302370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gussan93ryo @ori_nmk 比起服用安非他命入狱或不服用安非他命而死，果然还是服用安非他命而死最好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030870585509904384",
+        "conversation_id": "2060350737935409538",
+        "created_at": "2026-05-30T06:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060608331778302370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1643480388663386112",
+              "start": 0,
+              "username": "ori_nmk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060608331778302370",
+        "in_reply_to_user_id": "1643480388663386112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2388,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060350737935409538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ori_nmk 長生き＝幸福とは限らないという考えは大いに分かる。\n体力気力があるうちにポックリ逝けるなら1番良いとも思ってる。\nただ、肺がんの末期の壮絶さを見てしまったのでそうなった時に安楽死させてもらいたいものだ。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 90,
+          "like_count": 983,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 704
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T04:57:51.000Z",
+        "description": "遊びを模索\n関東圏内を探索\n\n好きな物️⭕️ メンエス タイ古式マッサージ\n\n嫌いな物❌ 金持ち自慢してる本当は金無い奴 輩 迷惑系  情報商材 モテコンサル ポリコレ フェミニスト",
+        "id": "2030870585509904384",
+        "name": "グッサン",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031271098294419456/vtGXux_j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 29,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 403
+        },
+        "username": "gussan93ryo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T05:07:24.000Z",
+        "description": "サイコパス思想",
+        "id": "1643480388663386112",
+        "name": "ケッキング山田",
+        "pinned_tweet_id": "2060632387399397753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992773066766880769/5npSnLqs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3253,
+          "following_count": 444,
+          "like_count": 26324,
+          "listed_count": 28,
+          "media_count": 1435,
+          "tweet_count": 15336
+        },
+        "username": "ori_nmk",
+        "verified": true
+      }
+    ]
+  }
+}

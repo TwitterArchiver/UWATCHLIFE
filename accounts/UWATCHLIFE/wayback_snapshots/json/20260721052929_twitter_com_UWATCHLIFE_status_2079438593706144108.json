@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2079114550562238485",
+    "created_at": "2026-07-21T05:29:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T06:29:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079438593706144108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2044236966254821377",
+          "start": 0,
+          "username": "QiuFu161"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079438593706144108",
+    "in_reply_to_user_id": "2044236966254821377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079114550562238485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiuFu161 可能事阿片类或加巴喷丁类戒断，有浑身出汗吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2079114550562238485",
+        "created_at": "2026-07-21T05:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079438593706144108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2044236966254821377",
+              "start": 0,
+              "username": "QiuFu161"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079438593706144108",
+        "in_reply_to_user_id": "2044236966254821377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079114550562238485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiuFu161 可能事阿片类或加巴喷丁类戒断，有浑身出汗吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044236966254821377",
+        "conversation_id": "2079114550562238485",
+        "created_at": "2026-07-20T08:01:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T09:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079114550562238485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079114550562238485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 226,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "莫名其妙好难受\n\n心里感觉很烦躁，浑身有蚂蚁在爬\n\n呼吸也不顺畅\n\n什么东西啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "pinned_tweet_id": "2078365186466156746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 172,
+          "like_count": 1810,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1176
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T02:11:16.000Z",
+        "description": "o不动了真的o不动了//原推号@chuyinweilai114@06auser@06auser1\n//单推全球最伟大倒车帝总加速师庆丰包子铺主席、包共中央总书记、中央包委主席习近平/爱你老习",
+        "id": "2044236966254821377",
+        "name": "yice",
+        "pinned_tweet_id": "2076555415127835052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075301904578650112/x1XfixFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 119,
+          "like_count": 503,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 192
+        },
+        "url": "",
+        "username": "QiuFu161",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2046076243737805086",
+    "created_at": "2026-04-20T07:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T08:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046123218600427741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1795719520939905024",
+          "start": 0,
+          "username": "pyridine_lemon"
+        },
+        {
+          "end": 23,
+          "id": "1959893383633358848",
+          "start": 16,
+          "username": "Cbscfe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046123218600427741",
+    "in_reply_to_user_id": "1795719520939905024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046106158294089871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyridine_lemon @Cbscfe 别去冲塔了会被晶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 490,
+        "media_key": "3_2046106155404218368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGU6tSWb0AAwVI6.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2046076243737805086",
+        "created_at": "2026-04-20T07:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T08:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046123218600427741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1795719520939905024",
+              "start": 0,
+              "username": "pyridine_lemon"
+            },
+            {
+              "end": 23,
+              "id": "1959893383633358848",
+              "start": 16,
+              "username": "Cbscfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046123218600427741",
+        "in_reply_to_user_id": "1795719520939905024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046106158294089871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyridine_lemon @Cbscfe 别去冲塔了会被晶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046106155404218368"
+          ]
+        },
+        "author_id": "1795719520939905024",
+        "conversation_id": "2046076243737805086",
+        "created_at": "2026-04-20T05:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T06:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046106158294089871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1959893383633358848",
+              "start": 0,
+              "username": "Cbscfe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1XPLCVvnHb",
+              "end": 56,
+              "expanded_url": "https://x.com/pyridine_lemon/status/2046106158294089871/photo/1",
+              "media_key": "3_2046106155404218368",
+              "start": 33,
+              "url": "https://t.co/1XPLCVvnHb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046106158294089871",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046076243737805086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cbscfe 想帮你反击，找不到是哪期视频的，先骂了她两句😌😉 https://t.co/1XPLCVvnHb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 14,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T07:31:55.000Z",
+        "description": "love every person who appreciates me\n\nmtf/mathematics-phile/Cuset's fan/\n\nwith Cuset: we are lovers and friends\n\nlove @VoidAldehyde forever...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 118,
+                "username": "VoidAldehyde"
+              }
+            ]
+          }
+        },
+        "id": "1795719520939905024",
+        "location": "CusetVoidAldehyde's heart",
+        "name": "Cuset Lemon🍥",
+        "pinned_tweet_id": "2039272076935373196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796043264979812353/whgd2biH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 37,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1021
+        },
+        "username": "pyridine_lemon",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "好了伤疤忘了疼\n---\n马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n(sync)\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 341,
+          "like_count": 19532,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3932
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      }
+    ]
+  }
+}

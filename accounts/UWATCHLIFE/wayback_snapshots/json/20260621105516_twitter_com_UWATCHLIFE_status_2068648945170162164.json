@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2068643851594760323",
+    "created_at": "2026-06-21T10:55:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T11:55:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068648945170162164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1700948552078467072",
+          "start": 0,
+          "username": "Overdose_DBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068648945170162164",
+    "in_reply_to_user_id": "1700948552078467072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068643851594760323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_DBD 不错，自嘲完美"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2068643851594760323",
+        "created_at": "2026-06-21T10:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068648945170162164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700948552078467072",
+              "start": 0,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068648945170162164",
+        "in_reply_to_user_id": "1700948552078467072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068643851594760323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_DBD 不错，自嘲完美"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700948552078467072",
+        "conversation_id": "2068643851594760323",
+        "created_at": "2026-06-21T10:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068643851594760323"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068643851594760323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真得调查阿片与满口大粪话之间的关系了\n也许什么戒断什么副作用都先放到一边，但是一堆吃阿片乃至吃pr多的人都天天大粪话停不下来。这就诡异了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 112,
+          "like_count": 1298,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 888
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "",
+        "id": "1700948552078467072",
+        "name": "☨ Dextr' Blu' Dyein' ☨",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068394962576973824/yLemHV3a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4607,
+          "following_count": 73,
+          "like_count": 3,
+          "listed_count": 10,
+          "media_count": 744,
+          "tweet_count": 7302
+        },
+        "url": "",
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

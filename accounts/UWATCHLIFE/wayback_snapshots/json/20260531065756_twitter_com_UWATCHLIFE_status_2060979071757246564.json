@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2060979071757246564",
+    "created_at": "2026-05-31T06:57:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T07:57:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060979071757246564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2048693394226974720",
+          "start": 3,
+          "username": "CCA8798suki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060979071757246564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060707866252820779",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CCA8798suki: um，BDO到了\n过两天用约50ml西柚汁兑2mlBDO+30mg奥沙西泮+20mg巴氯芬+225mgpr+500mg丙戊酸钠+额外一瓶西柚汁+10mg多潘立酮品鉴下GABA天堂2.0版本🤓👆\n以至于无法分清是哪个在起作用\n貌似高剂量BDO代谢…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2060979071757246564",
+        "created_at": "2026-05-31T06:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T07:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060979071757246564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2048693394226974720",
+              "start": 3,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060979071757246564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060707866252820779",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CCA8798suki: um，BDO到了\n过两天用约50ml西柚汁兑2mlBDO+30mg奥沙西泮+20mg巴氯芬+225mgpr+500mg丙戊酸钠+额外一瓶西柚汁+10mg多潘立酮品鉴下GABA天堂2.0版本🤓👆\n以至于无法分清是哪个在起作用\n貌似高剂量BDO代谢…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2060707866252820779",
+        "created_at": "2026-05-30T13:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060707866252820779"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060707866252820779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 512,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "um，BDO到了\n过两天用约50ml西柚汁兑2mlBDO+30mg奥沙西泮+20mg巴氯芬+225mgpr+500mg丙戊酸钠+额外一瓶西柚汁+10mg多潘立酮品鉴下GABA天堂2.0版本🤓👆\n以至于无法分清是哪个在起作用\n貌似高剂量BDO代谢后会抑制GABAB受体，而低剂量则会靶向GABAB受体增加其活性，所以2ml我想已经足够多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 91,
+          "like_count": 959,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 692
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜2026.05.05 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "http://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/0gMYiKoF6B"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限Co., Ltd",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 403,
+          "like_count": 497,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 79
+        },
+        "url": "https://t.co/0gMYiKoF6B",
+        "username": "CCA8798suki",
+        "verified": true
+      }
+    ]
+  }
+}

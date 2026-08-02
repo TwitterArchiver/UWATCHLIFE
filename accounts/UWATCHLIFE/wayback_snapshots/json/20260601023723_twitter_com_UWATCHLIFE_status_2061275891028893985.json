@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2060350737935409538",
+    "created_at": "2026-06-01T02:37:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T03:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061275891028893985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1324706694807523329",
+          "start": 0,
+          "username": "carriage0448"
+        },
+        {
+          "end": 22,
+          "id": "1643480388663386112",
+          "start": 14,
+          "username": "ori_nmk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061275891028893985",
+    "in_reply_to_user_id": "1324706694807523329",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060632361415626902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@carriage0448 @ori_nmk 说得好像不吸就不会HOTや人工呼吸器やらつけた息苦しい晩年を迎え一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2060350737935409538",
+        "created_at": "2026-06-01T02:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T03:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061275891028893985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1324706694807523329",
+              "start": 0,
+              "username": "carriage0448"
+            },
+            {
+              "end": 22,
+              "id": "1643480388663386112",
+              "start": 14,
+              "username": "ori_nmk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061275891028893985",
+        "in_reply_to_user_id": "1324706694807523329",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060632361415626902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@carriage0448 @ori_nmk 说得好像不吸就不会HOTや人工呼吸器やらつけた息苦しい晩年を迎え一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1324706694807523329",
+        "conversation_id": "2060350737935409538",
+        "created_at": "2026-05-30T08:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060632361415626902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1643480388663386112",
+              "start": 0,
+              "username": "ori_nmk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060632361415626902",
+        "in_reply_to_user_id": "1643480388663386112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 570,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060350737935409538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ori_nmk HOTや人工呼吸器やらつけた息苦しい晩年を迎えたいなら是非お吸い下さい 人気のない所で"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 90,
+          "like_count": 982,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 703
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-06T13:34:38.000Z",
+        "description": "急性リンパ性白血病経験者 猫の世話人 看護の勉強中（落第寸前） 感じたことをぼんやり喋ってるだけ プレイ中→ポケポケ codm ポケダン空",
+        "id": "1324706694807523329",
+        "name": "sushi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051278915231264768/JOwyT1rj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 400,
+          "like_count": 15838,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 3947
+        },
+        "username": "carriage0448",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T05:07:24.000Z",
+        "description": "サイコパス思想",
+        "id": "1643480388663386112",
+        "name": "ケッキング山田",
+        "pinned_tweet_id": "2060632387399397753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992773066766880769/5npSnLqs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3253,
+          "following_count": 444,
+          "like_count": 26324,
+          "listed_count": 28,
+          "media_count": 1435,
+          "tweet_count": 15336
+        },
+        "username": "ori_nmk",
+        "verified": true
+      }
+    ]
+  }
+}

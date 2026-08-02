@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2070362252046205141",
+    "created_at": "2026-06-26T04:35:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T05:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070365385623294327"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070365385623294327",
+    "in_reply_to_user_id": "2044496192734666752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070365062322069979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "——哪里可以买到SR-17018？-抱歉，我们不提供获取渠道（但S-Redemption可以提供帮助）-如果你最后找到了，在服用的时候必须极端小心和注意。没有在检测机构的鉴定下，你不可能知道你在服用的是什么。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2070362252046205141",
+        "created_at": "2026-06-26T04:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070365385623294327"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070365385623294327",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070365062322069979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "——哪里可以买到SR-17018？-抱歉，我们不提供获取渠道（但S-Redemption可以提供帮助）-如果你最后找到了，在服用的时候必须极端小心和注意。没有在检测机构的鉴定下，你不可能知道你在服用的是什么。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2070362252046205141",
+        "created_at": "2026-06-26T04:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070365062322069979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070365062322069979",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070364960681529563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "SR-17018 FAQ 翻译\n来自Reddit SR17018群组所制作的工具与文档非原创：\n免责声明：本人并非医疗专业人士，本文所提供的信息不应被视为医疗建议。在做出任何与健康或治疗相关的决定之前，请务必咨询合格的医疗保健专业人员。本文内容仅供参考，不能替代专业医疗建议。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 110,
+          "like_count": 1359,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 939
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      }
+    ]
+  }
+}

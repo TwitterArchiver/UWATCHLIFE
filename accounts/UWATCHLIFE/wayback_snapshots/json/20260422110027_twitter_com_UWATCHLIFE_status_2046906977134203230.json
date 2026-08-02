@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2046906977134203230",
+    "created_at": "2026-04-22T11:00:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T12:00:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046906977134203230"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/SalviaSWC/status/2046259222229164537",
+          "start": 43,
+          "url": "https://t.co/RbsjAPRHBr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046906977134203230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046259222229164537",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "OD对大部分人是不是利大于弊我不ao说，但禁止OD肯定弊大于利，允许OD肯定利大于弊 https://t.co/RbsjAPRHBr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2046906977134203230",
+        "created_at": "2026-04-22T11:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T12:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046906977134203230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2046259222229164537",
+              "start": 43,
+              "url": "https://t.co/RbsjAPRHBr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046906977134203230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046259222229164537",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "OD对大部分人是不是利大于弊我不ao说，但禁止OD肯定弊大于利，允许OD肯定利大于弊 https://t.co/RbsjAPRHBr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2046259222229164537",
+        "created_at": "2026-04-20T16:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046259222229164537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046259222229164537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2657,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前几天沉淀了一下，理中客地反思了自己之前的经历和所见所闻。发现对于不少人来说，OD确实是弊大于利的。🥺\n\n我本想发个推文，鼓励大家反思一下自己和药圈对于OD的态度，不过刚刚突然发生了愈美普瑞网络禁售这件事，并让我认识到，现在还不是说那种话的时候。当下，我们还是要多注重OD的积极价值阿()"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 19,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 75
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3898,
+          "following_count": 990,
+          "like_count": 22530,
+          "listed_count": 10,
+          "media_count": 456,
+          "tweet_count": 7175
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

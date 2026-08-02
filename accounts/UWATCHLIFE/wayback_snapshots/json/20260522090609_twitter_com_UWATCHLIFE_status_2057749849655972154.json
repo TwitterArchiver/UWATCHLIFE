@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2057302893116666150",
+    "created_at": "2026-05-22T09:06:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T10:06:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057749849655972154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1698345259661418499",
+          "start": 0,
+          "username": "zyj156383"
+        },
+        {
+          "end": 22,
+          "id": "2041223587873312769",
+          "start": 11,
+          "username": "duorendusk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057749849655972154",
+    "in_reply_to_user_id": "1698345259661418499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057648487504990481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyj156383 @duorendusk 是啊，没有任何司法不公，虽然oder们的行为并不违法，虽然光是程序就能给oder们带来巨大的不便与创伤，虽然这样做的条子不会受到任何惩罚，虽然oder们就算去行政复议了也一样会遭受社会关系上的损失，虽然去进行行政复议的oder甚至一般壬都是少数。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2057302893116666150",
+        "created_at": "2026-05-22T09:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057749849655972154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1698345259661418499",
+              "start": 0,
+              "username": "zyj156383"
+            },
+            {
+              "end": 22,
+              "id": "2041223587873312769",
+              "start": 11,
+              "username": "duorendusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057749849655972154",
+        "in_reply_to_user_id": "1698345259661418499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057648487504990481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyj156383 @duorendusk 是啊，没有任何司法不公，虽然oder们的行为并不违法，虽然光是程序就能给oder们带来巨大的不便与创伤，虽然这样做的条子不会受到任何惩罚，虽然oder们就算去行政复议了也一样会遭受社会关系上的损失，虽然去进行行政复议的oder甚至一般壬都是少数。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698345259661418499",
+        "conversation_id": "2057302893116666150",
+        "created_at": "2026-05-22T02:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T03:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057648487504990481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044496192734666752",
+              "start": 0,
+              "username": "UWATCHLIFE"
+            },
+            {
+              "end": 23,
+              "id": "2041223587873312769",
+              "start": 12,
+              "username": "duorendusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057648487504990481",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057619987838464055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UWATCHLIFE @duorendusk 这不能说明司法救济有问题 是普法教育的问题 你可以不去，但是不能没有去的权利 所以我们应该做的是呼吁大家积极行政复议，保障自己权利"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 81,
+          "like_count": 750,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 616
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-03T14:41:16.000Z",
+        "description": "还来得及",
+        "id": "1698345259661418499",
+        "name": "犹哒哒哒哒",
+        "pinned_tweet_id": "1943912365936062656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046267090114576385/cJbrbqk5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 363,
+          "like_count": 1026,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 97
+        },
+        "username": "zyj156383",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "你好，我是白羽      荒诞主义者 / 双向 / BPD / ADHD / 双向确诊，ADHD确诊，异性症确诊，有普瑞处方，徘徊在漂浮与坠落之间，在精神内耗里寻找平衡      \n\n日常发梗图，偶尔记录化学平衡与精神碎片",
+        "id": "2041223587873312769",
+        "name": "白羽🏳️‍⚧️🍥三代目（推友找回中，喵～互关捏",
+        "pinned_tweet_id": "2045106098928333080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 309,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 365
+        },
+        "username": "duorendusk",
+        "verified": false
+      }
+    ]
+  }
+}

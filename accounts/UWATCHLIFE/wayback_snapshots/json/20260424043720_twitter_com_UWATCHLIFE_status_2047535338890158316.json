@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2047240401095164114",
+    "created_at": "2026-04-24T04:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T05:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047535338890158316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "906829343480938496",
+          "start": 0,
+          "username": "Nevernessian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047535338890158316",
+    "in_reply_to_user_id": "906829343480938496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047240401095164114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nevernessian 多跟风，少自恨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2047240401095164114",
+        "created_at": "2026-04-24T04:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047535338890158316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "906829343480938496",
+              "start": 0,
+              "username": "Nevernessian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047535338890158316",
+        "in_reply_to_user_id": "906829343480938496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047240401095164114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nevernessian 多跟风，少自恨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "906829343480938496",
+        "conversation_id": "2047240401095164114",
+        "created_at": "2026-04-23T09:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T10:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047240401095164114"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047240401095164114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2189,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "或者换个角度说明白点，就拿“OD是社交模仿”和“OD是社会压迫的结果”来说，为什么会有人觉得这是两个矛盾的叙事呢？因性少数身份被排斥隔离→缺乏社会支持网络→寻求替代性关系→被成瘾社群的隐秘性和内部性吸引→通过社交模仿获取社群接纳。这不是一个很清晰的逻辑吗？可能还是青少年被教育“不要攀比"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 20,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 144
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-10T10:38:58.000Z",
+        "description": "穷打工的👩‍💼不善良😈所以也不怎么焦虑🤷‍♀️没有社群联系🙅‍♀️性冷淡😐相关专业出身但不会coding⌨️掌勺但不懂美食🍚前电务但不懂铁路🚆更不懂民航✈️不懂数学🔢不懂语言学🔡不懂军武🔫也不会拍照📷不懂穿搭👗裤子比裙子多👖但是mtf🤔\n@nevernessian@m.cmx.im",
+        "id": "906829343480938496",
+        "name": "魏淑淑淑芬芬芬",
+        "pinned_tweet_id": "1892401849107415113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486710720834117636/8z2GHsnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2488,
+          "following_count": 94,
+          "like_count": 5815,
+          "listed_count": 8,
+          "media_count": 877,
+          "tweet_count": 6658
+        },
+        "username": "Nevernessian",
+        "verified": false
+      }
+    ]
+  }
+}

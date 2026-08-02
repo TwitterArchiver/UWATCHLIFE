@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2075817313706938436",
+    "created_at": "2026-07-11T05:39:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T06:39:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075817313706938436"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/chat/group_j…",
+          "end": 95,
+          "expanded_url": "https://x.com/i/chat/group_join/g2075805766951555124/oyhI20x3oH",
+          "images": [
+            {
+              "height": 634,
+              "url": "https://pbs.twimg.com/news_img/2074848101349888000/G0d61OwP?format=jpg&name=orig",
+              "width": 1202
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2074848101349888000/G0d61OwP?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 72,
+          "status": 200,
+          "title": "X",
+          "unwound_url": "https://x.com/i/flow/login",
+          "url": "https://t.co/hpfuQjzcJS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075817313706938436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "圈内有先辈找到了一个低价普瑞渠道，价格大概在几毛钱一克，但需要凑够足够的数量商家才会发货，壬多力量大，各位oder们有意的话来这群看看罢，，，\nhttps://t.co/hpfuQjzcJS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2075817313706938436",
+        "created_at": "2026-07-11T05:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T06:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075817313706938436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/chat/group_j…",
+              "end": 95,
+              "expanded_url": "https://x.com/i/chat/group_join/g2075805766951555124/oyhI20x3oH",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2074848101349888000/G0d61OwP?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2074848101349888000/G0d61OwP?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 72,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://x.com/i/flow/login",
+              "url": "https://t.co/hpfuQjzcJS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075817313706938436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "圈内有先辈找到了一个低价普瑞渠道，价格大概在几毛钱一克，但需要凑够足够的数量商家才会发货，壬多力量大，各位oder们有意的话来这群看看罢，，，\nhttps://t.co/hpfuQjzcJS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 123,
+          "like_count": 1581,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1069
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      }
+    ]
+  }
+}

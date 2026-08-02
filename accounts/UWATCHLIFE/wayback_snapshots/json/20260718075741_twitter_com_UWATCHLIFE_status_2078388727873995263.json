@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2078100942818566370",
+    "created_at": "2026-07-18T07:57:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T08:57:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078388727873995263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "357539288",
+          "start": 0,
+          "username": "Surajazeem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078388727873995263",
+    "in_reply_to_user_id": "357539288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078100942818566370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Surajazeem 何意味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2078100942818566370",
+        "created_at": "2026-07-18T07:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T08:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078388727873995263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "357539288",
+              "start": 0,
+              "username": "Surajazeem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078388727873995263",
+        "in_reply_to_user_id": "357539288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078100942818566370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Surajazeem 何意味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "357539288",
+        "conversation_id": "2078100942818566370",
+        "created_at": "2026-07-17T12:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T13:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078100942818566370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078100942818566370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1637,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我靠朱雨辰给我开了我靠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "pinned_tweet_id": "2078365186466156746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 148,
+          "like_count": 1747,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1158
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-18T14:39:37.000Z",
+        "description": "我恨msk，拿了我的钱还这样我他妈的\n18.0\n辣条已过气。\n妈妈@Shivam3228\n牛马💊 @AminoXx_killer \n媳妇@Ririka12208",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 64,
+                "start": 49,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "Ririka12208"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/GEPRzkdFkj"
+              }
+            ]
+          }
+        },
+        "id": "357539288",
+        "location": "msk身后",
+        "name": "雨林18+",
+        "pinned_tweet_id": "2074845970169577745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074861255509307392/Y8tOJNW6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 226,
+          "like_count": 1148,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 685
+        },
+        "url": "https://t.co/GEPRzkdFkj",
+        "username": "Surajazeem",
+        "verified": false
+      }
+    ]
+  }
+}

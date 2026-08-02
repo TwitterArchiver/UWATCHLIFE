@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2058564396922917016",
+    "created_at": "2026-05-25T10:41:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T11:41:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058861020999983377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1714510407006851072",
+          "start": 0,
+          "username": "hhhhhhhhhh68887"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058861020999983377",
+    "in_reply_to_user_id": "1714510407006851072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058564396922917016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhhhhhhhhh68887 一切壬际关系的必然"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2058564396922917016",
+        "created_at": "2026-05-25T10:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058861020999983377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1714510407006851072",
+              "start": 0,
+              "username": "hhhhhhhhhh68887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058861020999983377",
+        "in_reply_to_user_id": "1714510407006851072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058564396922917016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhhhhhhhhh68887 一切壬际关系的必然"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714510407006851072",
+        "conversation_id": "2058564396922917016",
+        "created_at": "2026-05-24T15:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058564396922917016"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058564396922917016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 705,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于，安静了。争吵是一种将人性丑恶面发掘彻底与纯粹情绪输出的行为，不能说毫无意义，只是没有必要。\n他人对自身的攻击与名誉的损毁我可以笑着接受，而我只是厌恶着这种行为本身。或许远离才是最佳的选择罢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 86,
+          "like_count": 826,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 651
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T05:15:24.000Z",
+        "description": "希腊裔法国人、未来主义者、超现实主义诗人、残酷戏剧创造者、法兰西护国主与极速弥赛亚。\n\n放弃和弥漫的虚无作斗争吧...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/sharedfiles/fi…",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2587855526",
+                "start": 0,
+                "url": "https://t.co/M2EioLD2t1"
+              }
+            ]
+          }
+        },
+        "id": "1714510407006851072",
+        "location": "“太阳”",
+        "name": "⚡️安托南•阿尔托Antonin Artaud🇫🇷",
+        "pinned_tweet_id": "1821412705938629078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053222646314401792/TEFjqA7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1333,
+          "following_count": 845,
+          "like_count": 22574,
+          "listed_count": 2,
+          "media_count": 1009,
+          "tweet_count": 9544
+        },
+        "url": "https://t.co/M2EioLD2t1",
+        "username": "hhhhhhhhhh68887",
+        "verified": false
+      }
+    ]
+  }
+}

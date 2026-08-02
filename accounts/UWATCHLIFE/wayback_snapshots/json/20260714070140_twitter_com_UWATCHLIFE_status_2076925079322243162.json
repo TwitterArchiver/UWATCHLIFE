@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2076614376778600908",
+    "created_at": "2026-07-14T07:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T08:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076925079322243162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2007439875726028800",
+          "start": 0,
+          "username": "Hakumei_reimaku"
+        },
+        {
+          "end": 26,
+          "id": "1844296703282925568",
+          "start": 17,
+          "username": "0xJoveXu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076925079322243162",
+    "in_reply_to_user_id": "2007439875726028800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076909496400806316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hakumei_reimaku @0xJoveXu 倒也不完全事这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2076614376778600908",
+        "created_at": "2026-07-14T07:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T08:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076925079322243162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2007439875726028800",
+              "start": 0,
+              "username": "Hakumei_reimaku"
+            },
+            {
+              "end": 26,
+              "id": "1844296703282925568",
+              "start": 17,
+              "username": "0xJoveXu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076925079322243162",
+        "in_reply_to_user_id": "2007439875726028800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076909496400806316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hakumei_reimaku @0xJoveXu 倒也不完全事这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007439875726028800",
+        "conversation_id": "2076614376778600908",
+        "created_at": "2026-07-14T05:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T06:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076909496400806316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1844296703282925568",
+              "start": 0,
+              "username": "0xJoveXu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076909496400806316",
+        "in_reply_to_user_id": "1844296703282925568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 547,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076614376778600908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xJoveXu 一眼编，吗啡只有在有没有疼痛的情况下才会有欣快感，我自己紫餐完很痛用了强力枇杷露也只是缓解疼痛没有trip"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 135,
+          "like_count": 1635,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1119
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T13:12:30.000Z",
+        "description": "出生日期09.30.2012/顺男友跨/🇬🇧English/🇭🇰粤语一点点/🇯🇵日语OK/坐标深圳偶尔香港 /overdose/不割手/轻焦/ADHD/舞萌DX14208/phigros 12.15/东方/贝斯手/vibe coding学习中/药理学也懂一点/逃生舱@hakumeireimaku_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 133,
+                "username": "hakumeireimaku_"
+              }
+            ]
+          }
+        },
+        "id": "2007439875726028800",
+        "location": "幻想乡",
+        "name": "博丽灵梦💊🍕",
+        "pinned_tweet_id": "2076907601447838175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853671457886208/RcGIFvmL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 370,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 352
+        },
+        "url": "",
+        "username": "Hakumei_reimaku",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T08:39:40.000Z",
+        "description": "推创作者\n联系方式：｜WeChat ID：JoveXuG｜https://t.co/FZJIW2uXIU\n社群频道：https://t.co/2O8fCj93XH\n工具推荐｜空投获取｜个人成长｜价值投资",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/JoveXu",
+                "end": 52,
+                "expanded_url": "http://t.me/JoveXu",
+                "start": 29,
+                "url": "https://t.co/FZJIW2uXIU"
+              },
+              {
+                "display_url": "t.me/jovepindao",
+                "end": 81,
+                "expanded_url": "http://t.me/jovepindao",
+                "start": 58,
+                "url": "https://t.co/2O8fCj93XH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jove.sh",
+                "end": 23,
+                "expanded_url": "http://jove.sh",
+                "start": 0,
+                "url": "https://t.co/SITILsBNd7"
+              }
+            ]
+          }
+        },
+        "id": "1844296703282925568",
+        "location": "不含任何投资建议，DYOR！",
+        "name": "Jove",
+        "pinned_tweet_id": "2071820894968922493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068489799300993024/RBrPI1BV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27755,
+          "following_count": 7796,
+          "like_count": 41839,
+          "listed_count": 79,
+          "media_count": 1467,
+          "tweet_count": 38744
+        },
+        "url": "https://t.co/SITILsBNd7",
+        "username": "0xJoveXu",
+        "verified": true
+      }
+    ]
+  }
+}

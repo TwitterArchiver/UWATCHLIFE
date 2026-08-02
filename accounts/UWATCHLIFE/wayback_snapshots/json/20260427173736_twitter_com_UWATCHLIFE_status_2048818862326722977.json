@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2048777606590607376",
+    "created_at": "2026-04-27T17:37:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T18:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048818862326722977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1986453582716280834",
+          "start": 0,
+          "username": "darawkko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048818862326722977",
+    "in_reply_to_user_id": "1986453582716280834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048777606590607376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@darawkko 宝宝国国军军"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2048777606590607376",
+        "created_at": "2026-04-27T17:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T18:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048818862326722977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1986453582716280834",
+              "start": 0,
+              "username": "darawkko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048818862326722977",
+        "in_reply_to_user_id": "1986453582716280834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048777606590607376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@darawkko 宝宝国国军军"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986453582716280834",
+        "conversation_id": "2048777606590607376",
+        "created_at": "2026-04-27T14:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048777606590607376"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048777606590607376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "快讯：宝宝国陷入前所未有的国难，民怨和外部战争让中央政府无力管辖，宝贝国趁此机会占领了大半个宝宝国，民心所向的是外部势力天降的救赎，而宝宝国国军兵败如山倒……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 35,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 232
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T15:20:37.000Z",
+        "description": "電波発生器 ˙˚ʚ( ´ᵕ`⸝⸝⸝ )ɞ˚˙//超现实的碎碎念日记本♪( ´▽｀)//最爱的宝宝@La_reflexion000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 48,
+                "username": "La_reflexion000"
+              }
+            ]
+          }
+        },
+        "id": "1986453582716280834",
+        "location": "☕️",
+        "name": "✞soizepam✞",
+        "pinned_tweet_id": "1995129414762291412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039207446657556480/qTyefXPL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 360,
+          "like_count": 10896,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 5670
+        },
+        "username": "darawkko",
+        "verified": false
+      }
+    ]
+  }
+}

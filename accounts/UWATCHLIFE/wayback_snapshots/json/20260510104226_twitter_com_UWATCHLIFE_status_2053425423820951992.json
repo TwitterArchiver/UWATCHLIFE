@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2053389578145288448",
+    "created_at": "2026-05-10T10:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T11:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053425423820951992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1659962043460354050",
+          "start": 0,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053425423820951992",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053389578145288448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SalviaSWC 这次居然不事在r/drug，，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4052,
+        "media_key": "3_2053353312070643716",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH759UxXsAQqtSu.png",
+        "width": 1054
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2053389578145288448",
+        "created_at": "2026-05-10T10:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T11:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053425423820951992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053425423820951992",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053389578145288448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 这次居然不事在r/drug，，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053353312070643716"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2053389578145288448",
+        "created_at": "2026-05-10T08:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053389578145288448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。",
+              "display_url": "freeodwiki.org/%E6%8A%A5%E5%9…",
+              "end": 158,
+              "expanded_url": "https://freeodwiki.org/%E6%8A%A5%E5%91%8A/reddit/best_alternative_alcohols_for_a_night_out_asian.html",
+              "images": [
+                {
+                  "height": 90,
+                  "url": "https://pbs.twimg.com/news_img/2053389628338479108/dDHRPef7?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 90,
+                  "url": "https://pbs.twimg.com/news_img/2053389628338479108/dDHRPef7?format=png&name=150x150",
+                  "width": 90
+                }
+              ],
+              "start": 135,
+              "status": 200,
+              "title": "夜里出去玩时最适合亚洲红脸体质的酒精替代品——普瑞巴林, 菲尼布特, GHB&2M2B - FreeODwiki——可自由编辑的开源Overdose百科",
+              "unwound_url": "https://freeodwiki.org/%E6%8A%A5%E5%91%8A/reddit/best_alternative_alcohols_for_a_night_out_asian.html",
+              "url": "https://t.co/RqQMaKuM8p"
+            },
+            {
+              "display_url": "pic.x.com/KwFeb73FYS",
+              "end": 182,
+              "expanded_url": "https://x.com/SalviaSWC/status/2053389578145288448/photo/1",
+              "media_key": "3_2053353312070643716",
+              "start": 159,
+              "url": "https://t.co/KwFeb73FYS"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 206,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2053027190263144926",
+              "start": 183,
+              "url": "https://t.co/hqrbv5T9hk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053389578145288448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1045,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053027190263144926",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药物报告day22——有哪些酒精的替代品？\n\n贴主为了防止酒精代谢产生乙醛导致“亚洲人脸红”，在Reddit上征求几种酒精的替代品。得到的答案包括1,4-丁二醇、2M2B、GHB、普瑞巴林和菲尼布特。\n\n有推友试过的嘛👀大家认为pr80和酒精的药效相似嘛\n\n文字版链接：https://t.co/RqQMaKuM8p https://t.co/KwFeb73FYS https://t.co/hqrbv5T9hk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 70,
+          "like_count": 443,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 437
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4434,
+          "following_count": 1009,
+          "like_count": 23541,
+          "listed_count": 11,
+          "media_count": 509,
+          "tweet_count": 7579
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2066591606489432454",
+    "created_at": "2026-06-17T17:08:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T18:08:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067293221785633134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2051911190108860424",
+          "start": 0,
+          "username": "_ReinforceZwei_"
+        },
+        {
+          "end": 27,
+          "id": "1659962043460354050",
+          "start": 17,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067293221785633134",
+    "in_reply_to_user_id": "2051911190108860424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066591606489432454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ReinforceZwei_ @SalviaSWC 抽一下"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "出自b站蛞蝓仔仔\n劣人真可爱吧————\n看到的可以私信来陪我爬塔(什么)(杀戮尖塔2很好玩)",
+        "height": 1626,
+        "media_key": "3_2066591603398156288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK4CHTBaIAAy4Ss.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2066591606489432454",
+        "created_at": "2026-06-17T17:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067293221785633134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2051911190108860424",
+              "start": 0,
+              "username": "_ReinforceZwei_"
+            },
+            {
+              "end": 27,
+              "id": "1659962043460354050",
+              "start": 17,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067293221785633134",
+        "in_reply_to_user_id": "2051911190108860424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066591606489432454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ReinforceZwei_ @SalviaSWC 抽一下"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066591603398156288"
+          ]
+        },
+        "author_id": "2051911190108860424",
+        "conversation_id": "2066591606489432454",
+        "created_at": "2026-06-15T18:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T19:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066591606489432454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R6NwYr8Ipi",
+              "end": 102,
+              "expanded_url": "https://x.com/_ReinforceZwei_/status/2066591606489432454/photo/1",
+              "media_key": "3_2066591603398156288",
+              "start": 79,
+              "url": "https://t.co/R6NwYr8Ipi"
+            },
+            {
+              "display_url": "x.com/_ReinforceZwei…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/_ReinforceZwei_/status/2066589879656677750",
+              "start": 103,
+              "url": "https://t.co/OE4b25uUeV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066591606489432454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066589879656677750",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "oo但是我又懒得回去吃解离剂了..不对难道还是得回到解离剂吗\n停止解离stop——\n解离剂也有好久的CD哎\n好想抽鼠尾草 这个是越抽耐受越低的(大概是假的) https://t.co/R6NwYr8Ipi https://t.co/OE4b25uUeV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 106,
+          "like_count": 1224,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 875
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T06:26:26.000Z",
+        "description": "祈りは未来へと　つないで\n温もりを　安らぎを　守れるよ",
+        "id": "2051911190108860424",
+        "location": "夜天の書",
+        "name": "Reinforce Zwei",
+        "pinned_tweet_id": "2063261513218224497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053513930576986112/UkiRKRuL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 62,
+          "like_count": 404,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "_ReinforceZwei_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4850,
+          "following_count": 1015,
+          "like_count": 24574,
+          "listed_count": 12,
+          "media_count": 554,
+          "tweet_count": 7915
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

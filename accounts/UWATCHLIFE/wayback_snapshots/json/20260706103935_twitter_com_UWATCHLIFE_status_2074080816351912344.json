@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2073405504412643575",
+    "created_at": "2026-07-06T10:39:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T11:39:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074080816351912344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1563472414498885633",
+          "start": 0,
+          "username": "Pp88i"
+        },
+        {
+          "end": 23,
+          "id": "1825021494805581824",
+          "start": 7,
+          "username": "lumuyuanMadoka2"
+        },
+        {
+          "end": 34,
+          "id": "1426015810472972298",
+          "start": 24,
+          "username": "CyronANNO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074080816351912344",
+    "in_reply_to_user_id": "1563472414498885633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073624953199755478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pp88i @lumuyuanMadoka2 @CyronANNO OD不事犯罪，谢绝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2073405504412643575",
+        "created_at": "2026-07-06T10:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T11:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074080816351912344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1563472414498885633",
+              "start": 0,
+              "username": "Pp88i"
+            },
+            {
+              "end": 23,
+              "id": "1825021494805581824",
+              "start": 7,
+              "username": "lumuyuanMadoka2"
+            },
+            {
+              "end": 34,
+              "id": "1426015810472972298",
+              "start": 24,
+              "username": "CyronANNO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074080816351912344",
+        "in_reply_to_user_id": "1563472414498885633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073624953199755478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pp88i @lumuyuanMadoka2 @CyronANNO OD不事犯罪，谢绝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563472414498885633",
+        "conversation_id": "2073405504412643575",
+        "created_at": "2026-07-05T04:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073624953199755478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1825021494805581824",
+              "start": 0,
+              "username": "lumuyuanMadoka2"
+            },
+            {
+              "end": 27,
+              "id": "1426015810472972298",
+              "start": 17,
+              "username": "CyronANNO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073624953199755478",
+        "in_reply_to_user_id": "1825021494805581824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073482349808119855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumuyuanMadoka2 @CyronANNO 传授犯罪方法罪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 116,
+          "like_count": 1505,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1044
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-27T10:24:22.000Z",
+        "description": "めっちゃDDドルヲタ/怒涛いいね/愚痴・☠️吐きあり/俺永远喜欢小奶油/ぶ⭕️び伏字界隈で一部関連も推し/やばきゅーぶがやばい/アイメリで恋羽しお🩷・優木萌々花🩵推し（同じぐらい好き）/🚾ゆいゆい",
+        "id": "1563472414498885633",
+        "location": "Clayton, VIC 3168",
+        "name": "みんなキャラメルプリンにしてあげる🦈",
+        "pinned_tweet_id": "2031190300916593063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810656810267033600/Elh7gYbu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 1203,
+          "like_count": 110581,
+          "listed_count": 2,
+          "media_count": 349,
+          "tweet_count": 5440
+        },
+        "url": "",
+        "username": "Pp88i",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T04:06:54.000Z",
+        "description": "高一丨百合豚丨🏳️‍🌈Les(泛)，MtF~X，HRT26.4.24丨日本語を学ぶ丨in PRC，☭，爱华反修反cpc，通常不键政和对线。改名前为【鹿目圆○】             详细介绍请访问:\nhttps://t.co/eOvYAa6rHN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "m.otter.homes/@akizakura",
+                "end": 124,
+                "expanded_url": "https://m.otter.homes/@akizakura",
+                "start": 101,
+                "url": "https://t.co/eOvYAa6rHN"
+              }
+            ]
+          }
+        },
+        "id": "1825021494805581824",
+        "location": "圆环之理 ",
+        "name": "秋桜_akizakura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883225741275303936/hrHUZHOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 591,
+          "like_count": 21386,
+          "listed_count": 11,
+          "media_count": 470,
+          "tweet_count": 6756
+        },
+        "url": "",
+        "username": "lumuyuanMadoka2",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-13T03:00:52.000Z",
+        "description": "雑多 | 撮影 | ナチョ､フブキ推し | ガジェット | 音ゲー | チュウマイ | バンドリ | \nDM⇒フォロバ | サブ @cyron_anno",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 65,
+                "username": "cyron_anno"
+              }
+            ]
+          }
+        },
+        "id": "1426015810472972298",
+        "location": "Soochow ",
+        "name": "￴ ￴アノ￴￴ ￴￴ ￴￴ ￴￴︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061700160309325824/pubnTMXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2587,
+          "following_count": 913,
+          "like_count": 209377,
+          "listed_count": 0,
+          "media_count": 5511,
+          "tweet_count": 22524
+        },
+        "url": "",
+        "username": "CyronANNO",
+        "verified": true
+      }
+    ]
+  }
+}

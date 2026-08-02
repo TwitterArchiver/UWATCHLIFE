@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2049110680343904718",
+    "created_at": "2026-04-28T13:11:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T14:11:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049114339567862185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1878091007453286400",
+          "start": 0,
+          "username": "EoivLanY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049114339567862185",
+    "in_reply_to_user_id": "1878091007453286400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049110680343904718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EoivLanY 那不敢来找你的呢？你就不退了？\n听说你买了好几个价值上千的游戏账号，请问目前库存多少普瑞巴林？\n如果恁确实没有普瑞巴林，那就道歉，请"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2049110680343904718",
+        "created_at": "2026-04-28T13:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049114339567862185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1878091007453286400",
+              "start": 0,
+              "username": "EoivLanY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049114339567862185",
+        "in_reply_to_user_id": "1878091007453286400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049110680343904718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EoivLanY 那不敢来找你的呢？你就不退了？\n听说你买了好几个价值上千的游戏账号，请问目前库存多少普瑞巴林？\n如果恁确实没有普瑞巴林，那就道歉，请"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878091007453286400",
+        "conversation_id": "2049110680343904718",
+        "created_at": "2026-04-28T12:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T13:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049110680343904718"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049110680343904718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "所有人\n我会逐一退款 但现在目前金额不够\n麻烦大家稍稍等待吧 骚扰我就行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 43,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 252
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T14:46:17.000Z",
+        "description": "所有药物退回 所有RMB正在统计 \n那我请问 我亏损的谁给我补？ 嗯？",
+        "id": "1878091007453286400",
+        "location": "有你爱我的地方",
+        "name": "泪滴滴滴",
+        "pinned_tweet_id": "2048958912800653717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046512778790510592/HXLV5oxs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 88,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 36
+        },
+        "username": "EoivLanY",
+        "verified": false
+      }
+    ]
+  }
+}

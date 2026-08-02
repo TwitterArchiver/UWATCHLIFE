@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2048774966624280684",
+    "created_at": "2026-04-27T18:10:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T19:10:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048827258295685318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1885641757469380608",
+          "start": 0,
+          "username": "nishuodeduiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048827258295685318",
+    "in_reply_to_user_id": "1885641757469380608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048774966624280684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nishuodeduiiii 你严肃，我完完全全潮酷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2048774966624280684",
+        "created_at": "2026-04-27T18:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T19:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048827258295685318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1885641757469380608",
+              "start": 0,
+              "username": "nishuodeduiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048827258295685318",
+        "in_reply_to_user_id": "1885641757469380608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048774966624280684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nishuodeduiiii 你严肃，我完完全全潮酷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885641757469380608",
+        "conversation_id": "2048774966624280684",
+        "created_at": "2026-04-27T14:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048774966624280684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aim20371231/st…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/aim20371231/status/2048732542724198509",
+              "start": 62,
+              "url": "https://t.co/617QetqHBF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048774966624280684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 543,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048732542724198509",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个选举本来就是个笑话 尤其是左人我真的希望别自己去趟政治娱乐化的浑水 你自己都把这当游戏娱乐了我对你的思想也要打一个问号 https://t.co/617QetqHBF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 35,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 234
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T10:50:09.000Z",
+        "description": "细腻的人 唯独没有看见自己的珍贵\n\n欢迎互fo 看到是活跃账号就会回fo 没回就是限速或者没看见\n\nMarxist 卢森堡主义者 我不是粉红 请查清楚成分",
+        "id": "1885641757469380608",
+        "location": "雨一直下",
+        "name": "你说得对",
+        "pinned_tweet_id": "2026997670326468936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047339968226566145/xd3udJGu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 269,
+          "like_count": 873,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 2354
+        },
+        "username": "nishuodeduiiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2059217469072617866",
+    "created_at": "2026-05-26T14:21:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059278768280404395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1841527273385840640",
+          "start": 0,
+          "username": "kansya123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059278768280404395",
+    "in_reply_to_user_id": "1841527273385840640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059217469072617866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kansya123 新在哪？\n小心戒断，如果频繁使用，需要减量戒以防阿片类戒断反应，此药与加巴喷丁类与苯二氮卓类联用会导致呼吸抑制"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_2059217461535502336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPPXv4a8AAMmma.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2059217469072617866",
+        "created_at": "2026-05-26T14:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059278768280404395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1841527273385840640",
+              "start": 0,
+              "username": "kansya123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059278768280404395",
+        "in_reply_to_user_id": "1841527273385840640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059217469072617866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kansya123 新在哪？\n小心戒断，如果频繁使用，需要减量戒以防阿片类戒断反应，此药与加巴喷丁类与苯二氮卓类联用会导致呼吸抑制"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059217461535502336"
+          ]
+        },
+        "author_id": "1841527273385840640",
+        "conversation_id": "2059217469072617866",
+        "created_at": "2026-05-26T10:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059217469072617866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XI0focNw75",
+              "end": 40,
+              "expanded_url": "https://x.com/kansya123/status/2059217469072617866/photo/1",
+              "media_key": "3_2059217461535502336",
+              "start": 17,
+              "url": "https://t.co/XI0focNw75"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059217469072617866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 346,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "o圈新药噻奈普汀200mg 测试 https://t.co/XI0focNw75"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 89,
+          "like_count": 851,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 657
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T17:15:06.000Z",
+        "description": "普通的学生 overdose 中国语 日本語",
+        "id": "1841527273385840640",
+        "name": "utu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973336055777722368/e4eWFUFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 36,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 266
+        },
+        "username": "kansya123",
+        "verified": false
+      }
+    ]
+  }
+}

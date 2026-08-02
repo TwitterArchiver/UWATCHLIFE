@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2069447886535111134",
+    "created_at": "2026-06-24T02:42:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T03:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069612135660065178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1624393872037265413",
+          "start": 0,
+          "username": "K3ss1c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069612135660065178",
+    "in_reply_to_user_id": "1624393872037265413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069447886535111134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K3ss1c 螈料革命要打到完全胜利为止"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1075,
+        "media_key": "3_2069447883565510657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgn4r0bMAE84K3.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2069447886535111134",
+        "created_at": "2026-06-24T02:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069612135660065178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1624393872037265413",
+              "start": 0,
+              "username": "K3ss1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069612135660065178",
+        "in_reply_to_user_id": "1624393872037265413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069447886535111134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K3ss1c 螈料革命要打到完全胜利为止"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069447883565510657"
+          ]
+        },
+        "author_id": "1624393872037265413",
+        "conversation_id": "2069447886535111134",
+        "created_at": "2026-06-23T15:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069447886535111134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TK55jbXrKV",
+              "end": 37,
+              "expanded_url": "https://x.com/K3ss1c/status/2069447886535111134/photo/1",
+              "media_key": "3_2069447883565510657",
+              "start": 14,
+              "url": "https://t.co/TK55jbXrKV"
+            },
+            {
+              "display_url": "x.com/ShiroSkura/sta…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/ShiroSkura/status/2069353888528867735",
+              "start": 38,
+              "url": "https://t.co/6HLpiQ49sT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069447886535111134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069353888528867735",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不自己买难道被药商薅羊毛吗 https://t.co/TK55jbXrKV https://t.co/6HLpiQ49sT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 112,
+          "like_count": 1336,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 911
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T13:04:23.000Z",
+        "description": "17年吉吉国入葬，溜冰/抬杠，有素质，我们的直播脚本，尊尼获嘉爱好者，滚木党，不是道栗党。",
+        "id": "1624393872037265413",
+        "name": "东半球酒水研究部及ssri药物试验者",
+        "pinned_tweet_id": "2061192161622958335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061213364785942529/Vq3wxXGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 862,
+          "like_count": 13126,
+          "listed_count": 3,
+          "media_count": 2751,
+          "tweet_count": 18077
+        },
+        "url": "",
+        "username": "K3ss1c",
+        "verified": false
+      }
+    ]
+  }
+}

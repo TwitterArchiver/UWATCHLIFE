@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2048403019835064629",
+    "created_at": "2026-04-26T23:57:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T00:57:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048552201115865481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2043994337126563840",
+          "start": 0,
+          "username": "Lomyral8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048552201115865481",
+    "in_reply_to_user_id": "2043994337126563840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048403019835064629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral8964 点，都可以点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2048403019835064629",
+        "created_at": "2026-04-26T23:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T00:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048552201115865481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2043994337126563840",
+              "start": 0,
+              "username": "Lomyral8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048552201115865481",
+        "in_reply_to_user_id": "2043994337126563840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048403019835064629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral8964 点，都可以点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043994337126563840",
+        "conversation_id": "2048403019835064629",
+        "created_at": "2026-04-26T14:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048403019835064629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lomyral8964/st…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/Lomyral8964/status/2048401951143190571",
+              "start": 129,
+              "url": "https://t.co/TC5BZucouM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048403019835064629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1129,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048401951143190571",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的肺炎史丰富到什么程度呢？就是说我基本上没上幼儿园也没上一年级，因为我一直在肺炎高烧住院，儿童医院的医生和护士都认识我了。可能是烙下病根了，从初中开始我就剧烈干咳至今。那么一大叠病历拿出来，别说右美沙芬了，我感觉我就是去点菜单方磷酸可待因也不会被怀疑的呀 https://t.co/TC5BZucouM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 28,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 216
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T10:06:53.000Z",
+        "description": "大号@Lomyral。enby，he/they。依然不吸毒不卖东西。网页版操作困难所以回复会比较慢TT\n\n互关寻回中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "Lomyral"
+              }
+            ]
+          }
+        },
+        "id": "2043994337126563840",
+        "name": "Larymol",
+        "pinned_tweet_id": "2046873757164438002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043994610247368704/9oRpXu3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 197,
+          "like_count": 806,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 228
+        },
+        "username": "Lomyral8964",
+        "verified": false
+      }
+    ]
+  }
+}

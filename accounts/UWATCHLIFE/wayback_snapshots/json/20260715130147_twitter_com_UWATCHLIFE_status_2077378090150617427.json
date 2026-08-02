@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2076614376778600908",
+    "created_at": "2026-07-15T13:01:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T14:01:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077378090150617427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1520539198939631616",
+          "start": 0,
+          "username": "XVTNjTbGTKHYNRr"
+        },
+        {
+          "end": 30,
+          "id": "1620045874180259840",
+          "start": 17,
+          "username": "afiq22845893"
+        },
+        {
+          "end": 40,
+          "id": "1844296703282925568",
+          "start": 31,
+          "username": "0xJoveXu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077378090150617427",
+    "in_reply_to_user_id": "1520539198939631616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077299850551705629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XVTNjTbGTKHYNRr @afiq22845893 @0xJoveXu 这就事所谓临终关怀，但我并不事在讨论这个，而事再说健康壬士也该至少试一次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2076614376778600908",
+        "created_at": "2026-07-15T13:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T14:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077378090150617427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1520539198939631616",
+              "start": 0,
+              "username": "XVTNjTbGTKHYNRr"
+            },
+            {
+              "end": 30,
+              "id": "1620045874180259840",
+              "start": 17,
+              "username": "afiq22845893"
+            },
+            {
+              "end": 40,
+              "id": "1844296703282925568",
+              "start": 31,
+              "username": "0xJoveXu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077378090150617427",
+        "in_reply_to_user_id": "1520539198939631616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077299850551705629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XVTNjTbGTKHYNRr @afiq22845893 @0xJoveXu 这就事所谓临终关怀，但我并不事在讨论这个，而事再说健康壬士也该至少试一次"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520539198939631616",
+        "conversation_id": "2076614376778600908",
+        "created_at": "2026-07-15T07:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077299850551705629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044496192734666752",
+              "start": 0,
+              "username": "UWATCHLIFE"
+            },
+            {
+              "end": 25,
+              "id": "1620045874180259840",
+              "start": 12,
+              "username": "afiq22845893"
+            },
+            {
+              "end": 35,
+              "id": "1844296703282925568",
+              "start": 26,
+              "username": "0xJoveXu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077299850551705629",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077270152035606533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UWATCHLIFE @afiq22845893 @0xJoveXu 会给你的，某些发达国家的医疗系统在确认病人的病情进入最后阶段，现有医疗手段已经束手无策之后，会允许病人自主使用管制类药品，这样不仅能节省医疗支出还可以提升病人的生存质量。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 140,
+          "like_count": 1676,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1138
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-30T23:03:09.000Z",
+        "description": "安価で七割以上の予測精度を実現したい",
+        "id": "1520539198939631616",
+        "location": "東京",
+        "name": "たまおじさん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030633021926490112/cGPJuCYJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 8,
+          "like_count": 1045,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "XVTNjTbGTKHYNRr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-30T13:07:07.000Z",
+        "description": "前数字货币集团CEO（交易所、基金、量化、媒体），正在重新学习币圈。\n每日1个币圈名词｜专业解读 + 通俗白话。\n记录学习笔记、踩坑复盘 + 圈外视角看圈内。\n偶尔分享BTC/ETH真实分析。欢迎一起学，一起成长。",
+        "id": "1620045874180259840",
+        "location": "香港",
+        "name": "michaei王",
+        "pinned_tweet_id": "2072920098546037187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059620402171899904/8c9daLPt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5916,
+          "following_count": 6673,
+          "like_count": 15163,
+          "listed_count": 4,
+          "media_count": 295,
+          "tweet_count": 8149
+        },
+        "url": "",
+        "username": "afiq22845893",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-10T08:39:40.000Z",
+        "description": "推创作者\n联系方式：｜WeChat ID：JoveXuG｜https://t.co/FZJIW2uXIU\n社群频道：https://t.co/2O8fCj93XH\n工具推荐｜空投获取｜个人成长｜价值投资",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/JoveXu",
+                "end": 52,
+                "expanded_url": "http://t.me/JoveXu",
+                "start": 29,
+                "url": "https://t.co/FZJIW2uXIU"
+              },
+              {
+                "display_url": "t.me/jovepindao",
+                "end": 81,
+                "expanded_url": "http://t.me/jovepindao",
+                "start": 58,
+                "url": "https://t.co/2O8fCj93XH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jove.sh",
+                "end": 23,
+                "expanded_url": "http://jove.sh",
+                "start": 0,
+                "url": "https://t.co/SITILsBNd7"
+              }
+            ]
+          }
+        },
+        "id": "1844296703282925568",
+        "location": "不含任何投资建议，DYOR！",
+        "name": "Jove｜蓝 V 代开见置顶",
+        "pinned_tweet_id": "2071820894968922493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068489799300993024/RBrPI1BV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28195,
+          "following_count": 7812,
+          "like_count": 42004,
+          "listed_count": 81,
+          "media_count": 1513,
+          "tweet_count": 38977
+        },
+        "url": "https://t.co/SITILsBNd7",
+        "username": "0xJoveXu",
+        "verified": true
+      }
+    ]
+  }
+}

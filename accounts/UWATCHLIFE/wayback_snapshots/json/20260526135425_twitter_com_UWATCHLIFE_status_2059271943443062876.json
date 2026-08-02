@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2059213107130724545",
+    "created_at": "2026-05-26T13:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T14:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059271943443062876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1608781688775245825",
+          "start": 0,
+          "username": "MisakaLycoris"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059271943443062876",
+    "in_reply_to_user_id": "1608781688775245825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059213107130724545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MisakaLycoris 都没有关系，因为在下地狱之前，就已经登上人造的天堂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 963,
+        "media_key": "3_2059213095357308928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPLZmma4AA3nfw.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2059213107130724545",
+        "created_at": "2026-05-26T13:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059271943443062876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1608781688775245825",
+              "start": 0,
+              "username": "MisakaLycoris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059271943443062876",
+        "in_reply_to_user_id": "1608781688775245825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059213107130724545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MisakaLycoris 都没有关系，因为在下地狱之前，就已经登上人造的天堂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059213095357308928"
+          ]
+        },
+        "author_id": "1608781688775245825",
+        "conversation_id": "2059213107130724545",
+        "created_at": "2026-05-26T10:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059213107130724545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gbx1oPYb8Q",
+              "end": 161,
+              "expanded_url": "https://x.com/MisakaLycoris/status/2059213107130724545/photo/1",
+              "media_key": "3_2059213095357308928",
+              "start": 138,
+              "url": "https://t.co/Gbx1oPYb8Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059213107130724545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "尤文肉瘤和扩张性心肌病是一种很严重的疾病\n获取该诊断的目的是保存到数据库中，\n为拥有者授予阿片类物质的赦免权\n如果你正试图将我和坊洛小姐的病移植到自己的病历上，\n请停止，这是法律所禁止的欺诈行为。\n\n这里有一首写给您的诗：\n萌蒂制药生产的“康定”缓释系统和阿片类药物非常出色\n我们（患者）投入了大量的时间和金钱以确保自己不会被毒死\n如果你为了嗑药复制我们的诊断，那么你是一个坏人\n你将会下地狱，那里非常炎热\n并且坊洛的亡灵将会等待着你\n骨质破坏将使你痛不欲生\n并且，这里可没有奥斯康定"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尤文肉瘤和扩张性心肌病是一种很严重的疾病\n获取该诊断的目的是保存到数据库中，\n为拥有者授予阿片类物质的赦免权\n如果你正试图将我和坊洛小姐的病移植到自己的病历上，\n请停止，这是法律所禁止的欺诈行为。\n\n这里有一首写给您的诗：\n萌蒂制药生产的“康定”缓释系统和阿片类药物非常出色 https://t.co/Gbx1oPYb8Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 89,
+          "like_count": 850,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 656
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T11:07:57.000Z",
+        "description": "Linguistics, Tulpa Studies “为所有构建者致以最崇高的敬意”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tulpa.cn",
+                "end": 23,
+                "expanded_url": "https://tulpa.cn/",
+                "start": 0,
+                "url": "https://t.co/Y2RsCWDFE0"
+              }
+            ]
+          }
+        },
+        "id": "1608781688775245825",
+        "name": "Lycoris",
+        "pinned_tweet_id": "2059212115572052025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052239420489691141/ETMwa2ne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1746,
+          "following_count": 571,
+          "like_count": 3227,
+          "listed_count": 8,
+          "media_count": 2,
+          "tweet_count": 21
+        },
+        "url": "https://t.co/Y2RsCWDFE0",
+        "username": "MisakaLycoris",
+        "verified": true
+      }
+    ]
+  }
+}

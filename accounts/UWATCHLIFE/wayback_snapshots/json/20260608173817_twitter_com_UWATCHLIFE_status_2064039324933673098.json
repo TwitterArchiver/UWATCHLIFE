@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2064033642326925797",
+    "created_at": "2026-06-08T17:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T18:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064039324933673098"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064039324933673098",
+    "in_reply_to_user_id": "2044496192734666752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064039092107755688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "根据菲律宾政府的官方数据，截至杜特尔特任期结束，毒品犯罪嫌疑人遭击毙的人数为6252人。然而，人权组织（包括国际刑事法院）则估计，实际死亡人数可能介于12000至30000人之间，而毒品战争的杀戮高峰发生在2016至2017年间。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2064033642326925797",
+        "created_at": "2026-06-08T17:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064039324933673098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064039324933673098",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064039092107755688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根据菲律宾政府的官方数据，截至杜特尔特任期结束，毒品犯罪嫌疑人遭击毙的人数为6252人。然而，人权组织（包括国际刑事法院）则估计，实际死亡人数可能介于12000至30000人之间，而毒品战争的杀戮高峰发生在2016至2017年间。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2064033642326925797",
+        "created_at": "2026-06-08T17:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064039092107755688"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064039092107755688",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064037974166405543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "菲律宾是世界上从事媒体工作最危险的国家之一，对记者的暗杀，光有纪录的就有174例。在16年5月31的记者会上，杜特蒂说：“老实说，会被杀掉的记者大都做了些见不得人的事。你不做坏事，就不会被杀掉。”他还讲了支持杀掉腐败记者的话语：“如果你是个王八蛋，那么就算身为记者，也不表示你能幸免于暗杀。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 97,
+          "like_count": 1106,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 796
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      }
+    ]
+  }
+}

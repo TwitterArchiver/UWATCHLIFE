@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2051571438893867121",
+    "created_at": "2026-05-06T05:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T06:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051894251324404110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1987496594594496512",
+          "start": 0,
+          "username": "aldn126633"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051894251324404110",
+    "in_reply_to_user_id": "1987496594594496512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051571438893867121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aldn126633 对你来说是毒呢\n但你还是会吞下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2051571438893867121",
+        "created_at": "2026-05-06T05:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T06:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051894251324404110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987496594594496512",
+              "start": 0,
+              "username": "aldn126633"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051894251324404110",
+        "in_reply_to_user_id": "1987496594594496512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051571438893867121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aldn126633 对你来说是毒呢\n但你还是会吞下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987496594594496512",
+        "conversation_id": "2051571438893867121",
+        "created_at": "2026-05-05T07:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T08:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051571438893867121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051571438893867121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1208,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "戒断中头好痛，挑战不吃的第一天，我绝对不能再吃了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 59,
+          "like_count": 357,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 370
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T12:25:06.000Z",
+        "description": "一键按下注销键",
+        "id": "1987496594594496512",
+        "name": "噩梦的最终场景",
+        "pinned_tweet_id": "2043346189853364636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037775897512820736/Wl9OoB4v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2321,
+          "following_count": 23,
+          "like_count": 137,
+          "listed_count": 3,
+          "media_count": 17,
+          "tweet_count": 298
+        },
+        "username": "aldn126633",
+        "verified": false
+      }
+    ]
+  }
+}

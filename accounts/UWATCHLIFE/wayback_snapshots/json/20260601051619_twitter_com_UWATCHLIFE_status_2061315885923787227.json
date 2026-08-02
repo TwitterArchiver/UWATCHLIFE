@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2060855339428270219",
+    "created_at": "2026-06-01T05:16:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T06:16:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061315885923787227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596798310785978369",
+          "start": 0,
+          "username": "maybeanormalppl"
+        },
+        {
+          "end": 24,
+          "id": "914523951505842177",
+          "start": 17,
+          "username": "auz1en"
+        },
+        {
+          "end": 34,
+          "id": "2046395388974845952",
+          "start": 25,
+          "username": "eduantao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061315885923787227",
+    "in_reply_to_user_id": "1596798310785978369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061080503005167677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maybeanormalppl @auz1en @eduantao ssris作为一种精神活性物质来说过于可悲了，它事一种精神活性物质对现代社会的妥协"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2060855339428270219",
+        "created_at": "2026-06-01T05:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061315885923787227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596798310785978369",
+              "start": 0,
+              "username": "maybeanormalppl"
+            },
+            {
+              "end": 24,
+              "id": "914523951505842177",
+              "start": 17,
+              "username": "auz1en"
+            },
+            {
+              "end": 34,
+              "id": "2046395388974845952",
+              "start": 25,
+              "username": "eduantao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061315885923787227",
+        "in_reply_to_user_id": "1596798310785978369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061080503005167677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maybeanormalppl @auz1en @eduantao ssris作为一种精神活性物质来说过于可悲了，它事一种精神活性物质对现代社会的妥协"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596798310785978369",
+        "conversation_id": "2060855339428270219",
+        "created_at": "2026-05-31T13:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061080503005167677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "914523951505842177",
+              "start": 0,
+              "username": "auz1en"
+            },
+            {
+              "end": 17,
+              "id": "2046395388974845952",
+              "start": 8,
+              "username": "eduantao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061080503005167677",
+        "in_reply_to_user_id": "914523951505842177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060966737307177264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auz1en @eduantao 抽烟抽大麻也是利用精神活性物质"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 90,
+          "like_count": 992,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 705
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T09:29:34.000Z",
+        "description": "脑雾，解离，精神不稳定，休学状态，正在挣扎着想要回归平静的日常生活的一只普通人。\n普通话 | 粤语 | English | 日本語 | 自动化专业本科休学中，嵌入式（51、stm32），plc学习中 | 恋人：@XI2VANAS\n提问箱：https://t.co/qU3XmbiiB0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 105,
+                "username": "XI2VANAS"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/maybeanormalpp…",
+                "end": 142,
+                "expanded_url": "https://ngl.link/maybeanormalppl49233",
+                "start": 119,
+                "url": "https://t.co/qU3XmbiiB0"
+              }
+            ]
+          }
+        },
+        "id": "1596798310785978369",
+        "location": "utopia",
+        "name": "一只只只只人",
+        "pinned_tweet_id": "2056998303233880502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829944306302976/I1pin9Zp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2164,
+          "following_count": 695,
+          "like_count": 15861,
+          "listed_count": 6,
+          "media_count": 958,
+          "tweet_count": 20310
+        },
+        "username": "maybeanormalppl",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-01T16:14:35.000Z",
+        "description": "Indico livros 📚",
+        "id": "914523951505842177",
+        "location": "🔥🔥🔆🔥🔥",
+        "name": "🫵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025971169740963840/i7NmQABi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 2960,
+          "like_count": 48178,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 983
+        },
+        "username": "auz1en",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T01:08:21.000Z",
+        "description": "",
+        "id": "2046395388974845952",
+        "name": "Anubis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050114631327272960/B_ptha3X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 463,
+          "like_count": 115,
+          "listed_count": 4,
+          "media_count": 149,
+          "tweet_count": 250
+        },
+        "username": "eduantao",
+        "verified": false
+      }
+    ]
+  }
+}

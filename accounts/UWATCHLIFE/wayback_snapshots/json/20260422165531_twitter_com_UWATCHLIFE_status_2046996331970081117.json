@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2046933677943447768",
+    "created_at": "2026-04-22T16:55:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T17:55:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046996331970081117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "914028453174796293",
+          "start": 0,
+          "username": "Ajisai1207_"
+        },
+        {
+          "end": 22,
+          "id": "1541248951843663873",
+          "start": 13,
+          "username": "Anermoka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046996331970081117",
+    "in_reply_to_user_id": "914028453174796293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046995524037849267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ajisai1207_ @Anermoka 恁也只敢开公共场所吸烟而不敢开独自吸烟的了，那请问恁开oder跨籍的理由是？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2046933677943447768",
+        "created_at": "2026-04-22T16:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046996331970081117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "914028453174796293",
+              "start": 0,
+              "username": "Ajisai1207_"
+            },
+            {
+              "end": 22,
+              "id": "1541248951843663873",
+              "start": 13,
+              "username": "Anermoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046996331970081117",
+        "in_reply_to_user_id": "914028453174796293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046995524037849267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ajisai1207_ @Anermoka 恁也只敢开公共场所吸烟而不敢开独自吸烟的了，那请问恁开oder跨籍的理由是？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "914028453174796293",
+        "conversation_id": "2046933677943447768",
+        "created_at": "2026-04-22T16:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046995524037849267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1541248951843663873",
+              "start": 0,
+              "username": "Anermoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046995524037849267",
+        "in_reply_to_user_id": "1541248951843663873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046933677943447768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anermoka 为了避免有人抬杠说，但没有见人要开除吸烟者男籍啊，我在这里小开一下，公共场所吸烟的，一律开为MT 🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 20,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 105
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-30T07:25:39.000Z",
+        "description": "Идиот",
+        "id": "914028453174796293",
+        "location": "地下室",
+        "name": "紫陽花開🌸",
+        "pinned_tweet_id": "1935689907256594753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968809273300774912/Lvdg3qot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1157,
+          "following_count": 957,
+          "like_count": 14831,
+          "listed_count": 14,
+          "media_count": 629,
+          "tweet_count": 6657
+        },
+        "username": "Ajisai1207_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-27T02:36:10.000Z",
+        "description": "只是恰好路过这个世界",
+        "id": "1541248951843663873",
+        "location": "驻马店",
+        "name": "而已",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931245645597380608/xHAWTaMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 208,
+          "like_count": 16059,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 525
+        },
+        "username": "Anermoka",
+        "verified": false
+      }
+    ]
+  }
+}

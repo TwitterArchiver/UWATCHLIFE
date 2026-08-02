@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2063447619805098340",
+    "created_at": "2026-06-07T02:27:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T03:27:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063447619805098340"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063447619805098340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有很多oder出于这样一个原因支持药品管制：若事网络禁售，药物价格就变高，也就事门槛的提高，这样就能把其所说的“跟风oder”拒之门外\n那么这些差价，这些提高的门槛，这些禁售下的焦虑，最终都导致了什么样的一个结果呢？——它首先让骗子受益，然后让贩子盈利，最后让条子得业绩，而所谓跟风却没有停下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2063447619805098340",
+        "created_at": "2026-06-07T02:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063447619805098340"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063447619805098340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有很多oder出于这样一个原因支持药品管制：若事网络禁售，药物价格就变高，也就事门槛的提高，这样就能把其所说的“跟风oder”拒之门外\n那么这些差价，这些提高的门槛，这些禁售下的焦虑，最终都导致了什么样的一个结果呢？——它首先让骗子受益，然后让贩子盈利，最后让条子得业绩，而所谓跟风却没有停下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 94,
+          "like_count": 1068,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 767
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      }
+    ]
+  }
+}

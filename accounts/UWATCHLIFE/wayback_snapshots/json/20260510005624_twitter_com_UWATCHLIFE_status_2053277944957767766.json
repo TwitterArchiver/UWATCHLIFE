@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2053163830482813203",
+    "created_at": "2026-05-10T00:56:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T01:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053277944957767766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1852895432269234176",
+          "start": 0,
+          "username": "432Ifantrygroup"
+        },
+        {
+          "end": 28,
+          "id": "2002374827559301125",
+          "start": 17,
+          "username": "TUTU971111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053277944957767766",
+    "in_reply_to_user_id": "1852895432269234176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053167782024577277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@432Ifantrygroup @TUTU971111 其实是有用的，ssris，但晒太阳就没药效了，同时医生一般不会单开这个，会另外开ssris的西药，结果就导致这个药有血清素综合症的风险。就算没有，西药的ssris也够了，这玩意加进来不止是安慰剂，实际上还会捣乱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2053163830482813203",
+        "created_at": "2026-05-10T00:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T01:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053277944957767766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            },
+            {
+              "end": 28,
+              "id": "2002374827559301125",
+              "start": 17,
+              "username": "TUTU971111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053277944957767766",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053167782024577277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup @TUTU971111 其实是有用的，ssris，但晒太阳就没药效了，同时医生一般不会单开这个，会另外开ssris的西药，结果就导致这个药有血清素综合症的风险。就算没有，西药的ssris也够了，这玩意加进来不止是安慰剂，实际上还会捣乱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "conversation_id": "2053163830482813203",
+        "created_at": "2026-05-09T17:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T18:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053167782024577277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2002374827559301125",
+              "start": 0,
+              "username": "TUTU971111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053167782024577277",
+        "in_reply_to_user_id": "2002374827559301125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 261,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053163830482813203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TUTU971111 给患者开疏肝解郁胶囊这种中成药安慰剂的医生是咋想的呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 68,
+          "like_count": 431,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 429
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2053148342235046022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 3706,
+          "like_count": 34440,
+          "listed_count": 4,
+          "media_count": 372,
+          "tweet_count": 9190
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-20T13:45:55.000Z",
+        "description": "只是碎碎念，一个爱说几句的人👩\n希望女生们多多和我互关👭💕\n不约无🚪想和大家做互联网好友🤟起止于推",
+        "id": "2002374827559301125",
+        "name": "🍚香香",
+        "pinned_tweet_id": "2033550997092778185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003472614933823489/CZLqraeW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 17,
+          "like_count": 906,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 817
+        },
+        "username": "TUTU971111",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2064467578010120350",
+    "created_at": "2026-06-10T05:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T06:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064579930676154747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1810949901708316674",
+          "start": 0,
+          "username": "qq3882917648785"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064579930676154747",
+    "in_reply_to_user_id": "1810949901708316674",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064467578010120350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qq3882917648785 阿片让壬真正地直面紫砂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2064467578010120350",
+        "created_at": "2026-06-10T05:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064579930676154747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1810949901708316674",
+              "start": 0,
+              "username": "qq3882917648785"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064579930676154747",
+        "in_reply_to_user_id": "1810949901708316674",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064467578010120350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qq3882917648785 阿片让壬真正地直面紫砂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810949901708316674",
+        "conversation_id": "2064467578010120350",
+        "created_at": "2026-06-09T22:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T23:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064467578010120350"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064467578010120350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "oxy+l硝+pr，再见"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 100,
+          "like_count": 1128,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 816
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T08:11:35.000Z",
+        "description": "",
+        "id": "1810949901708316674",
+        "name": "qq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985621590898589699/yigPbVN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 244,
+          "like_count": 529,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 139
+        },
+        "username": "qq3882917648785",
+        "verified": false
+      }
+    ]
+  }
+}

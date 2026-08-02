@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2078440139689533914",
+    "created_at": "2026-07-18T13:07:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T14:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078466740422668615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2044236966254821377",
+          "start": 0,
+          "username": "QiuFu161"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078466740422668615",
+    "in_reply_to_user_id": "2044236966254821377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078440139689533914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiuFu161 谢绝，，，\n每一次入院都事在损害自己的权利"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2078440139689533914",
+        "created_at": "2026-07-18T13:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078466740422668615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2044236966254821377",
+              "start": 0,
+              "username": "QiuFu161"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078466740422668615",
+        "in_reply_to_user_id": "2044236966254821377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078440139689533914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiuFu161 谢绝，，，\n每一次入院都事在损害自己的权利"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044236966254821377",
+        "conversation_id": "2078440139689533914",
+        "created_at": "2026-07-18T11:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T12:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078440139689533914"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078440139689533914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天出院了，好耶\n\n住院费花了3000块，好像也没有那么贵\n\n过几个月再回访🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "pinned_tweet_id": "2078365186466156746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 155,
+          "like_count": 1760,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1163
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T02:11:16.000Z",
+        "description": "o不动了真的o不动了//原推号@chuyinweilai114@06auser@06auser1\n//单推全球最伟大倒车帝总加速师庆丰包子铺主席、包共中央总书记、中央包委主席习近平/爱你老习",
+        "id": "2044236966254821377",
+        "name": "yice",
+        "pinned_tweet_id": "2076555415127835052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075301904578650112/x1XfixFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 114,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 156
+        },
+        "url": "",
+        "username": "QiuFu161",
+        "verified": false
+      }
+    ]
+  }
+}

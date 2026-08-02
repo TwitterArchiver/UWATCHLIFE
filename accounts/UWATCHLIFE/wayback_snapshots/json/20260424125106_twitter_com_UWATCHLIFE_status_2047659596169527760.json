@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2047625497044226364",
+    "created_at": "2026-04-24T12:51:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T13:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047659596169527760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1115809099482980353",
+          "start": 0,
+          "username": "DKR_World"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047659596169527760",
+    "in_reply_to_user_id": "1115809099482980353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047625497044226364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DKR_World 无论监管多么严格，永远有ODer被生产出来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047625477511372800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqgheQa4AAf0k8.jpg",
+        "width": 620
+      },
+      {
+        "height": 1459,
+        "media_key": "3_2047625477528186881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqgheUbcAEfkfb.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2047625497044226364",
+        "created_at": "2026-04-24T12:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047659596169527760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1115809099482980353",
+              "start": 0,
+              "username": "DKR_World"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047659596169527760",
+        "in_reply_to_user_id": "1115809099482980353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047625497044226364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DKR_World 无论监管多么严格，永远有ODer被生产出来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047625477511372800",
+            "3_2047625477528186881"
+          ]
+        },
+        "author_id": "1115809099482980353",
+        "conversation_id": "2047625497044226364",
+        "created_at": "2026-04-24T10:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047625497044226364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fT5Bxc12ZC",
+              "end": 138,
+              "expanded_url": "https://x.com/DKR_World/status/2047625497044226364/photo/1",
+              "media_key": "3_2047625477511372800",
+              "start": 115,
+              "url": "https://t.co/fT5Bxc12ZC"
+            },
+            {
+              "display_url": "pic.x.com/fT5Bxc12ZC",
+              "end": 138,
+              "expanded_url": "https://x.com/DKR_World/status/2047625497044226364/photo/1",
+              "media_key": "3_2047625477528186881",
+              "start": 115,
+              "url": "https://t.co/fT5Bxc12ZC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047625497044226364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "從右美沙芬到普瑞巴林，事實一次次證明了問題從未得到任何哪怕一點點改善，Oder的存在不僅是一種單純的破壞性批判，也是不允許現實問題被輕易解決——不管是靠藥物治療、戒癮計劃，還是革命樂觀主義，都不能假裝官方粉飾的「和解」已經發生。 https://t.co/fT5Bxc12ZC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 20,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 153
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-10T02:49:54.000Z",
+        "description": "最後の指令：すべてと一緒に滅びろ。無盡革命資金募集中！我需要錢◆🚪52/101/188 @Noelle1914",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "Noelle1914"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dkr71262",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dkr71262",
+                "start": 0,
+                "url": "https://t.co/mvmC2vTXvo"
+              }
+            ]
+          }
+        },
+        "id": "1115809099482980353",
+        "location": "東京精神暴動支部",
+        "name": "◎東アジア躁鬱革委會",
+        "pinned_tweet_id": "2020846049972326673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047587912305520641/Y47NxZbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2321,
+          "following_count": 745,
+          "like_count": 44845,
+          "listed_count": 9,
+          "media_count": 565,
+          "tweet_count": 6288
+        },
+        "url": "https://t.co/mvmC2vTXvo",
+        "username": "DKR_World",
+        "verified": false
+      }
+    ]
+  }
+}

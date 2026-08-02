@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2047685458994618434",
+    "created_at": "2026-04-25T00:01:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T01:01:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047828256221724891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1315706812935487489",
+          "start": 0,
+          "username": "maigo_wakatake"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047828256221724891",
+    "in_reply_to_user_id": "1315706812935487489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047685458994618434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maigo_wakatake 哪怕吃点复方巴比妥呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2047685458994618434",
+        "created_at": "2026-04-25T00:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T01:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047828256221724891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1315706812935487489",
+              "start": 0,
+              "username": "maigo_wakatake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047828256221724891",
+        "in_reply_to_user_id": "1315706812935487489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047685458994618434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maigo_wakatake 哪怕吃点复方巴比妥呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1315706812935487489",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2047685458994618434",
+        "created_at": "2026-04-24T14:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047685458994618434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maigo_wakatake…",
+              "end": 143,
+              "expanded_url": "https://twitter.com/maigo_wakatake/status/2046607611190186126",
+              "start": 120,
+              "url": "https://t.co/oHJLtDRIo0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047685458994618434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 438,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046607611190186126",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我听说到有人搞大的，搞肌肉注射。\n在此说明非无菌的刺激性溶液搞肌肉注射基本完全等于肌肉破坏行为；具体来说肌肉纤维化和永久性损伤在等着你。合理负责使用（而且对于入睡需求我们真不建议使用水合氯醛，哪怕开点benzo呢），现在不是狠活tv年代。 https://t.co/oHJLtDRIo0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 20,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 158
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-12T17:32:11.000Z",
+        "description": "北雁ふみんです。多意识体。物质依赖幸存者。Of-course all-gender-friendly, why not?",
+        "id": "1315706812935487489",
+        "location": "Ará Orún",
+        "name": "⌘",
+        "pinned_tweet_id": "2006417391631442157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870529941026267136/vJ_l7ugO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2226,
+          "following_count": 202,
+          "like_count": 3055,
+          "listed_count": 10,
+          "media_count": 2366,
+          "tweet_count": 21479
+        },
+        "username": "maigo_wakatake",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2064245709323554855",
+    "created_at": "2026-06-09T07:18:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T08:18:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064245709323554855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1597468568290873344",
+          "start": 3,
+          "username": "jingzhny11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064245709323554855",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064217014562955740",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingzhny11: 太荒谬了，承认可以给猫抗焦虑却不愿承认可以给人抗焦虑😿我们的医药究竟要匍匐在反向政治正确下多久？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2064245709323554855",
+        "created_at": "2026-06-09T07:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T08:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064245709323554855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1597468568290873344",
+              "start": 3,
+              "username": "jingzhny11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064245709323554855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064217014562955740",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jingzhny11: 太荒谬了，承认可以给猫抗焦虑却不愿承认可以给人抗焦虑😿我们的医药究竟要匍匐在反向政治正确下多久？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597468568290873344",
+        "conversation_id": "2064217014562955740",
+        "created_at": "2026-06-09T05:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064217014562955740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Akino_QwQ/stat…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/Akino_QwQ/status/2064076692109586523",
+              "start": 49,
+              "url": "https://t.co/40FSxitHBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064217014562955740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 287,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064076692109586523",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太荒谬了，承认可以给猫抗焦虑却不愿承认可以给人抗焦虑😿我们的医药究竟要匍匐在反向政治正确下多久？ https://t.co/40FSxitHBX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 97,
+          "like_count": 1114,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 804
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T05:53:13.000Z",
+        "description": "🍥​2023/05/07 srs2025/07/31 一米九超大只\n左下的，混乱善良的，激跨的，支持精神活性物质的，ODer但水平很差的，想当黄推的，下海预备的\n感性条拉满的理想主义者ENFP\n希望一个没人再感到痛苦的世界/如果可以我希望爱、原谅与理解而不是恶、仇恨与歧视",
+        "id": "1597468568290873344",
+        "location": "谁人的繁星之梦",
+        "name": "愿望天使DesireAngel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024462875855900673/BMWGdQhI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5387,
+          "following_count": 2012,
+          "like_count": 126067,
+          "listed_count": 22,
+          "media_count": 261,
+          "tweet_count": 18881
+        },
+        "username": "jingzhny11",
+        "verified": false
+      }
+    ]
+  }
+}

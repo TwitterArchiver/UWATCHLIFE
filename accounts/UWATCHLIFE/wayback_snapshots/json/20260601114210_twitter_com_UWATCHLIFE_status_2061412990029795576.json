@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2061412990029795576",
+    "created_at": "2026-06-01T11:42:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T12:42:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061412990029795576"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DrankghostU/st…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/DrankghostU/status/2061296498814423357",
+          "start": 15,
+          "url": "https://t.co/29KKvmQeHe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061412990029795576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061296498814423357",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "推销得是否有点太猖狂力，，， https://t.co/29KKvmQeHe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2061412990029795576",
+        "created_at": "2026-06-01T11:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061412990029795576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DrankghostU/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/DrankghostU/status/2061296498814423357",
+              "start": 15,
+              "url": "https://t.co/29KKvmQeHe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061412990029795576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061296498814423357",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推销得是否有点太猖狂力，，， https://t.co/29KKvmQeHe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2061296498814423357",
+        "created_at": "2026-06-01T03:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061296498814423357"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061296498814423357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 840,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "窝有小道消息说郁丑马上就要精二了。99％概率👁👁👁有没有人和我一起囤货拼团砍价……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 91,
+          "like_count": 1006,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 710
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 178,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 287
+        },
+        "username": "DrankghostU",
+        "verified": false
+      }
+    ]
+  }
+}

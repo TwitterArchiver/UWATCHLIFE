@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2055223697129263123",
+    "created_at": "2026-05-15T14:20:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T15:20:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055292355851489725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "954724026806448128",
+          "start": 0,
+          "username": "libertyelysium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055292355851489725",
+    "in_reply_to_user_id": "954724026806448128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055223697129263123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@libertyelysium 持，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2055223697129263123",
+        "created_at": "2026-05-15T14:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055292355851489725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "954724026806448128",
+              "start": 0,
+              "username": "libertyelysium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055292355851489725",
+        "in_reply_to_user_id": "954724026806448128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055223697129263123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@libertyelysium 持，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "954724026806448128",
+        "conversation_id": "2055223697129263123",
+        "created_at": "2026-05-15T09:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T10:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055223697129263123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ShitpostGate/s…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/ShitpostGate/status/2055075726378877436",
+              "start": 26,
+              "url": "https://t.co/DwbLIqE8VM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055223697129263123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 413,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055075726378877436",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拒绝现代，回归传统，把Meth和Coke加回食物里 https://t.co/DwbLIqE8VM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 77,
+          "like_count": 666,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 564
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-20T14:35:20.000Z",
+        "description": "@RGW90 我家忠实护卫犬",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "RGW90"
+              }
+            ]
+          }
+        },
+        "id": "954724026806448128",
+        "location": "精神科",
+        "name": "低功能自閉症",
+        "pinned_tweet_id": "1991859279842996718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053821805832650752/YsMQbaGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11903,
+          "following_count": 677,
+          "like_count": 88612,
+          "listed_count": 39,
+          "media_count": 2088,
+          "tweet_count": 32168
+        },
+        "username": "libertyelysium",
+        "verified": false
+      }
+    ]
+  }
+}

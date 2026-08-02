@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2052088814404051447",
+    "created_at": "2026-05-06T18:27:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T19:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052092838180274207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1769077710637375488",
+          "start": 0,
+          "username": "hanji949540"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052092838180274207",
+    "in_reply_to_user_id": "1769077710637375488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052088814404051447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hanji949540 鉴于此二壬于药圈的作恶多端，支持对于董荣二壬的迫害加速，加大力度，请"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29568,
+        "height": 720,
+        "media_key": "7_2052088776986664960",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2052088776986664960/pu/img/N69A08DLqaEKRwZ-.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052088776986664960/pu/vid/avc1/360x270/kECVMOz0TkygiEgf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052088776986664960/pu/vid/avc1/480x360/THzp00E0jzcS-5cl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2052088776986664960/pu/vid/avc1/960x720/GKMhIUnMprQpklGu.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2052088776986664960/pu/pl/HZvnPSllGV-g4D5R.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2052088814404051447",
+        "created_at": "2026-05-06T18:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T19:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052092838180274207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1769077710637375488",
+              "start": 0,
+              "username": "hanji949540"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052092838180274207",
+        "in_reply_to_user_id": "1769077710637375488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052088814404051447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanji949540 鉴于此二壬于药圈的作恶多端，支持对于董荣二壬的迫害加速，加大力度，请"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2052088776986664960"
+          ]
+        },
+        "author_id": "1769077710637375488",
+        "conversation_id": "2052088814404051447",
+        "created_at": "2026-05-06T18:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T19:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052088814404051447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nUQJploGRY",
+              "end": 56,
+              "expanded_url": "https://x.com/hanji949540/status/2052088814404051447/video/1",
+              "media_key": "7_2052088776986664960",
+              "start": 33,
+              "url": "https://t.co/nUQJploGRY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052088814404051447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鉴于董先生又一次拉黑我加上对我的无端骚扰，我将这个视频重发一遍。 https://t.co/nUQJploGRY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 63,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 385
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T19:06:21.000Z",
+        "description": "",
+        "id": "1769077710637375488",
+        "name": "kanaiilq",
+        "pinned_tweet_id": "2052088814404051447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009685139513573377/zG1-j_tN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 338,
+          "like_count": 1477,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1033
+        },
+        "username": "hanji949540",
+        "verified": false
+      }
+    ]
+  }
+}

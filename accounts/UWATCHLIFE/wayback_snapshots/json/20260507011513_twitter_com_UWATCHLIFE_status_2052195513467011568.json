@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2052180799689232559",
+    "created_at": "2026-05-07T01:15:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T02:15:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052195513467011568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1942493462810525696",
+          "start": 0,
+          "username": "AsanagiYori486"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052195513467011568",
+    "in_reply_to_user_id": "1942493462810525696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052180799689232559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@AsanagiYori486 bdo，你在哪，，，"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2052180799689232559].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2052180799689232559",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2052180799689232559"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2052180799689232559",
+        "created_at": "2026-05-07T01:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T02:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052195513467011568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942493462810525696",
+              "start": 0,
+              "username": "AsanagiYori486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052195513467011568",
+        "in_reply_to_user_id": "1942493462810525696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052180799689232559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@AsanagiYori486 bdo，你在哪，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 64,
+          "like_count": 375,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 389
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-08T07:58:39.000Z",
+        "description": "不会通过请求。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "flk.npc.gov.cn",
+                "end": 23,
+                "expanded_url": "http://flk.npc.gov.cn",
+                "start": 0,
+                "url": "https://t.co/GlgB1d8FOn"
+              }
+            ]
+          }
+        },
+        "id": "1942493462810525696",
+        "location": "MD sea",
+        "name": "𝓐𝓼𝓪𝓷𝓪𝓰𝓲 𝓨𝓸𝓻𝓲",
+        "pinned_tweet_id": "2050571159876624560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039542257301475328/sq1OcSAa_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 1993,
+          "like_count": 21956,
+          "listed_count": 0,
+          "media_count": 1405,
+          "tweet_count": 6743
+        },
+        "url": "https://t.co/GlgB1d8FOn",
+        "username": "AsanagiYori486",
+        "verified": true
+      }
+    ]
+  }
+}

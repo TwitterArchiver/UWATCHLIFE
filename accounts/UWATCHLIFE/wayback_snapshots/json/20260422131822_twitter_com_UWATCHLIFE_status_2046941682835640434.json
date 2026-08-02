@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2046674180134011107",
+    "created_at": "2026-04-22T13:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T14:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046941682835640434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1426207565575192577",
+          "start": 0,
+          "username": "Lainyer051230"
+        },
+        {
+          "end": 26,
+          "id": "1900108524304076800",
+          "start": 15,
+          "username": "qi_bu64350"
+        },
+        {
+          "end": 39,
+          "id": "1657175394267848704",
+          "start": 27,
+          "username": "Zh40Le1ZOOB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046941682835640434",
+    "in_reply_to_user_id": "1426207565575192577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046845043936555385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lainyer051230 @qi_bu64350 @Zh40Le1ZOOB 哈哈那我只能说o得好，别急"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2046674180134011107",
+        "created_at": "2026-04-22T13:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T14:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046941682835640434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1426207565575192577",
+              "start": 0,
+              "username": "Lainyer051230"
+            },
+            {
+              "end": 26,
+              "id": "1900108524304076800",
+              "start": 15,
+              "username": "qi_bu64350"
+            },
+            {
+              "end": 39,
+              "id": "1657175394267848704",
+              "start": 27,
+              "username": "Zh40Le1ZOOB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046941682835640434",
+        "in_reply_to_user_id": "1426207565575192577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046845043936555385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lainyer051230 @qi_bu64350 @Zh40Le1ZOOB 哈哈那我只能说o得好，别急"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426207565575192577",
+        "conversation_id": "2046674180134011107",
+        "created_at": "2026-04-22T06:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T07:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046845043936555385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1900108524304076800",
+              "start": 0,
+              "username": "qi_bu64350"
+            },
+            {
+              "end": 24,
+              "id": "1657175394267848704",
+              "start": 12,
+              "username": "Zh40Le1ZOOB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046845043936555385",
+        "in_reply_to_user_id": "1900108524304076800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046674180134011107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qi_bu64350 @Zh40Le1ZOOB 想odo成傻逼的，请自立门户😅请别拉着所有跨子一起死好不好。还物质自由，要物质自由去你心目中的西方自由国家o死你得了😂鉴定为吃药把脑子吃烂了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 20,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 97
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-13T15:43:03.000Z",
+        "description": "2007.5.6（年月日｜\n位于马来西亚.柔佛州｜\n生理性別男，无糖⸝⸝ ᷇࿀ ᷆⸝⸝｜无不良嗜好｜\n偶尔分享下照片还有生活什么的～｜有友善的朋友想和我聊天的话，我都非常欢迎噢～｜叫我哥哥/姐姐/弟弟/妹妹都可以∽（）",
+        "id": "1426207565575192577",
+        "location": "Malaysia",
+        "name": "千缘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040353531132350464/LdzycnnG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 107,
+          "like_count": 13891,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 622
+        },
+        "username": "Lainyer051230",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T08:56:07.000Z",
+        "description": "好累……\n依旧把这当QQ空间用\n一切过激言论均由第二人格控制发布\n前@Ciallo_114_514 @YunoQiu56649",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Ciallo_114_514"
+              },
+              {
+                "end": 63,
+                "start": 50,
+                "username": "YunoQiu56649"
+              }
+            ]
+          }
+        },
+        "id": "1900108524304076800",
+        "location": "第五高原",
+        "name": "ciallo～（三代目）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043066409954217985/F_FxYsLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 336,
+          "like_count": 293,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 302
+        },
+        "username": "qi_bu64350",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-13T00:10:35.000Z",
+        "description": "I am Locutus of Borg. Resistance is futile.｜检测到粉蛆或关注粉蛆账号自动屏蔽｜邮箱：mtf@ik.me 或 progynova@duck.com（马甲）｜Telegram：下方链接｜如有紧急情况请直接 Telegram Call",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Zh40Le1ZOOB.t.me",
+                "end": 23,
+                "expanded_url": "https://Zh40Le1ZOOB.t.me",
+                "start": 0,
+                "url": "https://t.co/pbaTs1VNGb"
+              }
+            ]
+          }
+        },
+        "id": "1657175394267848704",
+        "name": "org.z.nixpkgs.command_block",
+        "pinned_tweet_id": "2041170735167848697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832140593918570497/E8NOkWid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 750,
+          "like_count": 7355,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 6086
+        },
+        "url": "https://t.co/pbaTs1VNGb",
+        "username": "Zh40Le1ZOOB",
+        "verified": false
+      }
+    ]
+  }
+}

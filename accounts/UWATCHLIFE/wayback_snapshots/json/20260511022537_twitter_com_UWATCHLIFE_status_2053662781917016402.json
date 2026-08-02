@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2053616808314425677",
+    "created_at": "2026-05-11T02:25:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T03:25:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053662781917016402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1556279645502427136",
+          "start": 0,
+          "username": "tianxiao0502"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053662781917016402",
+    "in_reply_to_user_id": "1556279645502427136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053616808314425677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianxiao0502 那咋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2053616808314425677",
+        "created_at": "2026-05-11T02:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T03:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053662781917016402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1556279645502427136",
+              "start": 0,
+              "username": "tianxiao0502"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053662781917016402",
+        "in_reply_to_user_id": "1556279645502427136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053616808314425677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianxiao0502 那咋了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556279645502427136",
+        "conversation_id": "2053616808314425677",
+        "created_at": "2026-05-10T23:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T00:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053616808314425677"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053616808314425677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学了药理搞了wiki到底带来了什么呢\n所谓的「拯救」，是真心度苍生还是天衣无缝的理由呢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 70,
+          "like_count": 453,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 442
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T14:02:46.000Z",
+        "description": "pdw副wiki主/叫我天晓/pdw官号@Psydrugswiki/里推@maimai_Prism_│🍐妈妈@Kikunashi30712 /kr @KrvyScorpii/苦力怕@Akinoyo_desu/彻子@aokitetsu111/叶子@WinbornN94577/苦瓜大人@C4usT1c_03",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "Psydrugswiki"
+              },
+              {
+                "end": 50,
+                "start": 36,
+                "username": "maimai_Prism_"
+              },
+              {
+                "end": 69,
+                "start": 54,
+                "username": "Kikunashi30712"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "KrvyScorpii"
+              },
+              {
+                "end": 103,
+                "start": 90,
+                "username": "Akinoyo_desu"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "aokitetsu111"
+              },
+              {
+                "end": 136,
+                "start": 122,
+                "username": "WinbornN94577"
+              },
+              {
+                "end": 152,
+                "start": 141,
+                "username": "C4usT1c_03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/kbttTgmTXj"
+              }
+            ]
+          }
+        },
+        "id": "1556279645502427136",
+        "location": "庄俞南路 1号",
+        "name": "Pr5ga6al1N",
+        "pinned_tweet_id": "2049637066645053756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041020314524815360/KxdTr0Df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 192,
+          "like_count": 1485,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1261
+        },
+        "url": "https://t.co/kbttTgmTXj",
+        "username": "tianxiao0502",
+        "verified": true
+      }
+    ]
+  }
+}

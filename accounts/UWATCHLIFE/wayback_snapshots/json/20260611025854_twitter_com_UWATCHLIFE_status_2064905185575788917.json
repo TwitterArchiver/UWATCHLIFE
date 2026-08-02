@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2064897973423910952",
+    "created_at": "2026-06-11T02:58:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T03:58:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064905185575788917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1659962043460354050",
+          "start": 0,
+          "username": "SalviaSWC"
+        },
+        {
+          "end": 23,
+          "id": "1958507577077342208",
+          "start": 11,
+          "username": "Vacue138950"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064905185575788917",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064901624812765227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SalviaSWC @Vacue138950 支持weiki主终结由psyweiki 主编辑错误发动的weiki大分裂运动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2064897973423910952",
+        "created_at": "2026-06-11T02:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T03:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064905185575788917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 23,
+              "id": "1958507577077342208",
+              "start": 11,
+              "username": "Vacue138950"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064905185575788917",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064901624812765227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC @Vacue138950 支持weiki主终结由psyweiki 主编辑错误发动的weiki大分裂运动"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2064897973423910952",
+        "created_at": "2026-06-11T02:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T03:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064901624812765227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1958507577077342208",
+              "start": 0,
+              "username": "Vacue138950"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064901624812765227",
+        "in_reply_to_user_id": "1958507577077342208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064897973423910952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vacue138950 我之前就研究过这个问题，在fow引论(还没写完，所以现在还没宣传，但可以看到半成品)里写了。历史上，现在的psywiki被其他人给夺舍了，而你转发的这人才是psywiki的原作者🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 104,
+          "like_count": 1150,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 842
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4821,
+          "following_count": 1015,
+          "like_count": 24416,
+          "listed_count": 12,
+          "media_count": 551,
+          "tweet_count": 7887
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T12:32:55.000Z",
+        "description": "Cheminformatics & Biohacker | AuDHD/DID | enby | Signal VacueNexus.99 | 空宇回寰無駐形，道極荒墟不聞歌 | qpr: @Citrus_amara | 欢迎 dm (互fo、闲聊、药物使用咨询 etc)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Citrus_amara"
+              }
+            ]
+          }
+        },
+        "id": "1958507577077342208",
+        "location": "幻想郷",
+        "name": "Vacue",
+        "pinned_tweet_id": "1997401990079623617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984602181870252032/K_zhtg0d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 777,
+          "like_count": 3672,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1099
+        },
+        "username": "Vacue138950",
+        "verified": false
+      }
+    ]
+  }
+}

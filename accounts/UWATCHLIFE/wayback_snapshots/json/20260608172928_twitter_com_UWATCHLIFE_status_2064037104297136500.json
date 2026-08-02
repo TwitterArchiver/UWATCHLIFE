@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2064033642326925797",
+    "created_at": "2026-06-08T17:29:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T18:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064037104297136500"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064037104297136500",
+    "in_reply_to_user_id": "2044496192734666752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064036420143194209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "杜特尔特6月30日上任至10月26日期间，菲警方已击毙1725名拒捕的毒嫌。另有逾8000名涉嫌吸毒或贩毒者被警方拘捕，519480名吸毒者及34763名毒贩投案。许多高官也涉入贩毒系统，至少有23名地方首长与5名高阶警官牵涉其中。2020四月初，对于因违反疫情限制措施的人，他亲自执行，亲自下令警察及军队射杀。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2064033642326925797",
+        "created_at": "2026-06-08T17:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064037104297136500"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064037104297136500",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064036420143194209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "杜特尔特6月30日上任至10月26日期间，菲警方已击毙1725名拒捕的毒嫌。另有逾8000名涉嫌吸毒或贩毒者被警方拘捕，519480名吸毒者及34763名毒贩投案。许多高官也涉入贩毒系统，至少有23名地方首长与5名高阶警官牵涉其中。2020四月初，对于因违反疫情限制措施的人，他亲自执行，亲自下令警察及军队射杀。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2064033642326925797",
+        "created_at": "2026-06-08T17:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064036420143194209"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064036420143194209",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064035434683093114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2016年菲律宾总统选举翌日，选情领先的罗德里戈·杜特尔特ao像从重庆学到了点真东西，表示：“我将成为独裁者（……）但只会对抗邪恶势力——犯罪、毒品与政府腐败”（大噓）。7月1日，杜特尔特宣誓就职的次日，菲律宾国家警察启动“双管计划”，标志着菲律宾毒品战争正式开始。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 97,
+          "like_count": 1106,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 790
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      }
+    ]
+  }
+}

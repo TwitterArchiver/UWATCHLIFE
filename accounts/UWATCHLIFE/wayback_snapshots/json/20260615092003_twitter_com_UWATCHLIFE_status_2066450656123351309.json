@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2066450656123351309",
+    "created_at": "2026-06-15T09:20:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T10:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066450656123351309"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/winterfruit_1/…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/winterfruit_1/status/2066428166949011894",
+          "start": 22,
+          "url": "https://t.co/oIrCXnLj6F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066450656123351309",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066428166949011894",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "开动脑筋，实事求是，团结一致向前看了，，， https://t.co/oIrCXnLj6F"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2066450656123351309",
+        "created_at": "2026-06-15T09:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066450656123351309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/winterfruit_1/…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/winterfruit_1/status/2066428166949011894",
+              "start": 22,
+              "url": "https://t.co/oIrCXnLj6F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066450656123351309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066428166949011894",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开动脑筋，实事求是，团结一致向前看了，，， https://t.co/oIrCXnLj6F"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2066428166949011894",
+        "created_at": "2026-06-15T07:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T08:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066428166949011894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1700948552078467072",
+              "start": 6,
+              "username": "Overdose_DBD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/misumikaede3/s…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/misumikaede3/status/2066406761595277661",
+              "start": 20,
+              "url": "https://t.co/eiGXn3YZI8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066428166949011894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 286,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066406761595277661",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以和好吗🥺@Overdose_DBD https://t.co/eiGXn3YZI8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 105,
+          "like_count": 1201,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 868
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2626,
+          "following_count": 1472,
+          "like_count": 42798,
+          "listed_count": 6,
+          "media_count": 1858,
+          "tweet_count": 12747
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

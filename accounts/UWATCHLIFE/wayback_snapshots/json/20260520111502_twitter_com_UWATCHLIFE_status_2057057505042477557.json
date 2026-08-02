@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2056941297928396822",
+    "created_at": "2026-05-20T11:15:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T12:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057057505042477557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2040088816770338816",
+          "start": 0,
+          "username": "tanyuen904"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057057505042477557",
+    "in_reply_to_user_id": "2040088816770338816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056943057250173299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tanyuen904 有点偏执力，，，不过接触不到瘾君子的话这么思想也没什么坏处\n享受你的癖ao罢，不要伤害别壬或自己就ao，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2056941297928396822",
+        "created_at": "2026-05-20T11:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T12:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057057505042477557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040088816770338816",
+              "start": 0,
+              "username": "tanyuen904"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057057505042477557",
+        "in_reply_to_user_id": "2040088816770338816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056943057250173299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanyuen904 有点偏执力，，，不过接触不到瘾君子的话这么思想也没什么坏处\n享受你的癖ao罢，不要伤害别壬或自己就ao，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040088816770338816",
+        "conversation_id": "2056941297928396822",
+        "created_at": "2026-05-20T03:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T04:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056943057250173299"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056943057250173299",
+        "in_reply_to_user_id": "2040088816770338816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056942500456399160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好討厭好討厭好討厭這種東西為什麼要存在在這世上這種東西存在有什麼意義嗎為什麼不能就是只有醫療作用幹不對嗎啡我也不能接受嗎啡太恐怖了幹你他媽的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 82,
+          "like_count": 726,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 601
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T15:27:46.000Z",
+        "description": "🇹🇼Taiwan🇹🇼 18↑ 無言フォロー失礼します 日本語がまだ苦手なので普段は翻訳を使っています RT多い めがね男女が好き",
+        "id": "2040088816770338816",
+        "location": "Taiwan",
+        "name": "湯圓（タンユエン）",
+        "pinned_tweet_id": "2052188418575323368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040089268799098880/mJW1JwOp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 536,
+          "like_count": 3478,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1975
+        },
+        "username": "tanyuen904",
+        "verified": false
+      }
+    ]
+  }
+}

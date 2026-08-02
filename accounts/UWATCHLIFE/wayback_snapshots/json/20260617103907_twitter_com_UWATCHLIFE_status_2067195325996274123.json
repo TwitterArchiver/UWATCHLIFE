@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "1989690709558116600",
+    "created_at": "2026-06-17T10:39:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T11:39:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067195325996274123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1428041553608527873",
+          "start": 0,
+          "username": "xingling_xl"
+        },
+        {
+          "end": 28,
+          "id": "1796937387899064320",
+          "start": 13,
+          "username": "CleverFf050755"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067195325996274123",
+    "in_reply_to_user_id": "1428041553608527873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989749017715343436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingling_xl @CleverFf050755 做到了。投稿者：变态粪蝾螈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "1989690709558116600",
+        "created_at": "2026-06-17T10:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067195325996274123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1428041553608527873",
+              "start": 0,
+              "username": "xingling_xl"
+            },
+            {
+              "end": 28,
+              "id": "1796937387899064320",
+              "start": 13,
+              "username": "CleverFf050755"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067195325996274123",
+        "in_reply_to_user_id": "1428041553608527873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989749017715343436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingling_xl @CleverFf050755 做到了。投稿者：变态粪蝾螈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1428041553608527873",
+        "conversation_id": "1989690709558116600",
+        "created_at": "2025-11-15T17:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T18:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989749017715343436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1796937387899064320",
+              "start": 0,
+              "username": "CleverFf050755"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989749017715343436",
+        "in_reply_to_user_id": "1796937387899064320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 329,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989690709558116600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CleverFf050755 虽然很困难，但还是对着鸡哥做到了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 106,
+          "like_count": 1215,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 871
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-18T17:10:20.000Z",
+        "description": "可能是个自己的树洞｜INFP｜简体中文（母语）｜English(IELTS 6.5)｜日本語(JLPT N2)｜会回fo｜自傷OD致歉",
+        "id": "1428041553608527873",
+        "location": "Holy Terra",
+        "name": "STAR🌟0#南河三",
+        "pinned_tweet_id": "1971305588354437128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007830536564412416/HHMYGqU9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 999,
+          "like_count": 5658,
+          "listed_count": 15,
+          "media_count": 120,
+          "tweet_count": 1050
+        },
+        "username": "xingling_xl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T16:11:39.000Z",
+        "description": "完全理解一个人是异常困难的，你所能做的只能是理解，再理解。妈妈@Akinoyo_desu  \n我厌恶强权",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/T0F6hSuwLZ"
+              }
+            ]
+          }
+        },
+        "id": "1796937387899064320",
+        "location": "普瑞巴林生产制造区A3车间",
+        "name": "Texas#缄默",
+        "pinned_tweet_id": "2025105252224274724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009457486680760321/2cLUiZf9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 265,
+          "like_count": 226,
+          "listed_count": 2,
+          "media_count": 237,
+          "tweet_count": 2447
+        },
+        "url": "https://t.co/T0F6hSuwLZ",
+        "username": "CleverFf050755",
+        "verified": false
+      }
+    ]
+  }
+}

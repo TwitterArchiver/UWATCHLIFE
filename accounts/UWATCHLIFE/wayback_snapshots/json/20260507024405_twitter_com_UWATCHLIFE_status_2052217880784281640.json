@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2051577638712729850",
+    "created_at": "2026-05-07T02:44:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T03:44:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052217880784281640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1976980707777118209",
+          "start": 0,
+          "username": "duanmao1230"
+        },
+        {
+          "end": 23,
+          "id": "1659962043460354050",
+          "start": 13,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052217880784281640",
+    "in_reply_to_user_id": "1976980707777118209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052015831413141525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duanmao1230 @SalviaSWC 致幻剂有badtrip的可能，而SNS事某种程度上的谵妄剂，幻觉会独特且奇怪，bad很正常。而鼠尾草事κ阿片受体激动剂，这一受体本就事用来平衡另外两个受体使人不适的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2051577638712729850",
+        "created_at": "2026-05-07T02:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T03:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052217880784281640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1976980707777118209",
+              "start": 0,
+              "username": "duanmao1230"
+            },
+            {
+              "end": 23,
+              "id": "1659962043460354050",
+              "start": 13,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052217880784281640",
+        "in_reply_to_user_id": "1976980707777118209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052015831413141525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duanmao1230 @SalviaSWC 致幻剂有badtrip的可能，而SNS事某种程度上的谵妄剂，幻觉会独特且奇怪，bad很正常。而鼠尾草事κ阿片受体激动剂，这一受体本就事用来平衡另外两个受体使人不适的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976980707777118209",
+        "conversation_id": "2051577638712729850",
+        "created_at": "2026-05-06T13:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052015831413141525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052015831413141525",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051577638712729850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 致幻剂或者说幻觉会让人感到恐惧与可怕，其原理是什么呢？我第一次吃思诺思的时候也吓尿了，是因为出现了未知的存在与自身的认识已经不清晰了吗？之前听别人说剧烈变形的那个人也是在某种惊恐中怎么怎么了（我忘了他干什么了来着）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 64,
+          "like_count": 378,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 392
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T11:58:44.000Z",
+        "description": "“你应半生不熟，你应等待烹煮，你应乞求饱腹、屠宰与吞吃。”",
+        "id": "1976980707777118209",
+        "name": "Miraitown",
+        "pinned_tweet_id": "2003054133109223689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976981392220471296/pYj9oHGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 29,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 202
+        },
+        "url": "",
+        "username": "duanmao1230",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4373,
+          "following_count": 1008,
+          "like_count": 23390,
+          "listed_count": 11,
+          "media_count": 496,
+          "tweet_count": 7521
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

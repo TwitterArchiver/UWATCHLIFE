@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2048853434355638501",
+    "created_at": "2026-04-28T03:53:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T04:53:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048973848406806837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1067724520444710914",
+          "start": 0,
+          "username": "_Natsubi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048973848406806837",
+    "in_reply_to_user_id": "1067724520444710914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048853434355638501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Natsubi ？这很诡异"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2048853434355638501].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2048853434355638501",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2048853434355638501"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2048853434355638501",
+        "created_at": "2026-04-28T03:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T04:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048973848406806837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1067724520444710914",
+              "start": 0,
+              "username": "_Natsubi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048973848406806837",
+        "in_reply_to_user_id": "1067724520444710914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048853434355638501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Natsubi ？这很诡异"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 35,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 243
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-28T10:18:57.000Z",
+        "description": "黄金的魔女与美索不达米亚的女神的幻想剧",
+        "id": "1067724520444710914",
+        "location": "六轩岛",
+        "name": "人类夏",
+        "pinned_tweet_id": "1987646604673995078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1067726177505165312/QCDwmoup_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 146,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 484
+        },
+        "username": "_Natsubi",
+        "verified": false
+      }
+    ]
+  }
+}

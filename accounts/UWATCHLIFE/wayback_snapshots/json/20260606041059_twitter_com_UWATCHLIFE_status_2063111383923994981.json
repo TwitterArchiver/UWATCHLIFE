@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2062810879935357258",
+    "created_at": "2026-06-06T04:10:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T05:10:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063111383923994981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1924482734396997632",
+          "start": 0,
+          "username": "_vvni_"
+        },
+        {
+          "end": 19,
+          "id": "2028899853716320256",
+          "start": 8,
+          "username": "zzz1043903"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063111383923994981",
+    "in_reply_to_user_id": "1924482734396997632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062861056456745297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_vvni_ @zzz1043903 把右美作为精二管制这本身就不合理，以民间视角来看，右美事药不事毒，楼主的意思很明显力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2062810879935357258",
+        "created_at": "2026-06-06T04:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T05:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063111383923994981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1924482734396997632",
+              "start": 0,
+              "username": "_vvni_"
+            },
+            {
+              "end": 19,
+              "id": "2028899853716320256",
+              "start": 8,
+              "username": "zzz1043903"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063111383923994981",
+        "in_reply_to_user_id": "1924482734396997632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062861056456745297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_vvni_ @zzz1043903 把右美作为精二管制这本身就不合理，以民间视角来看，右美事药不事毒，楼主的意思很明显力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924482734396997632",
+        "conversation_id": "2062810879935357258",
+        "created_at": "2026-06-05T11:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062861056456745297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2028899853716320256",
+              "start": 0,
+              "username": "zzz1043903"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062861056456745297",
+        "in_reply_to_user_id": "2028899853716320256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 755,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062810879935357258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzz1043903 这也没毛病啊，你又不是合法制药企业，你制的还是精二管制药，那就按制毒判了呗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 91,
+          "like_count": 1051,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 756
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-19T15:11:13.000Z",
+        "description": "一般路过",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/christina40514",
+                "end": 23,
+                "expanded_url": "https://ngl.link/christina40514",
+                "start": 0,
+                "url": "https://t.co/VZuVq6aHcM"
+              }
+            ]
+          }
+        },
+        "id": "1924482734396997632",
+        "location": "被窝",
+        "name": "Vvni",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941981282226855936/9T4K3Wht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 349,
+          "like_count": 45386,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1482
+        },
+        "url": "https://t.co/VZuVq6aHcM",
+        "username": "_vvni_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T18:26:54.000Z",
+        "description": "友跨| MTF 重抑\n含糖3.6.2026\n嚴重社恐長期宅家 | 社會自由主義萬歲\n♡民国派/PRC派【对台独无感】\n5.24.2010出廠|172cm 58.5kg",
+        "id": "2028899853716320256",
+        "location": "中華人民共和國",
+        "name": "許的什麼願🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029133812505165824/mqsMZ_Mw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 67,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 639
+        },
+        "username": "zzz1043903",
+        "verified": false
+      }
+    ]
+  }
+}

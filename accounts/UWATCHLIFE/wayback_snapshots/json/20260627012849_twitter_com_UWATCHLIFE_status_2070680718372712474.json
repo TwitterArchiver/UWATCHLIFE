@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2070342128987930966",
+    "created_at": "2026-06-27T01:28:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T02:28:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070680718372712474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2060588173583867904",
+          "start": 0,
+          "username": "qzaiul"
+        },
+        {
+          "end": 24,
+          "id": "1889861257",
+          "start": 8,
+          "username": "__summer__sea__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070680718372712474",
+    "in_reply_to_user_id": "2060588173583867904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070404244130127875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qzaiul @__summer__sea__ 可以试试300mg，过量不等于好旅行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2070342128987930966",
+        "created_at": "2026-06-27T01:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T02:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070680718372712474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2060588173583867904",
+              "start": 0,
+              "username": "qzaiul"
+            },
+            {
+              "end": 24,
+              "id": "1889861257",
+              "start": 8,
+              "username": "__summer__sea__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070680718372712474",
+        "in_reply_to_user_id": "2060588173583867904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070404244130127875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qzaiul @__summer__sea__ 可以试试300mg，过量不等于好旅行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060588173583867904",
+        "conversation_id": "2070342128987930966",
+        "created_at": "2026-06-26T07:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T08:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070404244130127875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1889861257",
+              "start": 0,
+              "username": "__summer__sea__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070404244130127875",
+        "in_reply_to_user_id": "1889861257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070342128987930966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__summer__sea__ 为什么我是头晕一整天450mg无耐药吃少了吗😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 111,
+          "like_count": 1385,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 966
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T05:05:48.000Z",
+        "description": "持证含糖🍬hrt:2026.5.1",
+        "id": "2060588173583867904",
+        "name": "qz",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 176,
+          "like_count": 997,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "qzaiul",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-21T11:07:58.000Z",
+        "description": "神户盐｜16岁｜护理专业｜渴望有人能拯救我｜情感淡漠｜家长不管党｜Q:3755457720｜https://t.co/p1HdmUrBuO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/yanshatang",
+                "end": 69,
+                "expanded_url": "http://t.me/yanshatang",
+                "start": 46,
+                "url": "https://t.co/p1HdmUrBuO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 23,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 0,
+                "url": "https://t.co/1e7qTaQHLq"
+              }
+            ]
+          }
+        },
+        "id": "1889861257",
+        "name": "盐🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061179467889074177/WoZoQ9BB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1113,
+          "following_count": 1040,
+          "like_count": 8909,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 2857
+        },
+        "url": "https://t.co/1e7qTaQHLq",
+        "username": "__summer__sea__",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2067102275223671178",
+    "created_at": "2026-06-17T04:29:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T05:29:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067102275223671178"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Overdose_HPD/s…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/Overdose_HPD/status/2067097166469038308",
+          "start": 44,
+          "url": "https://t.co/JQ5tGmVFV8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067102275223671178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067097166469038308",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人生自古谁无死？不幸地，替来他明已经列管，因此无法继续与您互动，让我们永远缅怀它，，， https://t.co/JQ5tGmVFV8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2067102275223671178",
+        "created_at": "2026-06-17T04:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067102275223671178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Overdose_HPD/s…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/Overdose_HPD/status/2067097166469038308",
+              "start": 44,
+              "url": "https://t.co/JQ5tGmVFV8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067102275223671178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067097166469038308",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人生自古谁无死？不幸地，替来他明已经列管，因此无法继续与您互动，让我们永远缅怀它，，， https://t.co/JQ5tGmVFV8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044355126517727232",
+        "conversation_id": "2067097166469038308",
+        "created_at": "2026-06-17T04:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067097166469038308"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067097166469038308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "月尘一声拜拜远去那高原"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 106,
+          "like_count": 1210,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 870
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T10:00:27.000Z",
+        "description": "Spring风的附庸",
+        "id": "2044355126517727232",
+        "location": "前人未至之地，前人未竟之事",
+        "name": "春风20001号#蒼い惑星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064526167177392128/GqjNlro0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 165,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 314
+        },
+        "username": "Overdose_HPD",
+        "verified": false
+      }
+    ]
+  }
+}

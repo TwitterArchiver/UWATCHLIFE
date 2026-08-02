@@ -1,0 +1,696 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2076561623368806524",
+    "created_at": "2026-07-13T06:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T07:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076561755589984536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1177199339753443328",
+          "start": 0,
+          "username": "serinyanblack"
+        },
+        {
+          "end": 31,
+          "id": "1660457638789021697",
+          "start": 16,
+          "username": "fengshuang1234"
+        },
+        {
+          "end": 42,
+          "id": "2075769596565757953",
+          "start": 33,
+          "username": "babenhua"
+        },
+        {
+          "end": 71,
+          "id": "357539288",
+          "start": 60,
+          "username": "Surajazeem"
+        },
+        {
+          "end": 87,
+          "id": "1625848011221008392",
+          "start": 73,
+          "username": "keaixianggugu"
+        },
+        {
+          "end": 103,
+          "id": "1937073350750466048",
+          "start": 89,
+          "username": "karo269640607"
+        },
+        {
+          "end": 120,
+          "id": "1243590342911410176",
+          "start": 105,
+          "username": "bing2000100830"
+        },
+        {
+          "end": 135,
+          "id": "2043745937298792448",
+          "start": 122,
+          "username": "ivan20221126"
+        },
+        {
+          "end": 153,
+          "id": "1998633997623300096",
+          "start": 137,
+          "username": "17kxscvooo45974"
+        },
+        {
+          "end": 163,
+          "id": "2074646166273462272",
+          "start": 155,
+          "username": "DBULxxx"
+        },
+        {
+          "end": 175,
+          "id": "3235983522",
+          "start": 165,
+          "username": "SINUOSI11"
+        },
+        {
+          "end": 190,
+          "id": "2074568420574851072",
+          "start": 177,
+          "username": "jinshi778899"
+        },
+        {
+          "end": 203,
+          "id": "1792959670686187520",
+          "start": 192,
+          "username": "otter_0405"
+        },
+        {
+          "end": 219,
+          "id": "1495262246213230600",
+          "start": 205,
+          "username": "woodburninbox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076561755589984536",
+    "in_reply_to_user_id": "2044496192734666752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076561623368806524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "@serinyanblack \n@fengshuang1234 \n@babenhua （屑屑你，提出力付款机制，，，）\n@Surajazeem \n@keaixianggugu \n@karo269640607 \n@bing2000100830 \n@ivan20221126 \n@17kxscvooo45974 \n@DBULxxx \n@SINUOSI11 \n@jinshi778899 \n@otter_0405 \n@woodburninbox"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2076561623368806524",
+        "created_at": "2026-07-13T06:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076561755589984536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1177199339753443328",
+              "start": 0,
+              "username": "serinyanblack"
+            },
+            {
+              "end": 31,
+              "id": "1660457638789021697",
+              "start": 16,
+              "username": "fengshuang1234"
+            },
+            {
+              "end": 42,
+              "id": "2075769596565757953",
+              "start": 33,
+              "username": "babenhua"
+            },
+            {
+              "end": 71,
+              "id": "357539288",
+              "start": 60,
+              "username": "Surajazeem"
+            },
+            {
+              "end": 87,
+              "id": "1625848011221008392",
+              "start": 73,
+              "username": "keaixianggugu"
+            },
+            {
+              "end": 103,
+              "id": "1937073350750466048",
+              "start": 89,
+              "username": "karo269640607"
+            },
+            {
+              "end": 120,
+              "id": "1243590342911410176",
+              "start": 105,
+              "username": "bing2000100830"
+            },
+            {
+              "end": 135,
+              "id": "2043745937298792448",
+              "start": 122,
+              "username": "ivan20221126"
+            },
+            {
+              "end": 153,
+              "id": "1998633997623300096",
+              "start": 137,
+              "username": "17kxscvooo45974"
+            },
+            {
+              "end": 163,
+              "id": "2074646166273462272",
+              "start": 155,
+              "username": "DBULxxx"
+            },
+            {
+              "end": 175,
+              "id": "3235983522",
+              "start": 165,
+              "username": "SINUOSI11"
+            },
+            {
+              "end": 190,
+              "id": "2074568420574851072",
+              "start": 177,
+              "username": "jinshi778899"
+            },
+            {
+              "end": 203,
+              "id": "1792959670686187520",
+              "start": 192,
+              "username": "otter_0405"
+            },
+            {
+              "end": 219,
+              "id": "1495262246213230600",
+              "start": 205,
+              "username": "woodburninbox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076561755589984536",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076561623368806524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "@serinyanblack \n@fengshuang1234 \n@babenhua （屑屑你，提出力付款机制，，，）\n@Surajazeem \n@keaixianggugu \n@karo269640607 \n@bing2000100830 \n@ivan20221126 \n@17kxscvooo45974 \n@DBULxxx \n@SINUOSI11 \n@jinshi778899 \n@otter_0405 \n@woodburninbox"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2076561621766610944"
+          ]
+        },
+        "author_id": "2044496192734666752",
+        "conversation_id": "2076561623368806524",
+        "created_at": "2026-07-13T06:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076561623368806524"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076561623368806524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "由于本壬的失误与无能，原本估价为0.6元的产品，厂家报价0.8元，让大家承受力02元的笋丝，肥肠爆芡，我什么都不会做的，，，\n现发起团员投票，分别有两个选项：一事现在直接下单，但要承受这多出来的0.2元，二则事让本five继续还盘，可能能够还到0.6元，但很有可能会花费个一周时间，并且不一定成功。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 130,
+          "like_count": 1593,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1085
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-26T12:32:58.000Z",
+        "description": "九州の黒ギャルの生き残り🫶❤️黒ギャルの専門家。ギャル生態学、博士号取得。日サロ、映画、Vシネ、こち亀、格闘技、落語、お笑い、B'z、動物は鳥派🦉✨ 地方競馬と城巡りが趣味🏯",
+        "id": "1177199339753443328",
+        "name": "博多の黒ギャルセリにゃん💓",
+        "pinned_tweet_id": "2071974407468376255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686226900551925760/J33rWJzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66744,
+          "following_count": 2267,
+          "like_count": 254076,
+          "listed_count": 254,
+          "media_count": 3378,
+          "tweet_count": 48468
+        },
+        "url": "",
+        "username": "serinyanblack",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-22T01:28:54.000Z",
+        "description": "",
+        "id": "1660457638789021697",
+        "location": "神圣骡马帝国",
+        "name": "枫霜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076459426069045248/eEsUfuIH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 17,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "fengshuang1234",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-11T02:32:47.000Z",
+        "description": "怕被晶？妄想害！法律的阴霾下该如何呼吸？\n敬请关注本账号 友好一切 前oder 提供免费法律/药理咨询 尤其od风险事项 减害/戒断也不在话下\nhttps://t.co/f88gJzZEuM 期待抚平你的焦虑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/odsual",
+                "end": 95,
+                "expanded_url": "https://ngl.link/odsual",
+                "start": 72,
+                "url": "https://t.co/f88gJzZEuM"
+              }
+            ]
+          }
+        },
+        "id": "2075769596565757953",
+        "name": "八本 华",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075774419558146048/4VuEr9kP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 17,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "babenhua",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-18T14:39:37.000Z",
+        "description": "我恨msk，拿了我的钱还这样我他妈的\n18.0\n辣条已过气。\n妈妈@Shivam3228\n牛马💊 @AminoXx_killer \n媳妇@Ririka12208",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 64,
+                "start": 49,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "Ririka12208"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/GEPRzkdFkj"
+              }
+            ]
+          }
+        },
+        "id": "357539288",
+        "location": "msk身后",
+        "name": "雨林18+",
+        "pinned_tweet_id": "2074845970169577745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074861255509307392/Y8tOJNW6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 142,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 229
+        },
+        "url": "https://t.co/GEPRzkdFkj",
+        "username": "Surajazeem",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-15T13:22:42.000Z",
+        "description": "OD对我来说只是拿来解闷和助兴，不提供购药渠道。  上海地区需要帮助的挂壁同好请私聊我，欢迎互关，我人很和善欢迎闲聊~",
+        "id": "1625848011221008392",
+        "location": "上海",
+        "name": "一只鸽子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816713088034570242/x9lDEI6Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 371,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 832
+        },
+        "url": "",
+        "username": "keaixianggugu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T09:01:20.000Z",
+        "description": "o割餐券  I  ADHD、重焦中抑 |  虚无主义 | 顺女女同 | 生物化学药理板绘❤️ | 同类互fo | 混邪同人女 |恐游像素RPG爱好者|任何物种或性取向欢迎 | 化学极乐 | 基佬孝女 言切 衛拓 黑红 狛日拒拆逆、生化里昂右向全肯定、all昴全肯定；尤昴莱昴奥昴⬆️艾昴蕾昴OK| 骂我的全家替挡灾",
+        "id": "1937073350750466048",
+        "name": "雨鈴",
+        "pinned_tweet_id": "2070341749247996152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 718,
+          "like_count": 38339,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 7746
+        },
+        "url": "",
+        "username": "karo269640607",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n最爱💊: @sleeping_dsc\n第一好: @KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "sleeping_dsc"
+              },
+              {
+                "end": 52,
+                "start": 43,
+                "username": "KKKaoru_"
+              }
+            ]
+          }
+        },
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 1314,
+          "like_count": 51177,
+          "listed_count": 3,
+          "media_count": 105,
+          "tweet_count": 3164
+        },
+        "url": "",
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 134,
+          "like_count": 2751,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 276
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T06:00:59.000Z",
+        "description": "https://t.co/Yn9N2XnAZK\n我想要芬太尼",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/erfjjuu",
+                "end": 23,
+                "expanded_url": "https://t.me/erfjjuu",
+                "start": 0,
+                "url": "https://t.co/Yn9N2XnAZK"
+              }
+            ]
+          }
+        },
+        "id": "1998633997623300096",
+        "name": "123kluqefyhhbn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066343689430110208/q5jHkBZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 270,
+          "like_count": 447,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 98
+        },
+        "url": "",
+        "username": "17kxscvooo45974",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-08T00:08:17.000Z",
+        "description": "💊什么都干的凑四斋ᜊ•͈⌔•͈ᜊ\n\n♑07 /ENTJ /餐券 /od毒蟲w /🖥️ /🎧 /🏸 /🤿 /🎨 /brat /二游 /休学 /成分复杂x（我对什么都感兴趣，欢迎聊天互fo喵",
+        "id": "2074646166273462272",
+        "name": "凉yy.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074647975658496001/IV-FWbky_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 22,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "DBULxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-04T13:11:25.000Z",
+        "description": "思诺思 氯硝西泮 仅供睡眠 有事请直说 不要在吗您好怎么出 价格已经写在推文中了 不要一直问 统一先款 拒绝后款到付 大额可其他交易方式",
+        "id": "3235983522",
+        "location": "仓库",
+        "name": "暂停服务",
+        "pinned_tweet_id": "1650011865278484480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1615310936935661569/KkdSBMHO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 132,
+          "like_count": 632,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "SINUOSI11",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-07T18:57:55.000Z",
+        "description": "资深老oder 欢迎各种询问 | 🈲政｜出售单方右美沙芬 需要的私 私信常开 请确保了解药理后再服用 备用号@yinshi778899",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "yinshi778899"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOnb666",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOnb666",
+                "start": 0,
+                "url": "https://t.co/ZdR23jTRXh"
+              }
+            ]
+          }
+        },
+        "id": "2074568420574851072",
+        "location": "新加坡",
+        "name": "金时（互fo）🍥💻",
+        "pinned_tweet_id": "2075146854862594542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074569945795747840/kOiJ_Z_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 145,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 117
+        },
+        "url": "https://t.co/ZdR23jTRXh",
+        "username": "jinshi778899",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-21T16:44:43.000Z",
+        "description": "做一只专心致志的度虫",
+        "id": "1792959670686187520",
+        "name": "otter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969924122995269632/5mTNaz-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 43,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "otter_0405",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T05:01:27.000Z",
+        "description": "🩸💊☠️\nbackend eng ai4s",
+        "id": "1495262246213230600",
+        "location": "上海",
+        "name": "ccandle",
+        "pinned_tweet_id": "2066891324427747715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072211132430098432/_MS0dmVj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 150,
+          "like_count": 383,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 124
+        },
+        "url": "",
+        "username": "woodburninbox",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2077898405888807195",
+    "created_at": "2026-07-17T00:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T01:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077918033704800503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2046538614209994752",
+          "start": 0,
+          "username": "overdose7days"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077918033704800503",
+    "in_reply_to_user_id": "2046538614209994752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077898405888807195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose7days 别太在意，你这几届竞争严重大专本科都找不到工作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2077898405888807195",
+        "created_at": "2026-07-17T00:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T01:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077918033704800503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2046538614209994752",
+              "start": 0,
+              "username": "overdose7days"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077918033704800503",
+        "in_reply_to_user_id": "2046538614209994752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077898405888807195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose7days 别太在意，你这几届竞争严重大专本科都找不到工作"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046538614209994752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2077898405888807195",
+        "created_at": "2026-07-16T23:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T00:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077898405888807195"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077898405888807195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在唯一怕的就是进普高跟不走，耍又耍不起来我除了会飞叶子还会干啥，唉，这辈子废了，那个职高肯定进不去，月假制度化学专业的吧我感觉那里面偏科肯定很严重好想跳楼，学不懂就去中专了呗，还活着已经很努力了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 146,
+          "like_count": 1721,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1151
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T10:37:56.000Z",
+        "description": "本质毒虫\n欢迎同类互fo",
+        "id": "2046538614209994752",
+        "location": "地狱",
+        "name": "爱无能",
+        "pinned_tweet_id": "2065946189682618475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 103,
+          "like_count": 6851,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 653
+        },
+        "url": "",
+        "username": "overdose7days",
+        "verified": false
+      }
+    ]
+  }
+}

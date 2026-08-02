@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2051868719882887263",
+    "created_at": "2026-05-06T04:26:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T05:26:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051881364438524115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051881364438524115",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051868719882887263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 那咋了是让人思考而非让人停止思考"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1730,
+        "media_key": "3_2051868711225810944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHmzuLpaYAAtiJu.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2051868719882887263",
+        "created_at": "2026-05-06T04:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T05:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051881364438524115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051881364438524115",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051868719882887263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 那咋了是让人思考而非让人停止思考"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051868711225810944"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2051868719882887263",
+        "created_at": "2026-05-06T03:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T04:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051868719882887263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K79jldvzEl",
+              "end": 165,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2051868719882887263/photo/1",
+              "media_key": "3_2051868711225810944",
+              "start": 142,
+              "url": "https://t.co/K79jldvzEl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051868719882887263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "「那咋啦？」直接代替一切思考，「那咋啦？」\n\n所以说太小的孩子真的不适合碰社媒。小孩在接触到一个新鲜的网络用语的时候，往往会滥用这一网络用语，并用其代替经过思考说出的话。以前说话需要经过思考组织语言，现在直接套用「那咋啦」之类的公式，无需思考就可以大说特说。\n\n长期「那咋啦」的后果 就是形成思维惰性，最终失去思考的能力。现在网络上不会思考的人大行其道，恐怕和网络用语滥用脱不了干系。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 665,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "「那咋啦？」直接代替一切思考，「那咋啦？」\n\n所以说太小的孩子真的不适合碰社媒。小孩在接触到一个新鲜的网络用语的时候，往往会滥用这一网络用语，并用其代替经过思考说出的话。以前说话需要经过思考组织语言，现在直接套用「那咋啦」之类的公式，无需思考就可以大说特说。\n\n长期「那咋啦」的后果 https://t.co/K79jldvzEl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 59,
+          "like_count": 355,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 368
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和猫猫 @HuamanX09 贴贴喵！| CN/EN/JP | まのさば好き | 友跨 | 想当猫猫\n日语号：@NihonKanjousen\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "HuamanX09"
+              },
+              {
+                "end": 76,
+                "start": 61,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 108,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 85,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2666,
+          "following_count": 801,
+          "like_count": 18121,
+          "listed_count": 9,
+          "media_count": 980,
+          "tweet_count": 5389
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

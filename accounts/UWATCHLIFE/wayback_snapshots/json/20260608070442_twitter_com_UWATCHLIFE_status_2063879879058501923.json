@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063822881566457856"
+      ],
+      "media_source_tweet_id": [
+        "2063868375554724160"
+      ]
+    },
+    "author_id": "2044496192734666752",
+    "conversation_id": "2063879879058501923",
+    "created_at": "2026-06-08T07:04:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T08:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063879879058501923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yEvilUIbfo",
+          "end": 84,
+          "expanded_url": "https://x.com/SalviaSWC/status/2063868375554724160/photo/1",
+          "media_key": "3_2063822881566457856",
+          "start": 61,
+          "url": "https://t.co/yEvilUIbfo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063879879058501923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063868375554724160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: 以防万一，给大家做一下思想工作哈🥺\n\n以下截图来自《FreeOD引论》，大家可以去看看哦🥹 https://t.co/yEvilUIbfo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063822881566457856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQr-ecXgAAXTFn.jpg",
+        "width": 964
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063822881566457856"
+          ],
+          "media_source_tweet_id": [
+            "2063868375554724160"
+          ]
+        },
+        "author_id": "2044496192734666752",
+        "conversation_id": "2063879879058501923",
+        "created_at": "2026-06-08T07:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T08:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063879879058501923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659962043460354050",
+              "start": 3,
+              "username": "SalviaSWC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yEvilUIbfo",
+              "end": 84,
+              "expanded_url": "https://x.com/SalviaSWC/status/2063868375554724160/photo/1",
+              "media_key": "3_2063822881566457856",
+              "start": 61,
+              "url": "https://t.co/yEvilUIbfo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063879879058501923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063868375554724160",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SalviaSWC: 以防万一，给大家做一下思想工作哈🥺\n\n以下截图来自《FreeOD引论》，大家可以去看看哦🥹 https://t.co/yEvilUIbfo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063822881566457856"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2063868375554724160",
+        "created_at": "2026-06-08T06:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063868375554724160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yEvilUIbfo",
+              "end": 69,
+              "expanded_url": "https://x.com/SalviaSWC/status/2063868375554724160/photo/1",
+              "media_key": "3_2063822881566457856",
+              "start": 46,
+              "url": "https://t.co/yEvilUIbfo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063868375554724160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "以防万一，给大家做一下思想工作哈🥺\n\n以下截图来自《FreeOD引论》，大家可以去看看哦🥹 https://t.co/yEvilUIbfo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 97,
+          "like_count": 1091,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 777
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4814,
+          "following_count": 1012,
+          "like_count": 24342,
+          "listed_count": 12,
+          "media_count": 548,
+          "tweet_count": 7863
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

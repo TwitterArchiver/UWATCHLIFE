@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2048377080891711704",
+    "created_at": "2026-04-26T13:33:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T14:33:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048395105049125216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1556279645502427136",
+          "start": 0,
+          "username": "tianxiao0502"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048395105049125216",
+    "in_reply_to_user_id": "1556279645502427136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048377080891711704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianxiao0502 致敬后藤了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2048377080891711704",
+        "created_at": "2026-04-26T13:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048395105049125216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1556279645502427136",
+              "start": 0,
+              "username": "tianxiao0502"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048395105049125216",
+        "in_reply_to_user_id": "1556279645502427136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048377080891711704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianxiao0502 致敬后藤了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556279645502427136",
+        "conversation_id": "2048377080891711704",
+        "created_at": "2026-04-26T12:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T13:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048377080891711704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Psydrugswiki/s…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/Psydrugswiki/status/2048168934906773508",
+              "start": 35,
+              "url": "https://t.co/Gu4ZjyuUjz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048377080891711704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048168934906773508",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抗抑郁药这块主要是我跟另外一个编辑在写，寻找新药的话有人愿意测试吗？ https://t.co/Gu4ZjyuUjz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 28,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 208
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T14:02:46.000Z",
+        "description": "PsydrugsWiki编辑/叫我天晓/pdw官号@Psydrugswiki/里推@maimai_Prism_│🍐妈妈@Kikunashi30712 /kr @KrvyScorpii/苦力怕@Akinoyo_desu/彻子@aokitetsu111/叶子@WinbornN94577/苦瓜大人@C4usT1c_03",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 25,
+                "username": "Psydrugswiki"
+              },
+              {
+                "end": 55,
+                "start": 41,
+                "username": "maimai_Prism_"
+              },
+              {
+                "end": 74,
+                "start": 59,
+                "username": "Kikunashi30712"
+              },
+              {
+                "end": 91,
+                "start": 79,
+                "username": "KrvyScorpii"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Akinoyo_desu"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "aokitetsu111"
+              },
+              {
+                "end": 141,
+                "start": 127,
+                "username": "WinbornN94577"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "C4usT1c_03"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/kbttTgmTXj"
+              }
+            ]
+          }
+        },
+        "id": "1556279645502427136",
+        "location": "庄俞南路 1号",
+        "name": "Pr5ga6al1N",
+        "pinned_tweet_id": "2015445624033051032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041020314524815360/KxdTr0Df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 188,
+          "like_count": 1264,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1054
+        },
+        "url": "https://t.co/kbttTgmTXj",
+        "username": "tianxiao0502",
+        "verified": true
+      }
+    ]
+  }
+}

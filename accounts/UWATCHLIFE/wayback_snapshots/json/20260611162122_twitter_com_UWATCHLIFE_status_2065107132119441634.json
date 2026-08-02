@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2065016961172640240",
+    "created_at": "2026-06-11T16:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T17:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065107132119441634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2037381870204198912",
+          "start": 0,
+          "username": "980thVGRegiment"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065107132119441634",
+    "in_reply_to_user_id": "2037381870204198912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065016961172640240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@980thVGRegiment 药物滥用从来就事一个社会问题，而非心理问题，更不事道德问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2065016961172640240",
+        "created_at": "2026-06-11T16:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065107132119441634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2037381870204198912",
+              "start": 0,
+              "username": "980thVGRegiment"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065107132119441634",
+        "in_reply_to_user_id": "2037381870204198912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065016961172640240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@980thVGRegiment 药物滥用从来就事一个社会问题，而非心理问题，更不事道德问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037381870204198912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2065016961172640240",
+        "created_at": "2026-06-11T10:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T11:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065016961172640240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/432Ifantrygrou…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/432Ifantrygroup/status/2058583791841710585",
+              "start": 119,
+              "url": "https://t.co/5ixmbPHukj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065016961172640240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 585,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058583791841710585",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "青少年跟风割手、od，我认为决不能把锅扣在网络、手机以及心智不成熟上，这不公平。你想，对他们来说有正确认识心理疾病的途径吗？是0，我们清楚学校的心理咨询服务和心理健康调查问卷是多么的敷衍，他们根本没有正确发泄、调理自己情绪的机会和能力。 https://t.co/5ixmbPHukj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 104,
+          "like_count": 1159,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 851
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T04:11:13.000Z",
+        "description": "东方白@432Ifantrygroup小号，https://t.co/JmbqtJGYqD匿名提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "432Ifantrygroup"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 45,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 22,
+                "url": "https://t.co/JmbqtJGYqD"
+              }
+            ]
+          }
+        },
+        "id": "2037381870204198912",
+        "name": "980th VG Regiment",
+        "pinned_tweet_id": "2064624145846108631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037382208261079040/7f2pwRnw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 233,
+          "like_count": 1675,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 407
+        },
+        "username": "980thVGRegiment",
+        "verified": false
+      }
+    ]
+  }
+}

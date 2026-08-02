@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2064704070414405819",
+    "created_at": "2026-06-11T10:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T11:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065023907909013618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1877685612935028736",
+          "start": 0,
+          "username": "kn1feMcGuff1n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065023907909013618",
+    "in_reply_to_user_id": "1877685612935028736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064704070414405819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kn1feMcGuff1n 鸦片，请"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1081,
+        "media_key": "3_2064704064185860096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdNaDgagAAmg5u.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2064704070414405819",
+        "created_at": "2026-06-11T10:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T11:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065023907909013618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1877685612935028736",
+              "start": 0,
+              "username": "kn1feMcGuff1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065023907909013618",
+        "in_reply_to_user_id": "1877685612935028736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064704070414405819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kn1feMcGuff1n 鸦片，请"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064704064185860096"
+          ]
+        },
+        "author_id": "1877685612935028736",
+        "conversation_id": "2064704070414405819",
+        "created_at": "2026-06-10T13:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064704070414405819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4cOStC7qTl",
+              "end": 81,
+              "expanded_url": "https://x.com/kn1feMcGuff1n/status/2064704070414405819/photo/1",
+              "media_key": "3_2064704064185860096",
+              "start": 58,
+              "url": "https://t.co/4cOStC7qTl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064704070414405819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6279,
+          "like_count": 56,
+          "quote_count": 2,
+          "reply_count": 70,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有对中国人或中国很了解的人吗？我想通过中文修行评估来调查食物，用中文发表，寻找具有历史意义或文化意义的食物。🙏🙏🙏 https://t.co/4cOStC7qTl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 104,
+          "like_count": 1164,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 849
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T11:55:16.000Z",
+        "description": "안안양월",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/kn1feMcGuff1n",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/kn1feMcGuff1n",
+                "start": 0,
+                "url": "https://t.co/7xNrhOr1nA"
+              }
+            ]
+          }
+        },
+        "id": "1877685612935028736",
+        "location": "립구계",
+        "name": "김나맥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926647286211231744/q5xG_PlK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 68,
+          "like_count": 515,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 333
+        },
+        "url": "https://t.co/7xNrhOr1nA",
+        "username": "kn1feMcGuff1n",
+        "verified": false
+      }
+    ]
+  }
+}

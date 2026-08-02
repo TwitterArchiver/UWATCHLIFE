@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2069987399019745280"
+      ]
+    },
+    "author_id": "2044496192734666752",
+    "conversation_id": "2069987400978424270",
+    "created_at": "2026-06-25T03:33:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T04:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069987400978424270"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069987400978424270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "欧滴大乐透，你局得七月表会把哪些药物送进精二？"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-06-26T03:33:49.000Z",
+        "id": "2069987399019745280",
+        "options": [
+          {
+            "label": "愈美片",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "普瑞巴林",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "美金刚",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "复方甘草片",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2069987399019745280"
+          ]
+        },
+        "author_id": "2044496192734666752",
+        "conversation_id": "2069987400978424270",
+        "created_at": "2026-06-25T03:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T04:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069987400978424270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069987400978424270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欧滴大乐透，你局得七月表会把哪些药物送进精二？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 110,
+          "like_count": 1342,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 916
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      }
+    ]
+  }
+}

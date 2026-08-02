@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2062392553023185198",
+    "created_at": "2026-06-04T05:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T06:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062402802618667422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2054196065172344832",
+          "start": 0,
+          "username": "GptRainy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062402802618667422",
+    "in_reply_to_user_id": "2054196065172344832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062401893406818509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GptRainy 本壬可没说过一定要用阿片类，慢性疼痛患者在其它方案无效时使用阿片类本就事正当的，事你先来说慢性疼痛不能用阿片类的，以及，你能一瞬开到曲马多不代表所有壬都可以。数据就事表明桂枝阿片类的使用严重匮乏，以至于患者的疼痛持续被忽视"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1497,
+        "media_key": "3_2062401889673818112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8fl3IaMAAP_xp.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2062392553023185198",
+        "created_at": "2026-06-04T05:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062402802618667422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054196065172344832",
+              "start": 0,
+              "username": "GptRainy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062402802618667422",
+        "in_reply_to_user_id": "2054196065172344832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062401893406818509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GptRainy 本壬可没说过一定要用阿片类，慢性疼痛患者在其它方案无效时使用阿片类本就事正当的，事你先来说慢性疼痛不能用阿片类的，以及，你能一瞬开到曲马多不代表所有壬都可以。数据就事表明桂枝阿片类的使用严重匮乏，以至于患者的疼痛持续被忽视"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062401889673818112"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2062392553023185198",
+        "created_at": "2026-06-04T05:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062401893406818509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044496192734666752",
+              "start": 0,
+              "username": "UWATCHLIFE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/so1nEbS6Zk",
+              "end": 104,
+              "expanded_url": "https://x.com/GptRainy/status/2062401893406818509/photo/1",
+              "media_key": "3_2062401889673818112",
+              "start": 81,
+              "url": "https://t.co/so1nEbS6Zk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062401893406818509",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062396243612246176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UWATCHLIFE 那我怎么就开到曲.马多了呃呃还有慢性疼痛本来就是非甾体优先啊，说我阿片恐惧症更是奇异搞笑，，，我只是在反驳你腰痛患者一定要用阿片类的结论 https://t.co/so1nEbS6Zk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 90,
+          "like_count": 1018,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 733
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "堂堂转生！\n\n07年Transfem/🐱我的小猫叫卡尔/OD💊/割🔪🩸/🤖独立AI研究者/药物咨询 https://t.co/5EE1WxkPHD / #病み垢 #OD界隈 #お薬界隈 #病み垢さんと繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 76,
+                "tag": "病み垢"
+              },
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "OD界隈"
+              },
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "お薬界隈"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "tag": "病み垢さんと繋がりたい"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/amecandyx",
+                "end": 73,
+                "expanded_url": "https://ngl.link/amecandyx",
+                "start": 50,
+                "url": "https://t.co/5EE1WxkPHD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "天堂",
+        "name": "小雨（转生复活ing）",
+        "pinned_tweet_id": "2060575051024564602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 150,
+          "like_count": 258,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 156
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": true
+      }
+    ]
+  }
+}

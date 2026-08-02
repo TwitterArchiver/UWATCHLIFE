@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2047184960172564509",
+    "created_at": "2026-04-23T07:06:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T08:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047210449469575326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1543751033490374662",
+          "start": 0,
+          "username": "ObserveDiary_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047210449469575326",
+    "in_reply_to_user_id": "1543751033490374662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047184960172564509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ObserveDiary_ 重叠群体即便占少数，那些知道的人（比如广州吸毒）也是会把路子什么的传到墙内的，就像可待因止咳水列管后发掘出的小白片能够流行一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2047184960172564509",
+        "created_at": "2026-04-23T07:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T08:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047210449469575326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1543751033490374662",
+              "start": 0,
+              "username": "ObserveDiary_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047210449469575326",
+        "in_reply_to_user_id": "1543751033490374662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047184960172564509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ObserveDiary_ 重叠群体即便占少数，那些知道的人（比如广州吸毒）也是会把路子什么的传到墙内的，就像可待因止咳水列管后发掘出的小白片能够流行一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543751033490374662",
+        "conversation_id": "2047184960172564509",
+        "created_at": "2026-04-23T05:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047184960172564509"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047184960172564509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "墙内外oder基本上就是两伙人，重叠群体（起码知道odwk存在）的其实占少数，而且最多也就知道藤维而已\n药圈的人纠结o扩不扩，实际情况大概率是那些乱o的根本不在乎你们的科普，他们会不会翻墙、能不能想到这些都难说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 21,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 126
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T00:18:29.000Z",
+        "description": "🏳️‍🌈enby/杂垢/扩fo中丨我会关注一堆画师",
+        "id": "1543751033490374662",
+        "name": "寝る",
+        "pinned_tweet_id": "2046816014927790285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 629,
+          "like_count": 13905,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 2793
+        },
+        "username": "ObserveDiary_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2049110997978505416",
+    "created_at": "2026-04-28T14:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T15:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049127123429077454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1878091007453286400",
+          "start": 0,
+          "username": "EoivLanY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049127123429077454",
+    "in_reply_to_user_id": "1878091007453286400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049110997978505416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EoivLanY 先不说退款的事，虽然这件事是恁需要注重的最主要的事情\n请问恁是否应该承认恁无实物表演的错误并进行正式的道歉呢，而只有这样才有可能让oder们给你时间退钱并慢慢原谅恁？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1986,
+        "media_key": "3_2049110968870002688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_nkczaYAAevTv.jpg",
+        "width": 1008
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049110968890970112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_nkc4aUAA6nyb.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2049110997978505416",
+        "created_at": "2026-04-28T14:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049127123429077454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1878091007453286400",
+              "start": 0,
+              "username": "EoivLanY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049127123429077454",
+        "in_reply_to_user_id": "1878091007453286400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049110997978505416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EoivLanY 先不说退款的事，虽然这件事是恁需要注重的最主要的事情\n请问恁是否应该承认恁无实物表演的错误并进行正式的道歉呢，而只有这样才有可能让oder们给你时间退钱并慢慢原谅恁？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049110968870002688",
+            "3_2049110968890970112"
+          ]
+        },
+        "author_id": "1878091007453286400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049110997978505416",
+        "created_at": "2026-04-28T12:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T13:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049110997978505416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WiP8LfjZsD",
+              "end": 32,
+              "expanded_url": "https://x.com/EoivLanY/status/2049110997978505416/photo/1",
+              "media_key": "3_2049110968870002688",
+              "start": 9,
+              "url": "https://t.co/WiP8LfjZsD"
+            },
+            {
+              "display_url": "pic.x.com/WiP8LfjZsD",
+              "end": 32,
+              "expanded_url": "https://x.com/EoivLanY/status/2049110997978505416/photo/1",
+              "media_key": "3_2049110968890970112",
+              "start": 9,
+              "url": "https://t.co/WiP8LfjZsD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049110997978505416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "截至目前退了一些 https://t.co/WiP8LfjZsD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 44,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 253
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T14:46:17.000Z",
+        "description": "所有药物退回 所有RMB正在统计 \n那我请问 我亏损的谁给我补？ 嗯？",
+        "id": "1878091007453286400",
+        "location": "有你爱我的地方",
+        "name": "泪滴滴滴",
+        "pinned_tweet_id": "2048958912800653717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046512778790510592/HXLV5oxs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 88,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 36
+        },
+        "username": "EoivLanY",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2063609301508477157",
+    "created_at": "2026-06-07T13:09:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:09:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063609301508477157"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 118,
+          "expanded_url": "https://twitter.com/SalviaSWC/status/2037372479539167573",
+          "start": 95,
+          "url": "https://t.co/Rp0hpZ8ocQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063609301508477157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037372479539167573",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很大程度上不仅事监管的问题。自媒体事这样一种行业，哪里有情绪，哪里就会生长出自媒体。这些炒作狗们只事看到oder这一弱势群体无力可欺，又吸引眼球，利用民粹式的舆论来给自己引流盈利罢力，，， https://t.co/Rp0hpZ8ocQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037370024432930816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEYxPiZakAAKsQL.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2063609301508477157",
+        "created_at": "2026-06-07T13:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063609301508477157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2037372479539167573",
+              "start": 95,
+              "url": "https://t.co/Rp0hpZ8ocQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063609301508477157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037372479539167573",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很大程度上不仅事监管的问题。自媒体事这样一种行业，哪里有情绪，哪里就会生长出自媒体。这些炒作狗们只事看到oder这一弱势群体无力可欺，又吸引眼球，利用民粹式的舆论来给自己引流盈利罢力，，， https://t.co/Rp0hpZ8ocQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037370024432930816"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2037372479539167573",
+        "created_at": "2026-03-27T03:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T04:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037372479539167573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YFwwVPpst9",
+              "end": 166,
+              "expanded_url": "https://x.com/SalviaSWC/status/2037372479539167573/photo/1",
+              "media_key": "3_2037370024432930816",
+              "start": 143,
+              "url": "https://t.co/YFwwVPpst9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037372479539167573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 11884,
+          "like_count": 102,
+          "quote_count": 5,
+          "reply_count": 20,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我发现最近有一个趋势，那就是墙内平台上越来越多个人加入了禁毒自媒体的行列。\n\n然而，国内的严格政策导致这些自媒体只能输出一个观点、一个立场、一个态度。网民根本无法了解这个话题的全貌😢\n\n这就是我在推特上活动的原因：在这里，我能自由表达，无惧审查。如果你也跟我一样，记住你不是孤单的哦~ https://t.co/YFwwVPpst9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 97,
+          "like_count": 1083,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 771
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4810,
+          "following_count": 1011,
+          "like_count": 24302,
+          "listed_count": 12,
+          "media_count": 545,
+          "tweet_count": 7847
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

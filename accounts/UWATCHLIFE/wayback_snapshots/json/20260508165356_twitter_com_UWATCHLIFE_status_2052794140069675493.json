@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2052789456571355162",
+    "created_at": "2026-05-08T16:53:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T17:53:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052794140069675493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2023770080451194880",
+          "start": 0,
+          "username": "seri1131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052794140069675493",
+    "in_reply_to_user_id": "2023770080451194880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052789456571355162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seri1131 亚文化换代是很正常的事，这圈子都四年了，都快得换三代壬了（纯初步个壬观察），和死亡率关系不大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2052789456571355162",
+        "created_at": "2026-05-08T16:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052794140069675493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2023770080451194880",
+              "start": 0,
+              "username": "seri1131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052794140069675493",
+        "in_reply_to_user_id": "2023770080451194880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052789456571355162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seri1131 亚文化换代是很正常的事，这圈子都四年了，都快得换三代壬了（纯初步个壬观察），和死亡率关系不大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023770080451194880",
+        "conversation_id": "2052789456571355162",
+        "created_at": "2026-05-08T16:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052789456571355162"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052789456571355162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近起用了这个新号，刷为你推荐的时候才感觉出来，现在中推OD圈的人好像换了一批……\n难道原来那批人不是进去了就是死了吗，或者回归地球online主线了（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 64,
+          "like_count": 414,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 420
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T14:42:53.000Z",
+        "description": "無言フォロー失礼します。20↑ 歴オタ。精神疾患や薬やmaimaiDXも呟いてる。頭が非常識だ｡\n喜欢一些阴间的人和他们过去阳间的时候。\nmastodon：https://t.co/jbn7R9vGu5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "c7.io/@hanaaki",
+                "end": 101,
+                "expanded_url": "https://c7.io/@hanaaki",
+                "start": 78,
+                "url": "https://t.co/jbn7R9vGu5"
+              }
+            ]
+          }
+        },
+        "id": "2023770080451194880",
+        "name": "残鸦外",
+        "pinned_tweet_id": "2024468698036392102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043955758065500161/wwxbUmTu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 45,
+          "like_count": 236,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 175
+        },
+        "username": "seri1131",
+        "verified": false
+      }
+    ]
+  }
+}

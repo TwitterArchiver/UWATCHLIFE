@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2049416302142652744",
+    "created_at": "2026-04-29T17:27:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T18:27:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049541096880136412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1903459467230072832",
+          "start": 0,
+          "username": "LaptiReed"
+        },
+        {
+          "end": 19,
+          "id": "1886385501130866688",
+          "start": 11,
+          "username": "Lomyral"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049541096880136412",
+    "in_reply_to_user_id": "1903459467230072832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049426821545169132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LaptiReed @Lomyral 老猫二世"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2049426821545169132].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2049426821545169132",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2049426821545169132"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2049416302142652744",
+        "created_at": "2026-04-29T17:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T18:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049541096880136412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1903459467230072832",
+              "start": 0,
+              "username": "LaptiReed"
+            },
+            {
+              "end": 19,
+              "id": "1886385501130866688",
+              "start": 11,
+              "username": "Lomyral"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049541096880136412",
+        "in_reply_to_user_id": "1903459467230072832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049426821545169132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LaptiReed @Lomyral 老猫二世"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 47,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 271
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-22T14:52:40.000Z",
+        "description": "三百年来伤国步\n八千里外吊民残",
+        "id": "1903459467230072832",
+        "location": "in terra longinqua…",
+        "name": "Historiacus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040943996101611520/YwE7uX_6_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 62,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 155
+        },
+        "username": "LaptiReed",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T12:05:49.000Z",
+        "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.二号机@Lomyral8964\n\n互关们可以私我领取tg🤲🏻❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 53,
+                "username": "Lomyral8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/ZWfkB4yLYI"
+              }
+            ]
+          }
+        },
+        "id": "1886385501130866688",
+        "name": "Lomyral",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 626,
+          "like_count": 45350,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 6009
+        },
+        "url": "https://t.co/ZWfkB4yLYI",
+        "username": "Lomyral",
+        "verified": false
+      }
+    ]
+  }
+}

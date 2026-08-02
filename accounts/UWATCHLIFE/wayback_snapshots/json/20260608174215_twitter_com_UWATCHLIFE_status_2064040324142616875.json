@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2064033642326925797",
+    "created_at": "2026-06-08T17:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T18:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064040324142616875"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064040324142616875",
+    "in_reply_to_user_id": "2044496192734666752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064039324933673098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最终，正义执行。那个曾经执行禁毒的海牙，现在将禁毒者送入了监牢。本壬在此向与本案性质相同的，某毒品战争的受益者、独裁者隔空喊话：别看今天闹得欢，小心今后拉清单，这都得应验的。不要干这种事情。头上三尺有神明，一定要有敬畏之心。\n@平安联合国 建议立即击毙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2064033642326925797",
+        "created_at": "2026-06-08T17:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064040324142616875"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064040324142616875",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064039324933673098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最终，正义执行。那个曾经执行禁毒的海牙，现在将禁毒者送入了监牢。本壬在此向与本案性质相同的，某毒品战争的受益者、独裁者隔空喊话：别看今天闹得欢，小心今后拉清单，这都得应验的。不要干这种事情。头上三尺有神明，一定要有敬畏之心。\n@平安联合国 建议立即击毙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2064033642326925797",
+        "created_at": "2026-06-08T17:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064039324933673098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064039324933673098",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064039092107755688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根据菲律宾政府的官方数据，截至杜特尔特任期结束，毒品犯罪嫌疑人遭击毙的人数为6252人。然而，人权组织（包括国际刑事法院）则估计，实际死亡人数可能介于12000至30000人之间，而毒品战争的杀戮高峰发生在2016至2017年间。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 97,
+          "like_count": 1106,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 797
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      }
+    ]
+  }
+}

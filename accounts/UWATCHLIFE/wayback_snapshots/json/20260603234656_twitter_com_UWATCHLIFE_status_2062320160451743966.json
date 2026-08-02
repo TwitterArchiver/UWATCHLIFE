@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2062083857512575086",
+    "created_at": "2026-06-03T23:46:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T00:46:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062320160451743966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1484072544009347072",
+          "start": 0,
+          "username": "BelovedUren8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062320160451743966",
+    "in_reply_to_user_id": "1484072544009347072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062083857512575086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BelovedUren8964 一些同志认为董晗卖药越少越好，后来才统一认识：让董晗多卖药，才爱国。 否则变成爱马鹏宇的国了。国内有国，马、董、我，三国志"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2062083857512575086",
+        "created_at": "2026-06-03T23:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T00:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062320160451743966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1484072544009347072",
+              "start": 0,
+              "username": "BelovedUren8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062320160451743966",
+        "in_reply_to_user_id": "1484072544009347072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062083857512575086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BelovedUren8964 一些同志认为董晗卖药越少越好，后来才统一认识：让董晗多卖药，才爱国。 否则变成爱马鹏宇的国了。国内有国，马、董、我，三国志"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484072544009347072",
+        "conversation_id": "2062083857512575086",
+        "created_at": "2026-06-03T08:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062083857512575086"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062083857512575086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "去搞反解离，那是大学，可以学到很多东西。什么“药理学蓝本四十九章”什么“精神药理学”，还是那个大学好！我就是odw大学的，在那里学了点东西。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 90,
+          "like_count": 1016,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 731
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T07:57:36.000Z",
+        "description": "滨边雨怜（曾用名：伊藤政子 伊政兰 体調不良） 猫砂帮荣誉成员 老学校客座教授 主讲谈论 人在日本 合法住民",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uren68329",
+                "end": 23,
+                "expanded_url": "https://ngl.link/uren68329",
+                "start": 0,
+                "url": "https://t.co/DgJHLTsiwH"
+              }
+            ]
+          }
+        },
+        "id": "1484072544009347072",
+        "location": "Kyushu",
+        "name": "浜辺雨怜没听懂没听见不懂",
+        "pinned_tweet_id": "2050110766905475396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048064307309797376/v6DCWgfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 516,
+          "like_count": 6028,
+          "listed_count": 3,
+          "media_count": 565,
+          "tweet_count": 4558
+        },
+        "url": "https://t.co/DgJHLTsiwH",
+        "username": "BelovedUren8964",
+        "verified": false
+      }
+    ]
+  }
+}

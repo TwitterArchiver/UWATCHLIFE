@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2063485454658506773",
+    "created_at": "2026-06-07T06:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T07:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063505952121487506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1714510407006851072",
+          "start": 0,
+          "username": "hhhhhhhhhh68887"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063505952121487506",
+    "in_reply_to_user_id": "1714510407006851072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063485454658506773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhhhhhhhhh68887 叉壬都不在意自己隐私的吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 236,
+        "media_key": "3_2063485449918939137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKL5FXmbAAE82kk.jpg",
+        "width": 236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2063485454658506773",
+        "created_at": "2026-06-07T06:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063505952121487506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1714510407006851072",
+              "start": 0,
+              "username": "hhhhhhhhhh68887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063505952121487506",
+        "in_reply_to_user_id": "1714510407006851072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063485454658506773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhhhhhhhhh68887 叉壬都不在意自己隐私的吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063485449918939137"
+          ]
+        },
+        "author_id": "1714510407006851072",
+        "conversation_id": "2063485454658506773",
+        "created_at": "2026-06-07T04:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063485454658506773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YY5jxeDvNI",
+              "end": 109,
+              "expanded_url": "https://x.com/hhhhhhhhhh68887/status/2063485454658506773/photo/1",
+              "media_key": "3_2063485449918939137",
+              "start": 86,
+              "url": "https://t.co/YY5jxeDvNI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063485454658506773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 339,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在想未来开智之后的我会不会觉得尴尬然后把发的一些推文给删了。\n现在翻自己24年发的推文真的尴尬的脚趾扣地（特别是组虚拟政党时写得党纲）。但往好处想，思想至少成熟了一点🥲 https://t.co/YY5jxeDvNI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 95,
+          "like_count": 1074,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 768
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T05:15:24.000Z",
+        "description": "希腊裔法国人、未来主义者、超现实主义诗人、残酷戏剧创造者、法兰西护国主与极速弥赛亚。\n\n放弃和弥漫的虚无作斗争吧...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/sharedfiles/fi…",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2587855526",
+                "start": 0,
+                "url": "https://t.co/M2EioLD2t1"
+              }
+            ]
+          }
+        },
+        "id": "1714510407006851072",
+        "location": "“太阳”",
+        "name": "⚡︎安托南•阿尔托𝓐𝓷𝓽𝓸𝓷𝓲𝓷 𝓐𝓻𝓽𝓪𝓾𝓭🇫🇷",
+        "pinned_tweet_id": "1821412705938629078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061724312898555904/PTwvbERT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 912,
+          "like_count": 23703,
+          "listed_count": 2,
+          "media_count": 1041,
+          "tweet_count": 9812
+        },
+        "url": "https://t.co/M2EioLD2t1",
+        "username": "hhhhhhhhhh68887",
+        "verified": false
+      }
+    ]
+  }
+}

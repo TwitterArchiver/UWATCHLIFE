@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2082383318167982180",
+    "created_at": "2026-07-29T08:30:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T09:30:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082383318167982180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2044496192734666752",
+          "start": 3,
+          "username": "UWATCHLIFE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082383318167982180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082380003598319650",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UWATCHLIFE: 让我们来算算此药贩子的神必嗨炮药物，价格60r/12t，即便按此壬的鬼话，其复方神必药物1t=3t红普，12t也就事36t红普。36*150=5400，最终普瑞的价格为60r/5.4g，并且不包邮无售后，1r/0.9g便宜于1r/g，大概这位倒狗…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2082379990885437440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYZkZwbkAAz-b9.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2082383318167982180",
+        "created_at": "2026-07-29T08:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082383318167982180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2044496192734666752",
+              "start": 3,
+              "username": "UWATCHLIFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082383318167982180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082380003598319650",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UWATCHLIFE: 让我们来算算此药贩子的神必嗨炮药物，价格60r/12t，即便按此壬的鬼话，其复方神必药物1t=3t红普，12t也就事36t红普。36*150=5400，最终普瑞的价格为60r/5.4g，并且不包邮无售后，1r/0.9g便宜于1r/g，大概这位倒狗…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082379990885437440"
+          ]
+        },
+        "author_id": "2044496192734666752",
+        "conversation_id": "2082377550173819161",
+        "created_at": "2026-07-29T08:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082380003598319650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xpsLGeUXkC",
+              "end": 188,
+              "expanded_url": "https://x.com/UWATCHLIFE/status/2082380003598319650/photo/1",
+              "media_key": "3_2082379990885437440",
+              "start": 165,
+              "url": "https://t.co/xpsLGeUXkC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082380003598319650",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082377550173819161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "让我们来算算此药贩子的神必嗨炮药物，价格60r/12t，即便按此壬的鬼话，其复方神必药物1t=3t红普，12t也就事36t红普。36*150=5400，最终普瑞的价格为60r/5.4g，并且不包邮无售后，1r/0.9g便宜于1r/g，大概这位倒狗真的事陈平般的算术中级高手罢？然而根据其自述，个破药的真实普瑞含量还要更低（见下） https://t.co/xpsLGeUXkC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "pinned_tweet_id": "2078365186466156746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 174,
+          "like_count": 1891,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1206
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      }
+    ]
+  }
+}

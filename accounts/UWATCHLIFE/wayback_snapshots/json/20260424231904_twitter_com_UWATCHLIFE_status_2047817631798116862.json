@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2047500415298928859",
+    "created_at": "2026-04-24T23:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T00:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047817631798116862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2035623752516714496",
+          "start": 0,
+          "username": "ReNkOLIU"
+        },
+        {
+          "end": 25,
+          "id": "1918274202580467713",
+          "start": 10,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047817631798116862",
+    "in_reply_to_user_id": "2035623752516714496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047721030698016856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ReNkOLIU @CyberKanjousen 蠢，只要不是列管药品就不构成任何犯罪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2047500415298928859",
+        "created_at": "2026-04-24T23:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T00:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047817631798116862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2035623752516714496",
+              "start": 0,
+              "username": "ReNkOLIU"
+            },
+            {
+              "end": 25,
+              "id": "1918274202580467713",
+              "start": 10,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047817631798116862",
+        "in_reply_to_user_id": "2035623752516714496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047721030698016856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ReNkOLIU @CyberKanjousen 蠢，只要不是列管药品就不构成任何犯罪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035623752516714496",
+        "conversation_id": "2047500415298928859",
+        "created_at": "2026-04-24T16:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T17:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047721030698016856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044496192734666752",
+              "start": 0,
+              "username": "UWATCHLIFE"
+            },
+            {
+              "end": 27,
+              "id": "1918274202580467713",
+              "start": 12,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047721030698016856",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047678295374995896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UWATCHLIFE @CyberKanjousen 国家管制药品只要不是医院开给你购买和吸食就是当毒品处理 是不是没人抓你你就觉得自己特别有理了 还鼓励别人od犯罪在哪 你们od群体弄这些伤不伤身体自己不清楚吗 就算是普通的感冒药你鼓励别人od也是故意伤害罪 心情不好痛苦同情之类的不是你们报复社会和违法的理由 自己偷偷吸点得了还蹬鼻子上脸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 20,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 156
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-22T07:46:20.000Z",
+        "description": "I’m god",
+        "id": "2035623752516714496",
+        "name": "ReNkO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035628197061238784/CO4trR3o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 6,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 191
+        },
+        "username": "ReNkOLIU",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | まのさば好き | 友跨 | 想当猫猫\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 92,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 69,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1898,
+          "following_count": 572,
+          "like_count": 15016,
+          "listed_count": 5,
+          "media_count": 901,
+          "tweet_count": 4767
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

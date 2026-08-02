@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077736878330318848"
+      ],
+      "media_source_tweet_id": [
+        "2077736889801736231"
+      ]
+    },
+    "author_id": "2044496192734666752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2077737436327948676",
+    "created_at": "2026-07-16T12:49:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T13:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077737436327948676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2077732421488054272",
+          "start": 3,
+          "username": "FreePGBPlz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iodm0Zr4YR",
+          "end": 126,
+          "expanded_url": "https://x.com/FreePGBPlz/status/2077736889801736231/photo/1",
+          "media_key": "3_2077736878330318848",
+          "start": 103,
+          "url": "https://t.co/iodm0Zr4YR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077737436327948676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077736889801736231",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FreePGBPlz: 感谢圈内的先辈，我拿到了低价普瑞渠道……经过一段时间的讨论与权衡，我们最终决定的价格是**普瑞巴林原粉1.5元每克**！请各位oder们帮忙支持一下罢！感谢圈子里的大家了！ https://t.co/iodm0Zr4YR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2077736878330318848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWarrmbkAAwu0r.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077736878330318848"
+          ],
+          "media_source_tweet_id": [
+            "2077736889801736231"
+          ]
+        },
+        "author_id": "2044496192734666752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077737436327948676",
+        "created_at": "2026-07-16T12:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077737436327948676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2077732421488054272",
+              "start": 3,
+              "username": "FreePGBPlz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iodm0Zr4YR",
+              "end": 126,
+              "expanded_url": "https://x.com/FreePGBPlz/status/2077736889801736231/photo/1",
+              "media_key": "3_2077736878330318848",
+              "start": 103,
+              "url": "https://t.co/iodm0Zr4YR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077737436327948676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077736889801736231",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FreePGBPlz: 感谢圈内的先辈，我拿到了低价普瑞渠道……经过一段时间的讨论与权衡，我们最终决定的价格是**普瑞巴林原粉1.5元每克**！请各位oder们帮忙支持一下罢！感谢圈子里的大家了！ https://t.co/iodm0Zr4YR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077736878330318848"
+          ]
+        },
+        "author_id": "2077732421488054272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077736889801736231",
+        "created_at": "2026-07-16T12:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077736889801736231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iodm0Zr4YR",
+              "end": 110,
+              "expanded_url": "https://x.com/FreePGBPlz/status/2077736889801736231/photo/1",
+              "media_key": "3_2077736878330318848",
+              "start": 87,
+              "url": "https://t.co/iodm0Zr4YR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077736889801736231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感谢圈内的先辈，我拿到了低价普瑞渠道……经过一段时间的讨论与权衡，我们最终决定的价格是**普瑞巴林原粉1.5元每克**！请各位oder们帮忙支持一下罢！感谢圈子里的大家了！ https://t.co/iodm0Zr4YR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 145,
+          "like_count": 1709,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1147
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-16T12:36:56.000Z",
+        "description": "",
+        "id": "2077732421488054272",
+        "name": "PGB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077734428705771520/g4X7GxyP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 7,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "FreePGBPlz",
+        "verified": false
+      }
+    ]
+  }
+}

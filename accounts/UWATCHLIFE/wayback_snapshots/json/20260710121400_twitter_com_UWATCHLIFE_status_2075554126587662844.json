@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074910214046748672"
+      ],
+      "media_source_tweet_id": [
+        "2074910229930631439"
+      ]
+    },
+    "author_id": "2044496192734666752",
+    "conversation_id": "2075554126587662844",
+    "created_at": "2026-07-10T12:14:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T13:14:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075554126587662844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2048537365275422720",
+          "start": 3,
+          "username": "cmqxccc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vEAH7CT5wN",
+          "end": 69,
+          "expanded_url": "https://x.com/cmqxccc/status/2074910229930631439/photo/1",
+          "media_key": "3_2074910214046748672",
+          "start": 46,
+          "url": "https://t.co/vEAH7CT5wN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075554126587662844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074910229930631439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cmqxccc: 后藤的父亲可以抱怨他的原生家庭了怎么生了崽还哈气把自己整医院去了 https://t.co/vEAH7CT5wN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 684,
+        "media_key": "3_2074910214046748672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMuP2KkWEAAs8T8.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074910214046748672"
+          ],
+          "media_source_tweet_id": [
+            "2074910229930631439"
+          ]
+        },
+        "author_id": "2044496192734666752",
+        "conversation_id": "2075554126587662844",
+        "created_at": "2026-07-10T12:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075554126587662844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2048537365275422720",
+              "start": 3,
+              "username": "cmqxccc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vEAH7CT5wN",
+              "end": 69,
+              "expanded_url": "https://x.com/cmqxccc/status/2074910229930631439/photo/1",
+              "media_key": "3_2074910214046748672",
+              "start": 46,
+              "url": "https://t.co/vEAH7CT5wN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075554126587662844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074910229930631439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cmqxccc: 后藤的父亲可以抱怨他的原生家庭了怎么生了崽还哈气把自己整医院去了 https://t.co/vEAH7CT5wN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074910214046748672"
+          ]
+        },
+        "author_id": "2048537365275422720",
+        "conversation_id": "2074910229930631439",
+        "created_at": "2026-07-08T17:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T18:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074910229930631439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vEAH7CT5wN",
+              "end": 56,
+              "expanded_url": "https://x.com/cmqxccc/status/2074910229930631439/photo/1",
+              "media_key": "3_2074910214046748672",
+              "start": 33,
+              "url": "https://t.co/vEAH7CT5wN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074910229930631439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "后藤的父亲可以抱怨他的原生家庭了怎么生了崽还哈气把自己整医院去了 https://t.co/vEAH7CT5wN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 117,
+          "like_count": 1574,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1068
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T23:00:42.000Z",
+        "description": "/mtf hrt：22.12.8/欢迎大家和我互关互赞/前身@know_hhh51945/前前身@linghuajingming/@Masterlatos/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "know_hhh51945"
+              },
+              {
+                "end": 64,
+                "start": 48,
+                "username": "linghuajingming"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "Masterlatos"
+              }
+            ]
+          }
+        },
+        "id": "2048537365275422720",
+        "name": "彼岸境",
+        "pinned_tweet_id": "2053137254504443959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071874760183533568/XNicnYIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 203,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "cmqxccc",
+        "verified": false
+      }
+    ]
+  }
+}

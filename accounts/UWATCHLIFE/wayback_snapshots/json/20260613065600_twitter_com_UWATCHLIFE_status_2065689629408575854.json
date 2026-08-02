@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2065467069479715306",
+    "created_at": "2026-06-13T06:56:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T07:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065689629408575854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1540268150406537216",
+          "start": 0,
+          "username": "aabanypp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065689629408575854",
+    "in_reply_to_user_id": "1540268150406537216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065467069479715306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aabanypp 还会便秘呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2065467069479715306",
+        "created_at": "2026-06-13T06:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065689629408575854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1540268150406537216",
+              "start": 0,
+              "username": "aabanypp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065689629408575854",
+        "in_reply_to_user_id": "1540268150406537216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065467069479715306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aabanypp 还会便秘呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540268150406537216",
+        "conversation_id": "2065467069479715306",
+        "created_at": "2026-06-12T16:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065467069479715306"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065467069479715306",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "甘草片会不会尿潴留。我已不敢吃阿片ㅎㅈㅎ。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 105,
+          "like_count": 1169,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 857
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-24T09:38:50.000Z",
+        "description": "一个神秘的人。\n想要互fo我会全部回fo！（只看黄的顺男除外）",
+        "id": "1540268150406537216",
+        "name": "睡个好觉吧！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000939898447257606/6w9it0AW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 101,
+          "like_count": 437,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 295
+        },
+        "username": "aabanypp",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2075088989569405251",
+    "created_at": "2026-07-09T05:25:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T06:25:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075088989569405251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2044176423460515840",
+          "start": 3,
+          "username": "dupinkepu"
+        }
+      ],
+      "urls": [
+        {
+          "description": "You are invited to a group chat on Telegram. Click to",
+          "display_url": "t.me/+F35B6_CPXHE3M…",
+          "end": 79,
+          "expanded_url": "https://t.me/+F35B6_CPXHE3Mjdh",
+          "images": [
+            {
+              "height": 256,
+              "url": "https://pbs.twimg.com/news_img/2074363437275381760/2g5sSz9H?format=png&name=orig",
+              "width": 256
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2074363437275381760/2g5sSz9H?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 56,
+          "status": 200,
+          "title": "Join group chat on Telegram",
+          "unwound_url": "https://t.me/+F35B6_CPXHE3Mjdh",
+          "url": "https://t.co/Mtdus2q2na"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075088989569405251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074363435954098442",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dupinkepu: 呃呃呃，鉴于除了几个不可能不会买普瑞的老熟人以外，并没有人用sig。这个是tg群。https://t.co/Mtdus2q2na"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2075088989569405251",
+        "created_at": "2026-07-09T05:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T06:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075088989569405251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2044176423460515840",
+              "start": 3,
+              "username": "dupinkepu"
+            }
+          ],
+          "urls": [
+            {
+              "description": "You are invited to a group chat on Telegram. Click to",
+              "display_url": "t.me/+F35B6_CPXHE3M…",
+              "end": 79,
+              "expanded_url": "https://t.me/+F35B6_CPXHE3Mjdh",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2074363437275381760/2g5sSz9H?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2074363437275381760/2g5sSz9H?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 56,
+              "status": 200,
+              "title": "Join group chat on Telegram",
+              "unwound_url": "https://t.me/+F35B6_CPXHE3Mjdh",
+              "url": "https://t.co/Mtdus2q2na"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075088989569405251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074363435954098442",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dupinkepu: 呃呃呃，鉴于除了几个不可能不会买普瑞的老熟人以外，并没有人用sig。这个是tg群。https://t.co/Mtdus2q2na"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044176423460515840",
+        "conversation_id": "2074086161174392858",
+        "created_at": "2026-07-07T05:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T06:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074363435954098442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You are invited to a group chat on Telegram. Click to",
+              "display_url": "t.me/+F35B6_CPXHE3M…",
+              "end": 64,
+              "expanded_url": "https://t.me/+F35B6_CPXHE3Mjdh",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2074363437275381760/2g5sSz9H?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2074363437275381760/2g5sSz9H?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 41,
+              "status": 200,
+              "title": "Join group chat on Telegram",
+              "unwound_url": "https://t.me/+F35B6_CPXHE3Mjdh",
+              "url": "https://t.co/Mtdus2q2na"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074363435954098442",
+        "in_reply_to_user_id": "2044176423460515840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3019,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074086161174392858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呃呃呃，鉴于除了几个不可能不会买普瑞的老熟人以外，并没有人用sig。这个是tg群。https://t.co/Mtdus2q2na"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 118,
+          "like_count": 1553,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1058
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T22:10:24.000Z",
+        "description": "知的强奸者",
+        "id": "2044176423460515840",
+        "name": "橘雪莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062369390272925696/pssWTzLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 88,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "dupinkepu",
+        "verified": false
+      }
+    ]
+  }
+}

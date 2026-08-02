@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2048327450401165757",
+    "created_at": "2026-04-27T02:03:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T03:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048583786959671793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2033980622943760384",
+          "start": 0,
+          "username": "XiXiPeeexh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048583786959671793",
+    "in_reply_to_user_id": "2033980622943760384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048327450401165757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiXiPeeexh 抽一巴掌是故意的伤害，并带有人格上的侮辱的意味\n二手烟造成的连带伤害显然不能滑坡成这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2048327450401165757",
+        "created_at": "2026-04-27T02:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T03:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048583786959671793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033980622943760384",
+              "start": 0,
+              "username": "XiXiPeeexh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048583786959671793",
+        "in_reply_to_user_id": "2033980622943760384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048327450401165757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiXiPeeexh 抽一巴掌是故意的伤害，并带有人格上的侮辱的意味\n二手烟造成的连带伤害显然不能滑坡成这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033980622943760384",
+        "conversation_id": "2048327450401165757",
+        "created_at": "2026-04-26T09:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048327450401165757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/stanleysobest/…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/stanleysobest/status/2048035087908749599",
+              "start": 76,
+              "url": "https://t.co/NBTM1rCnGw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048327450401165757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1227,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048035087908749599",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吸一次二手烟对身体的伤害不会比挨了一巴掌更轻。如果街上别人莫名其妙抽你一巴掌，你可以使用武力正当防卫。那应该可以使用同样的武力程度 对付禁烟区域吸烟者 https://t.co/NBTM1rCnGw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 28,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 220
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-17T18:56:08.000Z",
+        "description": "我又回来给华川猪添乱了",
+        "id": "2033980622943760384",
+        "name": "XiXiPee🇦🇺🇺🇦🇪🇺",
+        "pinned_tweet_id": "2035261803912155275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047986863374520320/5-CYF-YZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 191,
+          "like_count": 1041,
+          "listed_count": 4,
+          "media_count": 70,
+          "tweet_count": 1667
+        },
+        "username": "XiXiPeeexh",
+        "verified": false
+      }
+    ]
+  }
+}

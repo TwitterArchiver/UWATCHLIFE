@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2052964982795674076",
+    "created_at": "2026-05-11T03:16:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T04:16:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053675513668071425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1513014626153218053",
+          "start": 0,
+          "username": "niwashi_san"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053675513668071425",
+    "in_reply_to_user_id": "1513014626153218053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052964982795674076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niwashi_san 中国壬能看得懂蝌蚪字吗我想问了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2052964982795674076",
+        "created_at": "2026-05-11T03:16:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T04:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053675513668071425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1513014626153218053",
+              "start": 0,
+              "username": "niwashi_san"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053675513668071425",
+        "in_reply_to_user_id": "1513014626153218053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052964982795674076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niwashi_san 中国壬能看得懂蝌蚪字吗我想问了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513014626153218053",
+        "conversation_id": "2052964982795674076",
+        "created_at": "2026-05-09T04:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T05:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052964982795674076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zmx8067/status…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/zmx8067/status/2052682846259822834",
+              "start": 118,
+              "url": "https://t.co/WSEm26diGL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052964982795674076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052682846259822834",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "用看不懂過去的文件來批評韓文廢漢字這事很奇怪，你有必要去看懂清朝的明韓的文件嗎？讓每個人都無障礙閱讀那些東西的意義何在？\n然而，韓文和日文如果不用漢字，同音會特別多，閱讀上確實有不便，如果想要批評廢漢字，請從正經的語言本身的問題上入手 https://t.co/WSEm26diGL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 70,
+          "like_count": 454,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 443
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T04:43:22.000Z",
+        "description": "中推选举 #联合社会革命党 | 经常转推和赞各种时政推文（？ | 现代社民 | LGBTQ+ 友好 | 海盗/信息自由 | 飞面神教/无神论 | GNU/Linux 用户 | 物理学在读 | 日本語OK, English OK, Linguam Latinam disco",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 5,
+                "tag": "联合社会革命党"
+              }
+            ]
+          }
+        },
+        "id": "1513014626153218053",
+        "name": "庭师 にわしさん🏴‍☠️🌹",
+        "pinned_tweet_id": "2046940654258069995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709808257689427968/ou-7afqL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 231,
+          "like_count": 4163,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 1887
+        },
+        "username": "niwashi_san",
+        "verified": false
+      }
+    ]
+  }
+}

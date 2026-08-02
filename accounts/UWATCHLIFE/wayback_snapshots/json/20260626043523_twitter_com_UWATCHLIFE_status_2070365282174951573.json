@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2070362252046205141",
+    "created_at": "2026-06-26T04:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T05:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070365282174951573"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070365282174951573",
+    "in_reply_to_user_id": "2044496192734666752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070365254718992864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "-准确的机制偏向机制目前是未知的-SR -17018已在人体试验中的效果：  -抑制阿片类药物的戒断症状  -逆转阿片类药物的耐受性-关于SR-17018不偏向Beta-Arrestin的通道表达，可以得出该物质与传统阿片类药物如吗啡和芬太尼相比，具有极少呼吸抑制作用。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2070362252046205141",
+        "created_at": "2026-06-26T04:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070365282174951573"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070365282174951573",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070365254718992864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "-准确的机制偏向机制目前是未知的-SR -17018已在人体试验中的效果：  -抑制阿片类药物的戒断症状  -逆转阿片类药物的耐受性-关于SR-17018不偏向Beta-Arrestin的通道表达，可以得出该物质与传统阿片类药物如吗啡和芬太尼相比，具有极少呼吸抑制作用。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2070362252046205141",
+        "created_at": "2026-06-26T04:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070365254718992864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070365254718992864",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070365062322069979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "——什么是SR-17018？我可以使用它做什么？\n-SR-17018是一种偏向性Mu阿片受体激动剂（非完全/非竞争性激动），偏向Gi蛋白表达召募而非像传统的吗啡/羟考酮/芬太尼/美沙酮等完全竞争性激动剂的同时，不产生beta-arrestin通道表达。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 110,
+          "like_count": 1359,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 938
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      }
+    ]
+  }
+}

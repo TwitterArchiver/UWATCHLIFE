@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2070180830685847905",
+    "created_at": "2026-06-25T16:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T17:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070180830685847905"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/2FlameCubed/st…",
+          "end": 134,
+          "expanded_url": "https://twitter.com/2FlameCubed/status/2070177147357110728",
+          "start": 111,
+          "url": "https://t.co/7CkGwDzPre"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070180830685847905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070177147357110728",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天是国际吸毒日。\n我在此郑重宣誓：\n不因无知远离毒品，\n不因压力停止滥用，\n不以侥幸坚守底线，\n不把自由包装成伤害，\n不把清醒误认为沉沦。\n珍爱生命，运离监管；\n保持清醒，反对无知；\n把人生的控制权，牢牢握在自己手里。 https://t.co/7CkGwDzPre"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2070180830685847905",
+        "created_at": "2026-06-25T16:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T17:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070180830685847905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/2FlameCubed/st…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/2FlameCubed/status/2070177147357110728",
+              "start": 111,
+              "url": "https://t.co/7CkGwDzPre"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070180830685847905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070177147357110728",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天是国际吸毒日。\n我在此郑重宣誓：\n不因无知远离毒品，\n不因压力停止滥用，\n不以侥幸坚守底线，\n不把自由包装成伤害，\n不把清醒误认为沉沦。\n珍爱生命，运离监管；\n保持清醒，反对无知；\n把人生的控制权，牢牢握在自己手里。 https://t.co/7CkGwDzPre"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667423809148981248",
+        "conversation_id": "2070177147357110728",
+        "created_at": "2026-06-25T16:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T17:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070177147357110728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RXdruglab/stat…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/RXdruglab/status/2070175184980484258",
+              "start": 111,
+              "url": "https://t.co/6Td2OnRzrX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070177147357110728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070175184980484258",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天是国际禁毒日。\n我在此郑重宣誓：\n不因无知接近毒品，\n不因压力纵容滥用，\n不以侥幸挑战底线，\n不把伤害包装成自由，\n不把沉沦误认为清醒。\n珍爱生命，远离滥用；\n保持清醒，反对沉迷；\n把人生的控制权，牢牢握在自己手里。 https://t.co/6Td2OnRzrX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 110,
+          "like_count": 1349,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 921
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T06:50:02.000Z",
+        "description": "天空，人与未来 ｜Space , the final frontier 🖖",
+        "id": "1667423809148981248",
+        "name": "flame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040820876879491072/YKJr3h8b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 995,
+          "like_count": 1926,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 341
+        },
+        "url": "",
+        "username": "2FlameCubed",
+        "verified": false
+      }
+    ]
+  }
+}

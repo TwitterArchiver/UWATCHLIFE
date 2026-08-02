@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2052789456571355162",
+    "created_at": "2026-05-08T17:31:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T18:31:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052803552997941678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2023770080451194880",
+          "start": 0,
+          "username": "seri1131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052803552997941678",
+    "in_reply_to_user_id": "2023770080451194880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052796732824858858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seri1131 ao，互fo下我拉你ao了❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2052789456571355162",
+        "created_at": "2026-05-08T17:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052803552997941678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2023770080451194880",
+              "start": 0,
+              "username": "seri1131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052803552997941678",
+        "in_reply_to_user_id": "2023770080451194880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052796732824858858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seri1131 ao，互fo下我拉你ao了❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023770080451194880",
+        "conversation_id": "2052789456571355162",
+        "created_at": "2026-05-08T17:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052796732824858858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044496192734666752",
+              "start": 0,
+              "username": "UWATCHLIFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052796732824858858",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052795689508524397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UWATCHLIFE 可以哇。我不喜欢现代社会和现代性，我觉得那些东西有点缺乏美感，不过这些是题外话。重点其实是我是一个家里蹲，十年内家里蹲的时间有七年半以上吧，退学到现在都快五年了，而且我解离障碍比较严重，所以大的时间概念（比如今年是2026而不是2016）和小的时间概念（比如现在都1点了而不是11点）都很缺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 64,
+          "like_count": 415,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 423
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T14:42:53.000Z",
+        "description": "無言フォロー失礼します。20↑ 歴オタ。精神疾患や薬やmaimaiDXも呟いてる。頭が非常識だ｡\n喜欢一些阴间的人和他们过去阳间的时候。\nmastodon：https://t.co/jbn7R9vGu5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "c7.io/@hanaaki",
+                "end": 101,
+                "expanded_url": "https://c7.io/@hanaaki",
+                "start": 78,
+                "url": "https://t.co/jbn7R9vGu5"
+              }
+            ]
+          }
+        },
+        "id": "2023770080451194880",
+        "name": "残鸦外",
+        "pinned_tweet_id": "2024468698036392102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043955758065500161/wwxbUmTu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 45,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 181
+        },
+        "username": "seri1131",
+        "verified": false
+      }
+    ]
+  }
+}

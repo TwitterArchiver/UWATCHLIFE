@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2048984324876513298",
+    "created_at": "2026-04-28T04:57:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T05:57:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048990055591748085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2042859706142601216",
+          "start": 0,
+          "username": "TankcheOuO"
+        },
+        {
+          "end": 47,
+          "id": "1878091007453286400",
+          "start": 38,
+          "username": "EoivLanY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048990055591748085",
+    "in_reply_to_user_id": "2042859706142601216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048984324876513298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TankcheOuO 对此人的迫害将不会在此人道歉并缴清退款与货物前停止 @EoivLanY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2164,
+        "media_key": "3_2048984315158290434",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG90YO9bYAIEQJ1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2048984324876513298",
+        "created_at": "2026-04-28T04:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048990055591748085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2042859706142601216",
+              "start": 0,
+              "username": "TankcheOuO"
+            },
+            {
+              "end": 47,
+              "id": "1878091007453286400",
+              "start": 38,
+              "username": "EoivLanY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048990055591748085",
+        "in_reply_to_user_id": "2042859706142601216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048984324876513298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TankcheOuO 对此人的迫害将不会在此人道歉并缴清退款与货物前停止 @EoivLanY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048984315158290434"
+          ]
+        },
+        "author_id": "2042859706142601216",
+        "conversation_id": "2048984324876513298",
+        "created_at": "2026-04-28T04:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048984324876513298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AXOgSxL9YY",
+              "end": 73,
+              "expanded_url": "https://x.com/TankcheOuO/status/2048984324876513298/photo/1",
+              "media_key": "3_2048984315158290434",
+              "start": 50,
+              "url": "https://t.co/AXOgSxL9YY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048984324876513298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这位“泪滴滴滴”先生，还请你将诈骗来的钱退回去如果今日20:00后还没有消息 还请自便准备承担后果 https://t.co/AXOgSxL9YY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 35,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 246
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T06:58:14.000Z",
+        "description": "幽暗的、深邃的、家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+NGZgHLdad28xZ…",
+                "end": 23,
+                "expanded_url": "http://t.me/+NGZgHLdad28xZWJl",
+                "start": 0,
+                "url": "https://t.co/et1GI6cQ9l"
+              }
+            ]
+          }
+        },
+        "id": "2042859706142601216",
+        "name": "坦克姬🎗",
+        "pinned_tweet_id": "2042861236908626197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042860345832935425/WHafROeV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 112,
+          "like_count": 1070,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 42
+        },
+        "url": "https://t.co/et1GI6cQ9l",
+        "username": "TankcheOuO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T14:46:17.000Z",
+        "description": "所有药物退回 所有RMB正在统计 \n那我请问 我亏损的谁给我补？ 嗯？",
+        "id": "1878091007453286400",
+        "location": "有你爱我的地方",
+        "name": "泪滴滴滴",
+        "pinned_tweet_id": "2048958912800653717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046512778790510592/HXLV5oxs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 88,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 45
+        },
+        "username": "EoivLanY",
+        "verified": false
+      }
+    ]
+  }
+}

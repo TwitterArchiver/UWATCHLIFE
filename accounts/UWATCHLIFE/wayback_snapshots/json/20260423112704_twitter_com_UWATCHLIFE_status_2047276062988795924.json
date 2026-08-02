@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2047190798245216256",
+    "created_at": "2026-04-23T11:27:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T12:27:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047276062988795924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1543751033490374662",
+          "start": 0,
+          "username": "ObserveDiary_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047276062988795924",
+    "in_reply_to_user_id": "1543751033490374662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047273107506004340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ObserveDiary_ 不负责任的使用最广泛的原因除了无知就是心理与精神疾病，而您也过量感康自然说明您也会因为上述原因不负责任地使用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2047190798245216256",
+        "created_at": "2026-04-23T11:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047276062988795924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1543751033490374662",
+              "start": 0,
+              "username": "ObserveDiary_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047276062988795924",
+        "in_reply_to_user_id": "1543751033490374662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047273107506004340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ObserveDiary_ 不负责任的使用最广泛的原因除了无知就是心理与精神疾病，而您也过量感康自然说明您也会因为上述原因不负责任地使用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543751033490374662",
+        "conversation_id": "2047190798245216256",
+        "created_at": "2026-04-23T11:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047273107506004340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044496192734666752",
+              "start": 0,
+              "username": "UWATCHLIFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047273107506004340",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047213200274506096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UWATCHLIFE 过量感康并不会有什么很好的感受（我提到中毒是因为我个人经验按照正常娱乐用量十分痛苦，但是不是真的中毒不知道，抱歉我用了这个不严谨表述）就像我正文表述的，其中成分对乙肾损伤是写在触手可得的说明书内，我认为就算不知道wk也还能看说明书规避风险。我认为这是他们的个人选择，对自己身体不负责"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 20,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 139
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T00:18:29.000Z",
+        "description": "🏳️‍🌈enby/杂垢/扩fo中丨我会关注一堆画师",
+        "id": "1543751033490374662",
+        "name": "寝る",
+        "pinned_tweet_id": "2046816014927790285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 633,
+          "like_count": 13939,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 2810
+        },
+        "username": "ObserveDiary_",
+        "verified": false
+      }
+    ]
+  }
+}

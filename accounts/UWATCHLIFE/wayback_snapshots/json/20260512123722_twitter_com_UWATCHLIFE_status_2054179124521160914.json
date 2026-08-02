@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2054179124521160914",
+    "created_at": "2026-05-12T12:37:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T13:37:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054179124521160914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/chat/group_j…",
+          "end": 120,
+          "expanded_url": "https://x.com/i/chat/group_join/g2031633117463658626/5k16FiuzTP",
+          "images": [
+            {
+              "height": 634,
+              "url": "https://pbs.twimg.com/news_img/2052016820652294144/nQ8xywUd?format=jpg&name=orig",
+              "width": 1202
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2052016820652294144/nQ8xywUd?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 97,
+          "status": 200,
+          "title": "X",
+          "unwound_url": "https://x.com/i/flow/login",
+          "url": "https://t.co/mwEN8QFzWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054179124521160914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054175105131888799",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: 推特似乎增加了群组人数上限，现在中推OD交流社群还能多进一点人，虽然不多🥺但是如果你对ODer互助框架感兴趣，请一定要申请加群，在群里一起讨论相关事宜哦~\n\n链接：https://t.co/mwEN8QFzWQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2054179124521160914",
+        "created_at": "2026-05-12T12:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T13:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054179124521160914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659962043460354050",
+              "start": 3,
+              "username": "SalviaSWC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/chat/group_j…",
+              "end": 120,
+              "expanded_url": "https://x.com/i/chat/group_join/g2031633117463658626/5k16FiuzTP",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2052016820652294144/nQ8xywUd?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2052016820652294144/nQ8xywUd?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 97,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://x.com/i/flow/login",
+              "url": "https://t.co/mwEN8QFzWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054179124521160914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054175105131888799",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SalviaSWC: 推特似乎增加了群组人数上限，现在中推OD交流社群还能多进一点人，虽然不多🥺但是如果你对ODer互助框架感兴趣，请一定要申请加群，在群里一起讨论相关事宜哦~\n\n链接：https://t.co/mwEN8QFzWQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2054175105131888799",
+        "created_at": "2026-05-12T12:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T13:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054175105131888799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/chat/group_j…",
+              "end": 105,
+              "expanded_url": "https://x.com/i/chat/group_join/g2031633117463658626/5k16FiuzTP",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2052016820652294144/nQ8xywUd?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2052016820652294144/nQ8xywUd?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 82,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://x.com/i/flow/login",
+              "url": "https://t.co/mwEN8QFzWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054175105131888799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "推特似乎增加了群组人数上限，现在中推OD交流社群还能多进一点人，虽然不多🥺但是如果你对ODer互助框架感兴趣，请一定要申请加群，在群里一起讨论相关事宜哦~\n\n链接：https://t.co/mwEN8QFzWQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 72,
+          "like_count": 494,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 471
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4477,
+          "following_count": 1010,
+          "like_count": 23699,
+          "listed_count": 11,
+          "media_count": 514,
+          "tweet_count": 7647
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

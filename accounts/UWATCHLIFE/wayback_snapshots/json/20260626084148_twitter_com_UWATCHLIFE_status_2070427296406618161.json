@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2070427296406618161",
+    "created_at": "2026-06-26T08:41:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T09:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070427296406618161"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SagerRgyalpo/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/SagerRgyalpo/status/2070335516197962154",
+          "start": 8,
+          "url": "https://t.co/CIlfmOJddW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070427296406618161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070335516197962154",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "荣师并感，，， https://t.co/CIlfmOJddW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070335509759688704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtPLVEagAAcp_1.jpg",
+        "width": 1104
+      },
+      {
+        "height": 1681,
+        "media_key": "3_2070335509742927872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtPLVAawAA1hPP.jpg",
+        "width": 829
+      },
+      {
+        "height": 1784,
+        "media_key": "3_2070335508400730112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtPLQAacAABEzm.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070335509910761472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtPLVobsAAfd2O.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2070427296406618161",
+        "created_at": "2026-06-26T08:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070427296406618161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SagerRgyalpo/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/SagerRgyalpo/status/2070335516197962154",
+              "start": 8,
+              "url": "https://t.co/CIlfmOJddW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070427296406618161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070335516197962154",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "荣师并感，，， https://t.co/CIlfmOJddW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070335509759688704",
+            "3_2070335509742927872",
+            "3_2070335508400730112",
+            "3_2070335509910761472"
+          ]
+        },
+        "author_id": "1622255626066731010",
+        "conversation_id": "2070335516197962154",
+        "created_at": "2026-06-26T02:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070335516197962154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uwRZi6qRGB",
+              "end": 47,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/2070335516197962154/photo/1",
+              "media_key": "3_2070335509759688704",
+              "start": 24,
+              "url": "https://t.co/uwRZi6qRGB"
+            },
+            {
+              "display_url": "pic.x.com/uwRZi6qRGB",
+              "end": 47,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/2070335516197962154/photo/1",
+              "media_key": "3_2070335509742927872",
+              "start": 24,
+              "url": "https://t.co/uwRZi6qRGB"
+            },
+            {
+              "display_url": "pic.x.com/uwRZi6qRGB",
+              "end": 47,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/2070335516197962154/photo/1",
+              "media_key": "3_2070335508400730112",
+              "start": 24,
+              "url": "https://t.co/uwRZi6qRGB"
+            },
+            {
+              "display_url": "pic.x.com/uwRZi6qRGB",
+              "end": 47,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/2070335516197962154/photo/1",
+              "media_key": "3_2070335509910761472",
+              "start": 24,
+              "url": "https://t.co/uwRZi6qRGB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070335516197962154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 91873,
+          "like_count": 276,
+          "quote_count": 5,
+          "reply_count": 43,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "高中嘉欣研发痛经药，申请查看豆包使用记录。🤣🤣 https://t.co/uwRZi6qRGB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 110,
+          "like_count": 1363,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 956
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T15:27:45.000Z",
+        "description": "欢迎私信投稿！｜女男平等议题小博主｜gender equality｜반페미｜アンチフェミ｜антифем｜🕊️☮️反战｜🚫🪶反白羽毛｜支持童权",
+        "id": "1622255626066731010",
+        "location": "Russia",
+        "name": "Sagêr Gyaebo ♂⚖️ 萨格杰布",
+        "pinned_tweet_id": "2055728973553021273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058190297641922560/jwhVYdBb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10646,
+          "following_count": 908,
+          "like_count": 1397,
+          "listed_count": 44,
+          "media_count": 2468,
+          "tweet_count": 5113
+        },
+        "url": "",
+        "username": "SagerRgyalpo",
+        "verified": true
+      }
+    ]
+  }
+}

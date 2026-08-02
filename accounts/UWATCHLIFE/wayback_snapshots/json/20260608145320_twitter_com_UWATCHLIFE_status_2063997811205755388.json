@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2063973979657048548",
+    "created_at": "2026-06-08T14:53:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:53:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063997811205755388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1967257406129504256",
+          "start": 0,
+          "username": "Zdu1279757"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063997811205755388",
+    "in_reply_to_user_id": "1967257406129504256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063973979657048548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zdu1279757 加巴喷丁，请"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2063973979657048548",
+        "created_at": "2026-06-08T14:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063997811205755388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1967257406129504256",
+              "start": 0,
+              "username": "Zdu1279757"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063997811205755388",
+        "in_reply_to_user_id": "1967257406129504256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063973979657048548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zdu1279757 加巴喷丁，请"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967257406129504256",
+        "conversation_id": "2063973979657048548",
+        "created_at": "2026-06-08T13:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063973979657048548"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063973979657048548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有什么点外卖可以马上买到的药可以o的 我好像o，，，求推荐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 97,
+          "like_count": 1100,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 784
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T16:01:43.000Z",
+        "description": "不管这个世界上多少坏人讨厌我 攻击我 不爱我我依旧不语 就萌萌的躺在这里 🚪52",
+        "id": "1967257406129504256",
+        "name": "iukio",
+        "pinned_tweet_id": "2060323322676863455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060324836292059136/KMYYNM1i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 36,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 245
+        },
+        "username": "Zdu1279757",
+        "verified": false
+      }
+    ]
+  }
+}

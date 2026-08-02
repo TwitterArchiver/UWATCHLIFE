@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2062944527808426074",
+    "created_at": "2026-06-06T09:03:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T10:03:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063185074376642891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2002873553792966658",
+          "start": 0,
+          "username": "Selenophile080"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063185074376642891",
+    "in_reply_to_user_id": "2002873553792966658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062944527808426074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Selenophile080 欧帝呢？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2062944525270855680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKENHaQbMAA2Zzg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2062944527808426074",
+        "created_at": "2026-06-06T09:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063185074376642891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2002873553792966658",
+              "start": 0,
+              "username": "Selenophile080"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063185074376642891",
+        "in_reply_to_user_id": "2002873553792966658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062944527808426074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Selenophile080 欧帝呢？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062944525270855680"
+          ]
+        },
+        "author_id": "2002873553792966658",
+        "conversation_id": "2062944527808426074",
+        "created_at": "2026-06-05T17:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T18:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062944527808426074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B3S0CNlmVJ",
+              "end": 171,
+              "expanded_url": "https://x.com/Selenophile080/status/2062944527808426074/photo/1",
+              "media_key": "3_2062944525270855680",
+              "start": 148,
+              "url": "https://t.co/B3S0CNlmVJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062944527808426074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 999,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "A：你吃药都那么久了，应该早就进圈子了吧？\nB：圈子？圈子是什么？我吃药都是自己看wiki找线下朋友的呀。\nA：那你有没有精神问题？\nB：没钱。\nA：没拍过h照片吗？血图呢？欧弟呢？你不穿裙子上街吗？\nB：为什么要穿裙子？我对裙子感到羞耻，觉得穿裤子是无可厚非的啊🤔\nA：原来是只低等三好药娘。 https://t.co/B3S0CNlmVJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 93,
+          "like_count": 1058,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 761
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T22:47:50.000Z",
+        "description": "孤独症（ASD）/无性/cptsd/校园霸凌史/自杀史/超重力女子，最讨厌的人是：@FrostyStrings，没有之一",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 41,
+                "username": "FrostyStrings"
+              }
+            ]
+          }
+        },
+        "id": "2002873553792966658",
+        "name": "Cynthia🍥",
+        "pinned_tweet_id": "2063123799453954343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062940752691576832/3xJ6ajGt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 101,
+          "like_count": 34,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 39
+        },
+        "username": "Selenophile080",
+        "verified": false
+      }
+    ]
+  }
+}

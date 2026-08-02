@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2075876272128098615",
+    "created_at": "2026-07-11T14:55:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T15:55:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075957250573889641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1985165448825196544",
+          "start": 0,
+          "username": "tapioka05057"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075957250573889641",
+    "in_reply_to_user_id": "1985165448825196544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075876272128098615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tapioka05057 过期力，，，"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2075876272128098615].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2075876272128098615",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2075876272128098615"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2075876272128098615",
+        "created_at": "2026-07-11T14:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075957250573889641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1985165448825196544",
+              "start": 0,
+              "username": "tapioka05057"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075957250573889641",
+        "in_reply_to_user_id": "1985165448825196544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075876272128098615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tapioka05057 过期力，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 126,
+          "like_count": 1585,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1075
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-03T02:01:50.000Z",
+        "description": "我是小里 ♀20↑⋮ 雑多垢⋮無言フォロー失礼します",
+        "id": "1985165448825196544",
+        "name": "ふうか🫧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060106231742955520/TGN7uY0b_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 155,
+          "like_count": 746,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "tapioka05057",
+        "verified": false
+      }
+    ]
+  }
+}

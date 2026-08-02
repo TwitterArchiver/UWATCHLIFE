@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2071983191167221826",
+    "created_at": "2026-06-30T15:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T16:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071983191167221826"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/neko0202002/st…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/neko0202002/status/2071934215072190563",
+          "start": 16,
+          "url": "https://t.co/m3krkqITiI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071983191167221826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071934215072190563",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "随地吐痰吐中爸爸有可能（难视） https://t.co/m3krkqITiI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1436,
+        "media_key": "3_2071934207035666432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMD9LwhXcAAn9p2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2071983191167221826",
+        "created_at": "2026-06-30T15:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071983191167221826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/neko0202002/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/neko0202002/status/2071934215072190563",
+              "start": 16,
+              "url": "https://t.co/m3krkqITiI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071983191167221826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071934215072190563",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "随地吐痰吐中爸爸有可能（难视） https://t.co/m3krkqITiI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071934207035666432"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2071870481519739036",
+        "created_at": "2026-06-30T12:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071934215072190563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            },
+            {
+              "end": 25,
+              "id": "1643490407094030338",
+              "start": 16,
+              "username": "Usam8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B0GlIAEdXq",
+              "end": 58,
+              "expanded_url": "https://x.com/neko0202002/status/2071934215072190563/photo/1",
+              "media_key": "3_2071934207035666432",
+              "start": 35,
+              "url": "https://t.co/B0GlIAEdXq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071934215072190563",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071870481519739036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 @Usam8964 这里面好像收录了 https://t.co/B0GlIAEdXq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 116,
+          "like_count": 1439,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 1014
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 634,
+          "like_count": 2079,
+          "listed_count": 2,
+          "media_count": 2093,
+          "tweet_count": 5467
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

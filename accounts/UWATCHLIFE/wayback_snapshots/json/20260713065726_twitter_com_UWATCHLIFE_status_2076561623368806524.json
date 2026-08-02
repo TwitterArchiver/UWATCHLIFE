@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2076561621766610944"
+      ]
+    },
+    "author_id": "2044496192734666752",
+    "conversation_id": "2076561623368806524",
+    "created_at": "2026-07-13T06:57:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T07:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076561623368806524"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076561623368806524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "由于本壬的失误与无能，原本估价为0.6元的产品，厂家报价0.8元，让大家承受力02元的笋丝，肥肠爆芡，我什么都不会做的，，，\n现发起团员投票，分别有两个选项：一事现在直接下单，但要承受这多出来的0.2元，二则事让本five继续还盘，可能能够还到0.6元，但很有可能会花费个一周时间，并且不一定成功。"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-07-14T06:57:25.000Z",
+        "id": "2076561621766610944",
+        "options": [
+          {
+            "label": "直球购入",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "曲线还盘",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "遗憾出局",
+            "position": 3,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2076561621766610944"
+          ]
+        },
+        "author_id": "2044496192734666752",
+        "conversation_id": "2076561623368806524",
+        "created_at": "2026-07-13T06:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076561623368806524"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076561623368806524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "由于本壬的失误与无能，原本估价为0.6元的产品，厂家报价0.8元，让大家承受力02元的笋丝，肥肠爆芡，我什么都不会做的，，，\n现发起团员投票，分别有两个选项：一事现在直接下单，但要承受这多出来的0.2元，二则事让本five继续还盘，可能能够还到0.6元，但很有可能会花费个一周时间，并且不一定成功。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 130,
+          "like_count": 1593,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1084
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      }
+    ]
+  }
+}

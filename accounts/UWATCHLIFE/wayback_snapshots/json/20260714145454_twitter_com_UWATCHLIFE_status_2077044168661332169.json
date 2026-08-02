@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2077011462124679380",
+    "created_at": "2026-07-14T14:54:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T15:54:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077044168661332169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2007439875726028800",
+          "start": 0,
+          "username": "Hakumei_reimaku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077044168661332169",
+    "in_reply_to_user_id": "2007439875726028800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077011462124679380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hakumei_reimaku 剂量过高诉讼，准备ao纳洛酮罢，，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2077011395695226880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMG3CLaMAAWIc2.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2077011462124679380",
+        "created_at": "2026-07-14T14:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077044168661332169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2007439875726028800",
+              "start": 0,
+              "username": "Hakumei_reimaku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077044168661332169",
+        "in_reply_to_user_id": "2007439875726028800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077011462124679380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hakumei_reimaku 剂量过高诉讼，准备ao纳洛酮罢，，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077011395695226880"
+          ]
+        },
+        "author_id": "2007439875726028800",
+        "conversation_id": "2077011462124679380",
+        "created_at": "2026-07-14T12:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077011462124679380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3A4Q9nLLZZ",
+              "end": 37,
+              "expanded_url": "https://x.com/Hakumei_reimaku/status/2077011462124679380/photo/1",
+              "media_key": "3_2077011395695226880",
+              "start": 14,
+              "url": "https://t.co/3A4Q9nLLZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077011462124679380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "强力枇杷露300ml 测试 https://t.co/3A4Q9nLLZZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 136,
+          "like_count": 1643,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1124
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T13:12:30.000Z",
+        "description": "出生日期09.30.2012/顺男友跨/🇬🇧English/🇭🇰粤语一点点/🇯🇵日语OK/坐标深圳偶尔香港 /overdose/不割手/轻焦/ADHD/舞萌DX14208/phigros 12.15/东方/贝斯手/vibe coding学习中/药理学也懂一点/逃生舱@hakumeireimaku_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 133,
+                "username": "hakumeireimaku_"
+              }
+            ]
+          }
+        },
+        "id": "2007439875726028800",
+        "location": "幻想乡",
+        "name": "博丽灵梦💊🍕",
+        "pinned_tweet_id": "2076907601447838175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012853671457886208/RcGIFvmL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 378,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 357
+        },
+        "url": "",
+        "username": "Hakumei_reimaku",
+        "verified": false
+      }
+    ]
+  }
+}

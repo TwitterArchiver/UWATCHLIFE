@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2059262788850307582",
+    "created_at": "2026-05-26T13:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T14:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059262788850307582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2048537365275422720",
+          "start": 3,
+          "username": "cmqxccc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059262788850307582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058921058946961559",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cmqxccc: 后藤作为一个成年人，家里情况本来就窘迫，自己连用自己的劳动力吃自己都不愿意，我看他就是好吃懒做的猪，还天天高谈阔论什么社会，什么生产力，就和那种每天坐酒桌上吹牛的精神小伙有什么区别，玩碧蓝档案玩久了带入自己魔怔了这是，还真以为自己是什么大导师，然后去找…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2059262788850307582",
+        "created_at": "2026-05-26T13:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059262788850307582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2048537365275422720",
+              "start": 3,
+              "username": "cmqxccc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059262788850307582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058921058946961559",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cmqxccc: 后藤作为一个成年人，家里情况本来就窘迫，自己连用自己的劳动力吃自己都不愿意，我看他就是好吃懒做的猪，还天天高谈阔论什么社会，什么生产力，就和那种每天坐酒桌上吹牛的精神小伙有什么区别，玩碧蓝档案玩久了带入自己魔怔了这是，还真以为自己是什么大导师，然后去找…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048537365275422720",
+        "conversation_id": "2058921058946961559",
+        "created_at": "2026-05-25T14:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058921058946961559"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058921058946961559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "后藤作为一个成年人，家里情况本来就窘迫，自己连用自己的劳动力吃自己都不愿意，我看他就是好吃懒做的猪，还天天高谈阔论什么社会，什么生产力，就和那种每天坐酒桌上吹牛的精神小伙有什么区别，玩碧蓝档案玩久了带入自己魔怔了这是，还真以为自己是什么大导师，然后去找傻子骗骗满足自己唯一存在感。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 89,
+          "like_count": 840,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 654
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T23:00:42.000Z",
+        "description": "/mtf hrt：22.12.8/欢迎大家和我互关互赞/前身@know_hhh51945/@Masterlatos/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "know_hhh51945"
+              },
+              {
+                "end": 57,
+                "start": 45,
+                "username": "Masterlatos"
+              }
+            ]
+          }
+        },
+        "id": "2048537365275422720",
+        "name": "穗雨烛花",
+        "pinned_tweet_id": "2053137254504443959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054407306012717056/45SKeWTj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 165,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 51
+        },
+        "username": "cmqxccc",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2060873993155211281",
+    "created_at": "2026-06-01T02:06:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T03:06:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061268185278710239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1571848301594705927",
+          "start": 0,
+          "username": "TheB17w153"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061268185278710239",
+    "in_reply_to_user_id": "1571848301594705927",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060873993155211281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheB17w153 悟空剂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2060873993155211281",
+        "created_at": "2026-06-01T02:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T03:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061268185278710239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1571848301594705927",
+              "start": 0,
+              "username": "TheB17w153"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061268185278710239",
+        "in_reply_to_user_id": "1571848301594705927",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060873993155211281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheB17w153 悟空剂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2060873993155211281",
+        "created_at": "2026-05-31T00:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T01:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060873993155211281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Explore this conversation and more from the DrugNerds community",
+              "display_url": "reddit.com/r/DrugNerds/co…",
+              "end": 133,
+              "expanded_url": "https://www.reddit.com/r/DrugNerds/comments/ph4ud3/comment/hbfy608/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button",
+              "images": [
+                {
+                  "height": 584,
+                  "url": "https://pbs.twimg.com/news_img/2060873996879749121/B6KMwWCL?format=jpg&name=orig",
+                  "width": 1120
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2060873996879749121/B6KMwWCL?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 110,
+              "status": 200,
+              "title": "cosmicrush's comment on \"Dysdelia, proposing a new hallucinogenic class and an exploration of the pharmacology of their subjective effects.\"",
+              "unwound_url": "https://www.reddit.com/r/DrugNerds/comments/ph4ud3/comment/hbfy608/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button",
+              "url": "https://t.co/TKOMSSjygU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060873993155211281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 516,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个新的术语-Dysdelic（代表性物质为鼠尾草）\nDys-负面的\ndelic-揭示\nPsychedelic 翻译为迷幻剂\n问：有什么比较好的翻译？或者说有必要引出一个新的物质类别吗（Dysdelic/显暗剂-暂定）\nhttps://t.co/TKOMSSjygU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 90,
+          "like_count": 978,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 701
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "叫我比特 03 男 江苏 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 19,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 101,
+                "start": 93,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/3BYMTEZtp1"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 280,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 200
+        },
+        "url": "https://t.co/3BYMTEZtp1",
+        "username": "TheB17w153",
+        "verified": false
+      }
+    ]
+  }
+}

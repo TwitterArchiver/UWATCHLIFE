@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2053485662427545881",
+    "created_at": "2026-05-11T14:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T15:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053841874537046027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1543751033490374662",
+          "start": 0,
+          "username": "ObserveDiary_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053841874537046027",
+    "in_reply_to_user_id": "1543751033490374662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053836868031279135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ObserveDiary_ 谔谔，本壬只事爱钦点才指出这一点对恁又没有敌意恁要事不想听早点讲就事力，何必又书本壬钻牛角尖，那本壬一开始不给恁小红点不与恁互动就完了呗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2053485662427545881",
+        "created_at": "2026-05-11T14:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T15:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053841874537046027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1543751033490374662",
+              "start": 0,
+              "username": "ObserveDiary_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053841874537046027",
+        "in_reply_to_user_id": "1543751033490374662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053836868031279135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ObserveDiary_ 谔谔，本壬只事爱钦点才指出这一点对恁又没有敌意恁要事不想听早点讲就事力，何必又书本壬钻牛角尖，那本壬一开始不给恁小红点不与恁互动就完了呗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543751033490374662",
+        "conversation_id": "2053485662427545881",
+        "created_at": "2026-05-11T13:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053836868031279135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044496192734666752",
+              "start": 0,
+              "username": "UWATCHLIFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053836868031279135",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053834264974872608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UWATCHLIFE 🏳️唉我只是个人用户说话不严谨很正常吧，难道非要每条都发成论文吗。我觉得我说过我没有那个意思就够了，你钻牛角尖（我认为）是你的自由但是希望不要强加与我😢这样的话我说一句话要叠几百个甲了。退一万步说仅图上的去除成瘾性难道不能说是为了治病可以更「安全」吗🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 70,
+          "like_count": 465,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 455
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T00:18:29.000Z",
+        "description": "🏳️‍🌈enby/杂垢",
+        "id": "1543751033490374662",
+        "name": "寝る",
+        "pinned_tweet_id": "2053837483146989731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051344177783586816/0KHe0bIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 678,
+          "like_count": 15723,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 3150
+        },
+        "username": "ObserveDiary_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2066216563750138269",
+    "created_at": "2026-06-14T23:13:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T00:13:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066297978399449404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "535028358",
+          "start": 0,
+          "username": "Beiyan_Yunyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066297978399449404",
+    "in_reply_to_user_id": "535028358",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066216563750138269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Beiyan_Yunyi 真可爱啊，近平君"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2066216563750138269",
+        "created_at": "2026-06-14T23:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T00:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066297978399449404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "535028358",
+              "start": 0,
+              "username": "Beiyan_Yunyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066297978399449404",
+        "in_reply_to_user_id": "535028358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066216563750138269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Beiyan_Yunyi 真可爱啊，近平君"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "535028358",
+        "conversation_id": "2066216563750138269",
+        "created_at": "2026-06-14T17:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066216563750138269"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066216563750138269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝子73岁生日快乐！还有77年才活够150岁，宝子要再接再厉哦！\n啊，好可爱啊……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 105,
+          "like_count": 1191,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 861
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-24T03:02:07.000Z",
+        "description": "MtRF，吃雌二醇的网左，杯水主义仙人\nMothers: @artefaritaUsagi & @sauricat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 29,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "sauricat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.yunyi.beiyan.us",
+                "end": 23,
+                "expanded_url": "https://blog.yunyi.beiyan.us",
+                "start": 0,
+                "url": "https://t.co/0dCxoXrhgJ"
+              }
+            ]
+          }
+        },
+        "id": "535028358",
+        "name": "北雁云依 - 21018365482@o3o.ca",
+        "pinned_tweet_id": "1848540476166885623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984845724023181312/BiHKeo6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3772,
+          "following_count": 218,
+          "like_count": 7595,
+          "listed_count": 18,
+          "media_count": 211,
+          "tweet_count": 2046
+        },
+        "url": "https://t.co/0dCxoXrhgJ",
+        "username": "Beiyan_Yunyi",
+        "verified": false
+      }
+    ]
+  }
+}

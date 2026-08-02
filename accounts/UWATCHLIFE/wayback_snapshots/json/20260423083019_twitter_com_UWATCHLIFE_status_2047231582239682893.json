@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2047196939473813596",
+    "created_at": "2026-04-23T08:30:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T09:30:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047231582239682893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3012350599",
+          "start": 0,
+          "username": "__Ju___Ju__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047231582239682893",
+    "in_reply_to_user_id": "3012350599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047196939473813596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Ju___Ju__ 只是信息的缺乏以及必须负责任地使用这一观念的缺乏导致的罢了，与智商的高低没有关系\n墙外o死的更不在少数，难道spring风也是傻逼吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2047196939473813596",
+        "created_at": "2026-04-23T08:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T09:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047231582239682893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3012350599",
+              "start": 0,
+              "username": "__Ju___Ju__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047231582239682893",
+        "in_reply_to_user_id": "3012350599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047196939473813596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Ju___Ju__ 只是信息的缺乏以及必须负责任地使用这一观念的缺乏导致的罢了，与智商的高低没有关系\n墙外o死的更不在少数，难道spring风也是傻逼吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3012350599",
+        "conversation_id": "2047196939473813596",
+        "created_at": "2026-04-23T06:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T07:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047196939473813596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ssbnwe/status/…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/ssbnwe/status/2046971748953067620",
+              "start": 52,
+              "url": "https://t.co/JaZbO7xYdE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047196939473813596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046971748953067620",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为不负责任地盲目过量就是很蠢，连自己吃的是什么成分什么后果都不知道就往嘴里塞更是蠢上加蠢，看不得蠢b https://t.co/JaZbO7xYdE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 21,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 130
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-07T12:20:03.000Z",
+        "description": "毛绒娃娃回家计划🐰🍊/#すこ部 推し /💕@GiveProofToLove 🫎@mukdengise 可以叫我桔桔/我要出去玩了！！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 11,
+                "tag": "すこ部"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 37,
+                "start": 21,
+                "username": "GiveProofToLove"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "mukdengise"
+              }
+            ]
+          }
+        },
+        "id": "3012350599",
+        "location": "김일성종합대학",
+        "name": "小学桔🧃",
+        "pinned_tweet_id": "1571850748140621824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029526662673752064/dKy6IwX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4318,
+          "following_count": 493,
+          "like_count": 42389,
+          "listed_count": 17,
+          "media_count": 3196,
+          "tweet_count": 44853
+        },
+        "username": "__Ju___Ju__",
+        "verified": true
+      }
+    ]
+  }
+}

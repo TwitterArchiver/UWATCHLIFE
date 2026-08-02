@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2046813339477807386",
+    "created_at": "2026-04-22T04:48:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T05:48:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046813339477807386"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046813339477807386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如何实现伤害减少？\n想要实现减害，必须负责任地使用；想要负责任地使用，则必须使ODer们，那些被后藤称为“享乐人员”的明白：\n我们是凭着自己的意志，完全自由地进行OD，而不是被迫使的。\n有必要将被迫进行的OD与自由OD分开，前者是需要支持与治疗的病症，而后者则是——人类如风般的自由。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2046813339477807386",
+        "created_at": "2026-04-22T04:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T05:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046813339477807386"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046813339477807386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如何实现伤害减少？\n想要实现减害，必须负责任地使用；想要负责任地使用，则必须使ODer们，那些被后藤称为“享乐人员”的明白：\n我们是凭着自己的意志，完全自由地进行OD，而不是被迫使的。\n有必要将被迫进行的OD与自由OD分开，前者是需要支持与治疗的病症，而后者则是——人类如风般的自由。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 19,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 67
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2076614376778600908",
+    "created_at": "2026-07-15T05:52:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T06:52:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077270152035606533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1620045874180259840",
+          "start": 0,
+          "username": "afiq22845893"
+        },
+        {
+          "end": 23,
+          "id": "1844296703282925568",
+          "start": 14,
+          "username": "0xJoveXu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077270152035606533",
+    "in_reply_to_user_id": "1620045874180259840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076928546048758118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@afiq22845893 @0xJoveXu 这事个ao东西，所以戒不掉，这事你提出的\n既然这东西这么ao，那难道不应该一生至少用一次？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2076614376778600908",
+        "created_at": "2026-07-15T05:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T06:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077270152035606533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1620045874180259840",
+              "start": 0,
+              "username": "afiq22845893"
+            },
+            {
+              "end": 23,
+              "id": "1844296703282925568",
+              "start": 14,
+              "username": "0xJoveXu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077270152035606533",
+        "in_reply_to_user_id": "1620045874180259840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076928546048758118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@afiq22845893 @0xJoveXu 这事个ao东西，所以戒不掉，这事你提出的\n既然这东西这么ao，那难道不应该一生至少用一次？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620045874180259840",
+        "conversation_id": "2076614376778600908",
+        "created_at": "2026-07-14T07:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T08:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076928546048758118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044496192734666752",
+              "start": 0,
+              "username": "UWATCHLIFE"
+            },
+            {
+              "end": 21,
+              "id": "1844296703282925568",
+              "start": 12,
+              "username": "0xJoveXu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076928546048758118",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 994,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076925952274378959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UWATCHLIFE @0xJoveXu 你想碰？该劝的都劝了，你还这么想？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 137,
+          "like_count": 1663,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1130
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-30T13:07:07.000Z",
+        "description": "前数字货币集团CEO（交易所、基金、量化、媒体），正在重新学习币圈。\n每日1个币圈名词｜专业解读 + 通俗白话。\n记录学习笔记、踩坑复盘 + 圈外视角看圈内。\n偶尔分享BTC/ETH真实分析。欢迎一起学，一起成长。",
+        "id": "1620045874180259840",
+        "location": "香港",
+        "name": "michaei王",
+        "pinned_tweet_id": "2072920098546037187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059620402171899904/8c9daLPt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5884,
+          "following_count": 6676,
+          "like_count": 15136,
+          "listed_count": 4,
+          "media_count": 295,
+          "tweet_count": 8133
+        },
+        "url": "",
+        "username": "afiq22845893",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-10T08:39:40.000Z",
+        "description": "推创作者\n联系方式：｜WeChat ID：JoveXuG｜https://t.co/FZJIW2uXIU\n社群频道：https://t.co/2O8fCj93XH\n工具推荐｜空投获取｜个人成长｜价值投资",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/JoveXu",
+                "end": 52,
+                "expanded_url": "http://t.me/JoveXu",
+                "start": 29,
+                "url": "https://t.co/FZJIW2uXIU"
+              },
+              {
+                "display_url": "t.me/jovepindao",
+                "end": 81,
+                "expanded_url": "http://t.me/jovepindao",
+                "start": 58,
+                "url": "https://t.co/2O8fCj93XH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jove.sh",
+                "end": 23,
+                "expanded_url": "http://jove.sh",
+                "start": 0,
+                "url": "https://t.co/SITILsBNd7"
+              }
+            ]
+          }
+        },
+        "id": "1844296703282925568",
+        "location": "不含任何投资建议，DYOR！",
+        "name": "Jove",
+        "pinned_tweet_id": "2071820894968922493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068489799300993024/RBrPI1BV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28115,
+          "following_count": 7809,
+          "like_count": 41931,
+          "listed_count": 80,
+          "media_count": 1503,
+          "tweet_count": 38902
+        },
+        "url": "https://t.co/SITILsBNd7",
+        "username": "0xJoveXu",
+        "verified": true
+      }
+    ]
+  }
+}

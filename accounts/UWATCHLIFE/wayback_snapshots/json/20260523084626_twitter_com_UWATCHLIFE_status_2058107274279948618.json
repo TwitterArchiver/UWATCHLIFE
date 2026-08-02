@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2058107274279948618",
+    "created_at": "2026-05-23T08:46:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T09:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058107274279948618"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yangkaiming12/…",
+          "end": 170,
+          "expanded_url": "https://twitter.com/yangkaiming12/status/1697572707175432545",
+          "start": 147,
+          "url": "https://t.co/JTSqcvOY6J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058107274279948618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1697572707175432545",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "重大发掘：22年最美禁毒壬物（怎么评出来的暂且蒙古）娜迪拉警官，被oder们亲切地称为娜娜警官的，被发现曾在低俗影像中出镜。经初步的壬脸验证，暂且认为的确事娜娜警官本壬。据公开信息查证可知娜娜警官来自边防，20年被调入广禁，迅速成为“新媒体先锋”（意味深），让我们感谢她对OD作出的巨大贡献。 https://t.co/JTSqcvOY6J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 340,
+        "media_key": "3_1697572700040937472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F479YGZXQAA1u-I.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2058107274279948618",
+        "created_at": "2026-05-23T08:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T09:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058107274279948618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yangkaiming12/…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/yangkaiming12/status/1697572707175432545",
+              "start": 147,
+              "url": "https://t.co/JTSqcvOY6J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058107274279948618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1697572707175432545",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "重大发掘：22年最美禁毒壬物（怎么评出来的暂且蒙古）娜迪拉警官，被oder们亲切地称为娜娜警官的，被发现曾在低俗影像中出镜。经初步的壬脸验证，暂且认为的确事娜娜警官本壬。据公开信息查证可知娜娜警官来自边防，20年被调入广禁，迅速成为“新媒体先锋”（意味深），让我们感谢她对OD作出的巨大贡献。 https://t.co/JTSqcvOY6J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1697572700040937472"
+          ]
+        },
+        "author_id": "1494175273318760451",
+        "conversation_id": "1697572707175432545",
+        "created_at": "2023-09-01T11:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2023-09-01T12:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1697572707175432545"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "警花"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "警察"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "调教"
+            },
+            {
+              "end": 56,
+              "start": 52,
+              "tag": "娜迪拉"
+            },
+            {
+              "end": 61,
+              "start": 57,
+              "tag": "禁毒人"
+            },
+            {
+              "end": 67,
+              "start": 62,
+              "tag": "双洞齐开"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pan.quark.cn/s/67fd1019b09f",
+              "end": 98,
+              "expanded_url": "https://pan.quark.cn/s/67fd1019b09f",
+              "start": 75,
+              "url": "https://t.co/BxMJrb5qhE"
+            },
+            {
+              "display_url": "pic.x.com/6jOnAoCYvr",
+              "end": 122,
+              "expanded_url": "https://x.com/yangkaiming12/status/1697572707175432545/photo/1",
+              "media_key": "3_1697572700040937472",
+              "start": 99,
+              "url": "https://t.co/6jOnAoCYvr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1697572707175432545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 37809,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "『又一朵警花沦陷』 最美禁毒人『娜迪拉』 被调教双洞齐开不雅视频曝光流出！\n\n#警花 #警察 #调教  #娜迪拉 #禁毒人 #双洞齐开\n\n完整视频👉 https://t.co/BxMJrb5qhE https://t.co/6jOnAoCYvr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 82,
+          "like_count": 758,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 619
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-17T05:02:13.000Z",
+        "description": "全网资源搜索👉 https://t.co/G9GKrywBns",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "8ma.co/res/5L9D2JQ6",
+                "end": 31,
+                "expanded_url": "https://8ma.co/res/5L9D2JQ6",
+                "start": 8,
+                "url": "https://t.co/G9GKrywBns"
+              }
+            ]
+          }
+        },
+        "id": "1494175273318760451",
+        "location": "Hong Kong",
+        "name": "大片来了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671552361863544835/SMe2t4no_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7023,
+          "following_count": 64,
+          "like_count": 886,
+          "listed_count": 20,
+          "media_count": 2168,
+          "tweet_count": 2306
+        },
+        "username": "yangkaiming12",
+        "verified": false
+      }
+    ]
+  }
+}

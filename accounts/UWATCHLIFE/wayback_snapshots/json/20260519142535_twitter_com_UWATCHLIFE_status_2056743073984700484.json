@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2056076981037601219",
+    "created_at": "2026-05-19T14:25:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T15:25:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056743073984700484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2023770080451194880",
+          "start": 0,
+          "username": "seri1131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056743073984700484",
+    "in_reply_to_user_id": "2023770080451194880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056076981037601219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seri1131 羟考酮多吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2056076981037601219",
+        "created_at": "2026-05-19T14:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056743073984700484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2023770080451194880",
+              "start": 0,
+              "username": "seri1131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056743073984700484",
+        "in_reply_to_user_id": "2023770080451194880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056076981037601219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seri1131 羟考酮多吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023770080451194880",
+        "conversation_id": "2056076981037601219",
+        "created_at": "2026-05-17T18:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T19:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056076981037601219"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056076981037601219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "度洛西汀对我纤维肌痛怎么没用了，最近几天又要吃洛索洛芬钠，\n我症状比去年还严重了。去年吃20mg度洛西汀就能让纤维肌痛完全消失……\n不知道是不是要继续加量加到40mg。不过毕竟我刚加到30还是再吃一阵子看看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 79,
+          "like_count": 713,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 590
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T14:42:53.000Z",
+        "description": "無言フォロー失礼します。20↑ 歴オタ。精神疾患や薬やmaimaiDXも呟いてる。頭が非常識だ｡\n喜欢一些阴间的人和他们过去阳间的时候。\nmastodon：https://t.co/jbn7R9vGu5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "c7.io/@hanaaki",
+                "end": 101,
+                "expanded_url": "https://c7.io/@hanaaki",
+                "start": 78,
+                "url": "https://t.co/jbn7R9vGu5"
+              }
+            ]
+          }
+        },
+        "id": "2023770080451194880",
+        "name": "残鸦外",
+        "pinned_tweet_id": "2055302695154765825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054405757312139264/He1vw4MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 61,
+          "like_count": 396,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 326
+        },
+        "username": "seri1131",
+        "verified": false
+      }
+    ]
+  }
+}

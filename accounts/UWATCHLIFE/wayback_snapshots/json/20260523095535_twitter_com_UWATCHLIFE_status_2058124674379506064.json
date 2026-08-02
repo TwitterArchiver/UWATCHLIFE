@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2057837287476752484",
+    "created_at": "2026-05-23T09:55:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T10:55:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058124674379506064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2023770080451194880",
+          "start": 0,
+          "username": "seri1131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058124674379506064",
+    "in_reply_to_user_id": "2023770080451194880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057837287476752484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seri1131 t退役做题蛆的苦逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2057837287476752484",
+        "created_at": "2026-05-23T09:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058124674379506064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2023770080451194880",
+              "start": 0,
+              "username": "seri1131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058124674379506064",
+        "in_reply_to_user_id": "2023770080451194880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057837287476752484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seri1131 t退役做题蛆的苦逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023770080451194880",
+        "conversation_id": "2057837287476752484",
+        "created_at": "2026-05-22T14:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057837287476752484"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057837287476752484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的感恩互联网，要不是上网的话我哪会认识这些在野的搞人文社科的网友，我真的被整个教育系统给害了，还好互联网让我知道不是我一个人没学上但是依然有这方面的兴趣……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 84,
+          "like_count": 766,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 621
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T14:42:53.000Z",
+        "description": "無言フォロー失礼します。20↑ 歴オタ。精神疾患や薬やmaimaiDXも呟いてる。頭が非常識だ｡\n舞萌w35，有0个会打的谱和配置。出勤≈上刑。\n窝喜欢秦桧，喜欢苏我入鹿，喜欢花山天皇，喜欢和泉式部……还喜欢中日新石器时代的一切。\nmastodon：https://t.co/jbn7R9vGu5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "c7.io/@hanaaki",
+                "end": 148,
+                "expanded_url": "https://c7.io/@hanaaki",
+                "start": 125,
+                "url": "https://t.co/jbn7R9vGu5"
+              }
+            ]
+          }
+        },
+        "id": "2023770080451194880",
+        "name": "残鸦外",
+        "pinned_tweet_id": "2055302695154765825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054405757312139264/He1vw4MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 79,
+          "like_count": 519,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 411
+        },
+        "username": "seri1131",
+        "verified": false
+      }
+    ]
+  }
+}

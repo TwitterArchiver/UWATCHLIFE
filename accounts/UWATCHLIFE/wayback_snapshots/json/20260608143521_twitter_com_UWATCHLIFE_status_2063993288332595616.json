@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2063991055704625328",
+    "created_at": "2026-06-08T14:35:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063993288332595616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2051911190108860424",
+          "start": 0,
+          "username": "_ReinforceZwei_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063993288332595616",
+    "in_reply_to_user_id": "2051911190108860424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063991055704625328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ReinforceZwei_ 好啊，来啊，多奈哌齐打在胸上（吸入剂）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2063991055704625328",
+        "created_at": "2026-06-08T14:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063993288332595616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2051911190108860424",
+              "start": 0,
+              "username": "_ReinforceZwei_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063993288332595616",
+        "in_reply_to_user_id": "2051911190108860424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063991055704625328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ReinforceZwei_ 好啊，来啊，多奈哌齐打在胸上（吸入剂）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051911190108860424",
+        "conversation_id": "2063991055704625328",
+        "created_at": "2026-06-08T14:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063991055704625328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/for_4ngel/stat…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/for_4ngel/status/2063828869111840960",
+              "start": 31,
+              "url": "https://t.co/GxGr78MVJS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063991055704625328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063828869111840960",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再次发明轮子，但是轮子是方形的。\n反解离思想放光芒！盼藤归！ https://t.co/GxGr78MVJS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 97,
+          "like_count": 1097,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 780
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T06:26:26.000Z",
+        "description": "祈りは未来へと　つないで\n温もりを　安らぎを　守れるよ",
+        "id": "2051911190108860424",
+        "location": "夜天の書",
+        "name": "Reinforce Zwei",
+        "pinned_tweet_id": "2063261513218224497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053513930576986112/UkiRKRuL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 49,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 55
+        },
+        "username": "_ReinforceZwei_",
+        "verified": false
+      }
+    ]
+  }
+}

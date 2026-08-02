@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2069353888528867735",
+    "created_at": "2026-06-23T10:38:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T11:38:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069369545907896522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1662439435726905344",
+          "start": 0,
+          "username": "ShiroSkura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069369545907896522",
+    "in_reply_to_user_id": "1662439435726905344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069353888528867735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiroSkura 药商盈利文明，oder嗑药野蛮，想必被药商大圈特圈就一定不会列管了罢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2069353888528867735",
+        "created_at": "2026-06-23T10:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069369545907896522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1662439435726905344",
+              "start": 0,
+              "username": "ShiroSkura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069369545907896522",
+        "in_reply_to_user_id": "1662439435726905344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069353888528867735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiroSkura 药商盈利文明，oder嗑药野蛮，想必被药商大圈特圈就一定不会列管了罢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662439435726905344",
+        "conversation_id": "2069353888528867735",
+        "created_at": "2026-06-23T09:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069353888528867735"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069353888528867735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 390,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这下知道为什么策划药商大部分都不愿意公布成了，今天看到某物质有人在开1kg的团结果过去一看所谓的低价物质就是去化工网找化工公司进1kg的原粉过来再一个一个分装下去。。\n\n你们就玩吧活爹，玩的再开心点明年继续列管"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 113,
+          "like_count": 1326,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 903
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T12:44:05.000Z",
+        "description": "17岁生活在Kennewick的天才美少女\n想知道我是谁？才不告诉你！",
+        "id": "1662439435726905344",
+        "location": "Kennewick, WA",
+        "name": "Morikawa Ayako",
+        "pinned_tweet_id": "2050732326112448575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067149046553116672/oFw5Xfeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 40,
+          "like_count": 11391,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "ShiroSkura",
+        "verified": true
+      }
+    ]
+  }
+}

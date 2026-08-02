@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2061736645137956955",
+    "created_at": "2026-06-02T12:35:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T13:35:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061788784635871290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2048782497979510784",
+          "start": 0,
+          "username": "8964qwerty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061788784635871290",
+    "in_reply_to_user_id": "2048782497979510784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061736645137956955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964qwerty 这个帖子不可用。了解详情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2061736645137956955",
+        "created_at": "2026-06-02T12:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061788784635871290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2048782497979510784",
+              "start": 0,
+              "username": "8964qwerty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061788784635871290",
+        "in_reply_to_user_id": "2048782497979510784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061736645137956955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964qwerty 这个帖子不可用。了解详情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048782497979510784",
+        "conversation_id": "2061736645137956955",
+        "created_at": "2026-06-02T09:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T10:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061736645137956955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Overdose_DBD/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Overdose_DBD/status/2060716442388230627",
+              "start": 19,
+              "url": "https://t.co/pDcgIJQ9Eb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061736645137956955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 831,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060716442388230627",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我来了，关于这件事的补充我放评论区） https://t.co/pDcgIJQ9Eb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 91,
+          "like_count": 1002,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 720
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T15:13:54.000Z",
+        "description": "大号@D3XTR0M3TH_0w0\n锁推不方便转帖所以开了这个号\nhttps://t.co/lUVbKBrT1W",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "D3XTR0M3TH_0w0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "docs.google.com/document/d/e/2…",
+                "end": 56,
+                "expanded_url": "https://docs.google.com/document/d/e/2PACX-1vQ8NdJuWUEq1Yzq61AQNemvFQ4r44eSHZhskUEoQsIJKleBMX-yG0SHeVCZCALuC9RME6h2sJYoBqdi/pub",
+                "start": 33,
+                "url": "https://t.co/lUVbKBrT1W"
+              }
+            ]
+          }
+        },
+        "id": "2048782497979510784",
+        "name": "_",
+        "pinned_tweet_id": "2061779682186686790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048783164303425536/SqnH7tTp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 22
+        },
+        "username": "8964qwerty",
+        "verified": false
+      }
+    ]
+  }
+}

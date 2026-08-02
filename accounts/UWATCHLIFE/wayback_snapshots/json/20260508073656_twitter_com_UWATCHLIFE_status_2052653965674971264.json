@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2052391118763905293",
+    "created_at": "2026-05-08T07:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T08:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052653965674971264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2481044857",
+          "start": 0,
+          "username": "liqsliu"
+        },
+        {
+          "end": 25,
+          "id": "1395658814402162689",
+          "start": 9,
+          "username": "8964tou12345678"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052653965674971264",
+    "in_reply_to_user_id": "2481044857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052413277804822572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liqsliu @8964tou12345678 “即便他的想法幼稚到常识来看明显错的”\n原文引用，恁先跟这壬打一架罢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2052391118763905293",
+        "created_at": "2026-05-08T07:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052653965674971264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2481044857",
+              "start": 0,
+              "username": "liqsliu"
+            },
+            {
+              "end": 25,
+              "id": "1395658814402162689",
+              "start": 9,
+              "username": "8964tou12345678"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052653965674971264",
+        "in_reply_to_user_id": "2481044857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052413277804822572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liqsliu @8964tou12345678 “即便他的想法幼稚到常识来看明显错的”\n原文引用，恁先跟这壬打一架罢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2481044857",
+        "conversation_id": "2052391118763905293",
+        "created_at": "2026-05-07T15:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052413277804822572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044496192734666752",
+              "start": 0,
+              "username": "UWATCHLIFE"
+            },
+            {
+              "end": 28,
+              "id": "1395658814402162689",
+              "start": 12,
+              "username": "8964tou12345678"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052413277804822572",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052410821419171917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UWATCHLIFE @8964tou12345678 为啥不能贬低？说的不对吗？错了不让说？\n\n庞大吗？是有如何？\n\n标榜成熟？没看出来，我关注的是他说的内容，而不是他的动机\n\n你觉得幼稚可能你是对的，但我没看出来。不考虑对错，只考虑喜好，幼稚是相对的，小孩子玩玩具在大人看来很幼稚，但没错不值得批评。普通人喜欢垃圾食品和低俗的娱乐也很幼稚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 64,
+          "like_count": 401,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 412
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-07T01:54:37.000Z",
+        "description": "大概是个僵尸号，时不时就来欣赏一下这个传说中的小酒馆。\n屏蔽人全凭个人喜好，希望大家不要介意。\n目前在用的推特客户端时不时无法发推，可以点赞。",
+        "id": "2481044857",
+        "name": "liqsliu",
+        "pinned_tweet_id": "1189044773060923394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1164770765113159680/fLjP5jBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 755,
+          "like_count": 13323,
+          "listed_count": 4,
+          "media_count": 83,
+          "tweet_count": 2605
+        },
+        "username": "liqsliu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-21T08:32:55.000Z",
+        "description": "是圣彼得，是朱斯蒂娜，是你的幻想朋友/moratorium/我开始积极的撒谎/这世界已不是我的地头，就当我在宇宙漂流/曾经是🇹🇭🇵🇭🇮🇩华人，最近🇨🇿华人属于是/不喜欢浪费时间吵架，因此你觉得如果我没有反驳你，可以当作你赢了，庆祝去吧",
+        "id": "1395658814402162689",
+        "name": "✝️Wayne✝️",
+        "pinned_tweet_id": "1675532843366088706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653431411918114816/I99EdSEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10289,
+          "following_count": 10322,
+          "like_count": 309786,
+          "listed_count": 67,
+          "media_count": 2336,
+          "tweet_count": 49867
+        },
+        "username": "8964tou12345678",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2057117270393172451",
+    "created_at": "2026-05-21T01:29:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T02:29:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057272455954420083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1454011300854460420",
+          "start": 0,
+          "username": "rara_0615xx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057272455954420083",
+    "in_reply_to_user_id": "1454011300854460420",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057117270393172451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rara_0615xx OD〇症候群"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2057117270393172451",
+        "created_at": "2026-05-21T01:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T02:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057272455954420083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1454011300854460420",
+              "start": 0,
+              "username": "rara_0615xx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057272455954420083",
+        "in_reply_to_user_id": "1454011300854460420",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057117270393172451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rara_0615xx OD〇症候群"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1454011300854460420",
+        "conversation_id": "2057117270393172451",
+        "created_at": "2026-05-20T15:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057117270393172451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057117270393172451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4429,
+          "like_count": 77,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我主治把od圈这三个字写上我的病历了。。沙溢思，我现在才发现\n我说我有点药物滥用。\n她：od圈是吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 81,
+          "like_count": 731,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 604
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-29T09:04:56.000Z",
+        "description": "🚪私/鱿鱼系女子亚米亚米/互fo大欢迎",
+        "id": "1454011300854460420",
+        "location": "天國",
+        "name": "♡純白色罪業",
+        "pinned_tweet_id": "2035700296392069307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041065743043932161/pNiYUnGt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 245,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 398
+        },
+        "username": "rara_0615xx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2062457947004019116",
+    "created_at": "2026-06-04T08:54:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T09:54:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062457947004019116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062457947004019116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062449274798112831",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: 药物报告day32——Reddit上外国小哥乱磕药剧烈癫痫丧命实录\n\n一个声称自己服用了大量曲马多和🧊的贴子，竟然宣告了一条生命的终结......😿\n\n大家服药的时候一定认清风险、注意安全哦🥺面对社群成员的危险处境或逝世，大家也不要过度反应，以免不…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2062393750928732160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8YMH8XsAAupTE.jpg",
+        "width": 736
+      },
+      {
+        "height": 760,
+        "media_key": "3_2062395948030976000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8aMAyXYAAWnFY.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2062457947004019116",
+        "created_at": "2026-06-04T08:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062457947004019116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659962043460354050",
+              "start": 3,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062457947004019116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062449274798112831",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SalviaSWC: 药物报告day32——Reddit上外国小哥乱磕药剧烈癫痫丧命实录\n\n一个声称自己服用了大量曲马多和🧊的贴子，竟然宣告了一条生命的终结......😿\n\n大家服药的时候一定认清风险、注意安全哦🥺面对社群成员的危险处境或逝世，大家也不要过度反应，以免不…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062393750928732160",
+            "3_2062395948030976000"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2062449274798112831",
+        "created_at": "2026-06-04T08:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062449274798112831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。",
+              "display_url": "freeodwiki.org/%E6%8A%A5%E5%9…",
+              "end": 167,
+              "expanded_url": "https://freeodwiki.org/%E6%8A%A5%E5%91%8A/reddit/update_on_pie_strict466.html",
+              "images": [
+                {
+                  "height": 90,
+                  "url": "https://pbs.twimg.com/news_img/2062449289226514432/I0xWkzh9?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 90,
+                  "url": "https://pbs.twimg.com/news_img/2062449289226514432/I0xWkzh9?format=png&name=150x150",
+                  "width": 90
+                }
+              ],
+              "start": 144,
+              "status": 200,
+              "title": "近况更新——曲马多&甲基苯丙胺 - FreeODwiki——可自由编辑的开源Overdose百科",
+              "unwound_url": "https://freeodwiki.org/%E6%8A%A5%E5%91%8A/reddit/update_on_pie_strict466.html",
+              "url": "https://t.co/4nmtuYv0Ov"
+            },
+            {
+              "display_url": "pic.x.com/frBuAezMGl",
+              "end": 191,
+              "expanded_url": "https://x.com/SalviaSWC/status/2062449274798112831/photo/1",
+              "media_key": "3_2062393750928732160",
+              "start": 168,
+              "url": "https://t.co/frBuAezMGl"
+            },
+            {
+              "display_url": "pic.x.com/frBuAezMGl",
+              "end": 191,
+              "expanded_url": "https://x.com/SalviaSWC/status/2062449274798112831/photo/1",
+              "media_key": "3_2062395948030976000",
+              "start": 168,
+              "url": "https://t.co/frBuAezMGl"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 215,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2061745343776072136",
+              "start": 192,
+              "url": "https://t.co/9UFJamsSz8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062449274798112831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061745343776072136",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药物报告day32——Reddit上外国小哥乱磕药剧烈癫痫丧命实录\n\n一个声称自己服用了大量曲马多和🧊的贴子，竟然宣告了一条生命的终结......😿\n\n大家服药的时候一定认清风险、注意安全哦🥺面对社群成员的危险处境或逝世，大家也不要过度反应，以免不良情绪扩散呢......\n\n文字版链接：https://t.co/4nmtuYv0Ov https://t.co/frBuAezMGl https://t.co/9UFJamsSz8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 91,
+          "like_count": 1029,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 744
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4767,
+          "following_count": 1012,
+          "like_count": 24260,
+          "listed_count": 12,
+          "media_count": 543,
+          "tweet_count": 7832
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

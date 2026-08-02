@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2064033642326925797",
+    "created_at": "2026-06-08T17:26:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T18:26:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064036325700124899"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064036325700124899",
+    "in_reply_to_user_id": "2044496192734666752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064033642326925797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "2016年菲律宾总统选举翌日，选情领先的罗德里戈·杜特尔特ao像从重庆学到了点真东西，表示：“我将成为独裁者（……）但只会对抗邪恶势力——犯罪、毒品与政府腐败”（大噓）。7月1日，杜特尔特宣誓就职的次日，菲律宾国家警察启动“双管计划”，标志着菲律宾毒品战争正式开始。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2064033642326925797",
+        "created_at": "2026-06-08T17:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064036325700124899"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064036325700124899",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064033642326925797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2016年菲律宾总统选举翌日，选情领先的罗德里戈·杜特尔特ao像从重庆学到了点真东西，表示：“我将成为独裁者（……）但只会对抗邪恶势力——犯罪、毒品与政府腐败”（大噓）。7月1日，杜特尔特宣誓就职的次日，菲律宾国家警察启动“双管计划”，标志着菲律宾毒品战争正式开始。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2064033642326925797",
+        "created_at": "2026-06-08T17:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064033642326925797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064033642326925797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "毒品战争的战犯：罗德里戈·杜特尔特\n25年3月7日，杜特尔特飞往香港，参加菲律宾民主党集会。四日后，此壬飞回菲律宾，一落地便遭本国警察逮捕。翌日，此壬被扭送至海牙，接受国际刑事法院之审判。一个世纪前，这里曾签下过第一份禁毒公约，开启了国际禁毒史。而今日，此处也迎来了第一位毒品战争的战犯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 97,
+          "like_count": 1106,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 789
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      }
+    ]
+  }
+}

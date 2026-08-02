@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2076533862096933053",
+    "created_at": "2026-07-14T06:40:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T07:40:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076919692447694989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2050513602096820224",
+          "start": 0,
+          "username": "sleeping_dsc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076919692447694989",
+    "in_reply_to_user_id": "2050513602096820224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076533862096933053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sleeping_dsc 怎么没有我海"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2076533862096933053",
+        "created_at": "2026-07-14T06:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T07:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076919692447694989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2050513602096820224",
+              "start": 0,
+              "username": "sleeping_dsc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076919692447694989",
+        "in_reply_to_user_id": "2050513602096820224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076533862096933053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sleeping_dsc 怎么没有我海"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2076533862096933053",
+        "created_at": "2026-07-13T05:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076533862096933053"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076533862096933053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2625,
+          "like_count": 59,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "天堂应该是这样的：三五成群吸芬太尼的少年，躺在地上抽鸦片水烟的女人，吗啡过量倒在街角昏睡的男人，沉迷僵尸浴盐佝偻在街道的老人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 135,
+          "like_count": 1627,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1112
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "💛🤍💜🖤",
+        "name": "仅此而已的故事",
+        "pinned_tweet_id": "2076350652557807823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073538767760109569/4XfUE2Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 294,
+          "like_count": 4568,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 1403
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "sleeping_dsc",
+        "verified": true
+      }
+    ]
+  }
+}

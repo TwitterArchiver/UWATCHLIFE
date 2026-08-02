@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2077311847645253881",
+    "created_at": "2026-07-16T00:59:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T01:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077558697031782510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1476198137589268480",
+          "start": 0,
+          "username": "N3kuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077558697031782510",
+    "in_reply_to_user_id": "1476198137589268480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077311847645253881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N3kuv 需要排除可能的其它症状，才能判断为原发性的慢性疼痛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2077311847645253881",
+        "created_at": "2026-07-16T00:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T01:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077558697031782510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1476198137589268480",
+              "start": 0,
+              "username": "N3kuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077558697031782510",
+        "in_reply_to_user_id": "1476198137589268480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077311847645253881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N3kuv 需要排除可能的其它症状，才能判断为原发性的慢性疼痛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476198137589268480",
+        "conversation_id": "2077311847645253881",
+        "created_at": "2026-07-15T08:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T09:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077311847645253881"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077311847645253881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 758,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好奇一件事你们这些能开到羟考酮的要做什么具体的检查吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 140,
+          "like_count": 1696,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 1143
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T14:29:24.000Z",
+        "description": "he/him 🏳️‍🌈 oder/drugtwt",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/omdLQg",
+                "end": 23,
+                "expanded_url": "https://reurl.cc/omdLQg",
+                "start": 0,
+                "url": "https://t.co/D225M96ROQ"
+              }
+            ]
+          }
+        },
+        "id": "1476198137589268480",
+        "name": "想吃1161是一种处境",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074106003067461632/ZR23tI7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 546,
+          "like_count": 6124,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 596
+        },
+        "url": "https://t.co/D225M96ROQ",
+        "username": "N3kuv",
+        "verified": false
+      }
+    ]
+  }
+}
