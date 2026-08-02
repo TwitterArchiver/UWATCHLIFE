@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T02:59:13",
+  "last_updated": "2026-08-02T03:00:38",
   "html": {
     "https://web.archive.org/web/20260419155249if_/https://twitter.com/UWATCHLIFE/status/2045893388193743344": {
       "status": "done",
@@ -7305,18 +7305,18 @@
       "referenced_by": [
         "20260426235510_twitter_com_UWATCHLIFE_status_2048551493486444941.json"
       ],
-      "last_updated": "2026-08-02T02:37:55",
+      "last_updated": "2026-08-02T03:00:33",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260426235510/https://video.twimg.com/ext_tw_video/2048272717955416064/pu/vid/avc1/1280x720/lIj15bylQNCL6XV3.mp4?tag=12",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/2052088776986664960/pu/vid/avc1/960x720/GKMhIUnMprQpklGu.mp4?tag=12": {
       "status": "failed_all",
       "referenced_by": [
         "20260506182713_twitter_com_UWATCHLIFE_status_2052092838180274207.json"
       ],
-      "last_updated": "2026-08-02T02:37:57",
+      "last_updated": "2026-08-02T03:00:38",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260506182713/https://video.twimg.com/ext_tw_video/2052088776986664960/pu/vid/avc1/960x720/GKMhIUnMprQpklGu.mp4?tag=12",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2055173038321356800/vid/avc1/1280x720/JqBhRraaSy_5hnoe.mp4?tag=14": {
       "status": "done",
