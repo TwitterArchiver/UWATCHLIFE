@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2089660376938078508",
+    "created_at": "2026-08-18T10:27:12.000Z",
+    "display_text_range": [
+      0,
+      153
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T11:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089660376938078508"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/drugs_artist/s…",
+          "end": 177,
+          "expanded_url": "https://twitter.com/drugs_artist/status/2089659254802207021",
+          "start": 154,
+          "url": "https://t.co/I4NZQLPE5M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089660376938078508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089659254802207021",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以搞渠道垄断，十倍高价？我们弄的低价电商价格比你们名屑堂meng龚厂低十倍，马鹏宇这种无谓的送妈也改变不了这个事实\n（3-me-pcpy将在我们的低价药商预定售卖，价格在35r/100mg上下，而这玩意30mg就事常规剂量，恁却卖出28u/30mg，算下来约600r/100mg，恁这种屑真不事壬类罢？） https://t.co/I4NZQLPE5M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1527,
+        "media_key": "3_2089659239665131520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_2AcnaYAATtZT.jpg",
+        "width": 1095
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2089660376938078508",
+        "created_at": "2026-08-18T10:27:12.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089660376938078508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drugs_artist/s…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/drugs_artist/status/2089659254802207021",
+              "start": 154,
+              "url": "https://t.co/I4NZQLPE5M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089660376938078508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089659254802207021",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以搞渠道垄断，十倍高价？我们弄的低价电商价格比你们名屑堂meng龚厂低十倍，马鹏宇这种无谓的送妈也改变不了这个事实\n（3-me-pcpy将在我们的低价药商预定售卖，价格在35r/100mg上下，而这玩意30mg就事常规剂量，恁却卖出28u/30mg，算下来约600r/100mg，恁这种屑真不事壬类罢？） https://t.co/I4NZQLPE5M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089659239665131520"
+          ]
+        },
+        "author_id": "1156995783192797185",
+        "conversation_id": "2089659254802207021",
+        "created_at": "2026-08-18T10:22:44.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T10:42:16.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089649068951925103",
+          "2089659254802207021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1893688350076542976",
+              "start": 23,
+              "username": "drug_artist"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k6GZqgI6iG",
+              "end": 59,
+              "expanded_url": "https://x.com/drugs_artist/status/2089659254802207021/photo/1",
+              "media_key": "3_2089659239665131520",
+              "start": 36,
+              "url": "https://t.co/k6GZqgI6iG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089659254802207021",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089659239665131520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "沐雨经过重重险阻后 终于回来了……\n联系TG：@drug_artist https://t.co/k6GZqgI6iG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "is_identity_verified": false,
+        "location": "三浦海峡",
+        "most_recent_tweet_id": "2089660376938078508",
+        "name": "ominous",
+        "pinned_tweet_id": "2078365186466156746",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2044496192734666752/1776281725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 162,
+          "like_count": 1932,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1226
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-01T18:31:05.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘INFP|提问箱:https://t.co/CSC72A8dFF|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy！年号雨玄二年 我从地狱杀回来了  名人堂梦工厂RC-沐雨 零售策划药产品联系我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 61,
+                "expanded_url": "http://ngl.link/drugs_artist",
+                "start": 38,
+                "url": "https://t.co/CSC72A8dFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/dUOaFI0Nkg"
+              }
+            ]
+          }
+        },
+        "id": "1156995783192797185",
+        "is_identity_verified": false,
+        "location": "Xanax天国2mg自治区",
+        "most_recent_tweet_id": "2089659254802207021",
+        "name": "沐雨",
+        "pinned_tweet_id": "2089389714134761739",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1156995783192797185/1786981866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089379499209355264/O-VSHgY0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 32,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 31
+        },
+        "url": "https://t.co/dUOaFI0Nkg",
+        "username": "drugs_artist",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

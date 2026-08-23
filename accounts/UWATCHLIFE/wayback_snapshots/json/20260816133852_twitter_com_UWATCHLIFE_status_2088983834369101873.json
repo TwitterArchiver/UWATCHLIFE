@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2088983834369101873",
+    "created_at": "2026-08-16T13:38:52.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T14:38:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088983834369101873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2076627902725300225",
+          "start": 3,
+          "username": "Fuyuumibai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088983834369101873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088983734288892059",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fuyuumibai: 感谢自由药物基金会的捐助，我们得以重新进货普瑞!根据上次经验，因分发中不可避的损耗,\n*这一批的pr原粉价格为1.7r/g.* \n*为庆祝pr恢复,我们决定*再抽出5份pr原粉,每人10g,共50g*(邮费自负,转发+点赞+评论) \n上一次发帖因…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2088983834369101873",
+        "created_at": "2026-08-16T13:38:52.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088983834369101873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2076627902725300225",
+              "start": 3,
+              "username": "Fuyuumibai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088983834369101873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088983734288892059",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fuyuumibai: 感谢自由药物基金会的捐助，我们得以重新进货普瑞!根据上次经验，因分发中不可避的损耗,\n*这一批的pr原粉价格为1.7r/g.* \n*为庆祝pr恢复,我们决定*再抽出5份pr原粉,每人10g,共50g*(邮费自负,转发+点赞+评论) \n上一次发帖因…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076627902725300225",
+        "conversation_id": "2088983734288892059",
+        "created_at": "2026-08-16T13:38:28.000Z",
+        "display_text_range": [
+          0,
+          160
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088983734288892059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/UWATCHLIFE/sta…",
+              "end": 184,
+              "expanded_url": "https://twitter.com/UWATCHLIFE/status/2088934858076909790",
+              "start": 161,
+              "url": "https://t.co/7HfXyKL0OE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088983734288892059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088934858076909790",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感谢自由药物基金会的捐助，我们得以重新进货普瑞!根据上次经验，因分发中不可避的损耗,\n*这一批的pr原粉价格为1.7r/g.* \n*为庆祝pr恢复,我们决定*再抽出5份pr原粉,每人10g,共50g*(邮费自负,转发+点赞+评论) \n上一次发帖因有奸人作祟，账号很快被限制！普瑞原粉买卖是完全合法合规的交易，普瑞并不违禁 https://t.co/7HfXyKL0OE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "is_identity_verified": false,
+        "location": "三浦海峡",
+        "most_recent_tweet_id": "2088983834369101873",
+        "name": "ominous",
+        "pinned_tweet_id": "2078365186466156746",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2044496192734666752/1776281725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 163,
+          "like_count": 1929,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1226
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-13T11:26:51.000Z",
+        "description": "10年出厂 | 持证含糖🍥 | HRT日期 2025.7.7 | 跨女desu🏳️‍⚧️ | OD | 普瑞巴林它把我逼到了健全的地步 | 同类互fo | 谢绝建制派与粉红兔兔",
+        "id": "2076627902725300225",
+        "is_identity_verified": false,
+        "location": "白云山",
+        "most_recent_tweet_id": "2088983734288892059",
+        "name": "冬海霾",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076627902725300225/1783942541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076629784583655424/ZEDwAeYG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 34,
+          "like_count": 229,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "Fuyuumibai",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

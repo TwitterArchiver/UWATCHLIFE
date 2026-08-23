@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2088934858076909790",
+    "created_at": "2026-08-16T10:35:53.000Z",
+    "display_text_range": [
+      0,
+      114
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T11:35:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088937784363159858"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2088937784363159858",
+    "in_reply_to_user_id": "2044496192734666752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088934858076909790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为此，自由药物基金会目前可以并即将进行以下四种运动：\n0.进行药物团购，为团内oder提供基础物质\n1.运营低价药商，打破现有倒卖药商的垄断\n2.援助贫困oder，帮助人员渡过暂时的难关\n3.检测药商物质，以此打击不开名的屑药商"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2088934858076909790",
+        "created_at": "2026-08-16T10:35:53.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088937784363159858"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088937784363159858",
+        "in_reply_to_user_id": "2044496192734666752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088934858076909790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为此，自由药物基金会目前可以并即将进行以下四种运动：\n0.进行药物团购，为团内oder提供基础物质\n1.运营低价药商，打破现有倒卖药商的垄断\n2.援助贫困oder，帮助人员渡过暂时的难关\n3.检测药商物质，以此打击不开名的屑药商"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2088934858076909790",
+        "created_at": "2026-08-16T10:24:15.000Z",
+        "display_text_range": [
+          0,
+          192
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088934858076909790"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088934858076909790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了推广自由药物,使oder人人得以自由地使用药物,进而保护oder的生命安全,推动药监的去刑事化,我创立了名为「自由药物基金会」的非营利性组织,已开放捐款：\nerc:0xEda39018F42a8faD341E652a54c51dDA150406b1\ntrc:TEqyM7STkuY9ntWQiKmy9wCRTcKVhBaRr4\n\n所谓自由药物,必须保障oder的四项基本自由权利："
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "is_identity_verified": false,
+        "location": "三浦海峡",
+        "most_recent_tweet_id": "2088937784363159858",
+        "name": "ominous",
+        "pinned_tweet_id": "2078365186466156746",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2044496192734666752/1776281725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 163,
+          "like_count": 1926,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1223
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087165068693938176"
+      ],
+      "media_source_tweet_id": [
+        "2087165078437347744"
+      ]
+    },
+    "author_id": "2044496192734666752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2087231224670798011",
+    "created_at": "2026-08-11T17:34:37.000Z",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T18:34:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087231224670798011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1918261520817065984",
+          "start": 3,
+          "username": "EmptyVx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/st0ROcroL6",
+          "end": 89,
+          "expanded_url": "https://x.com/EmptyVx/status/2087165078437347744/photo/1",
+          "media_key": "3_2087165068693938176",
+          "start": 66,
+          "url": "https://t.co/st0ROcroL6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087231224670798011",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087165068693938176"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087165078437347744",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EmptyVx: 超级抽奖！完全匿名！\n奖品为素晴日匿名万事达10刀卡\n评论，关注，转发几个参加\n转发量达到78即可开奖！ https://t.co/st0ROcroL6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 997,
+        "media_key": "3_2087165068693938176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcZklsbIAA-z3P.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087165068693938176"
+          ]
+        },
+        "author_id": "1918261520817065984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087165078437347744",
+        "created_at": "2026-08-11T13:11:47.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T14:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087165078437347744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/st0ROcroL6",
+              "end": 76,
+              "expanded_url": "https://x.com/EmptyVx/status/2087165078437347744/photo/1",
+              "media_key": "3_2087165068693938176",
+              "start": 53,
+              "url": "https://t.co/st0ROcroL6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087165078437347744",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087165068693938176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "超级抽奖！完全匿名！\n奖品为素晴日匿名万事达10刀卡\n评论，关注，转发几个参加\n转发量达到78即可开奖！ https://t.co/st0ROcroL6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087165068693938176"
+          ],
+          "media_source_tweet_id": [
+            "2087165078437347744"
+          ]
+        },
+        "author_id": "2044496192734666752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087231224670798011",
+        "created_at": "2026-08-11T17:34:37.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T18:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087231224670798011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1918261520817065984",
+              "start": 3,
+              "username": "EmptyVx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/st0ROcroL6",
+              "end": 89,
+              "expanded_url": "https://x.com/EmptyVx/status/2087165078437347744/photo/1",
+              "media_key": "3_2087165068693938176",
+              "start": 66,
+              "url": "https://t.co/st0ROcroL6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087231224670798011",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087165068693938176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087165078437347744",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EmptyVx: 超级抽奖！完全匿名！\n奖品为素晴日匿名万事达10刀卡\n评论，关注，转发几个参加\n转发量达到78即可开奖！ https://t.co/st0ROcroL6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "is_identity_verified": false,
+        "location": "三浦海峡",
+        "most_recent_tweet_id": "2087231224670798011",
+        "name": "ominous",
+        "pinned_tweet_id": "2078365186466156746",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2044496192734666752/1776281725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 166,
+          "like_count": 1926,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1209
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T11:09:46.000Z",
+        "description": "非二元，非健全，无性恋，我能罵你說明你也是糖到極致了，看见了会回Fo💅NGL匿名提問箱https://t.co/GzpprScqk2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugbug1",
+                "end": 66,
+                "expanded_url": "https://ngl.link/drugbug1",
+                "start": 43,
+                "url": "https://t.co/GzpprScqk2"
+              }
+            ]
+          }
+        },
+        "id": "1918261520817065984",
+        "is_identity_verified": false,
+        "location": "塔菲國",
+        "most_recent_tweet_id": "2087230662084583862",
+        "name": "糖人日記",
+        "pinned_tweet_id": "2087230662084583862",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918261520817065984/1781592722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066775745784090624/pkNSZG9b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 233,
+          "like_count": 119,
+          "listed_count": 4,
+          "media_count": 24,
+          "tweet_count": 204
+        },
+        "url": "",
+        "username": "EmptyVx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

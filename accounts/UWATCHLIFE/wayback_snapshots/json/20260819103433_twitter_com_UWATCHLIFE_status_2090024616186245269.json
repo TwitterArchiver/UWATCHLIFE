@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2089962217508831720",
+    "created_at": "2026-08-19T10:34:33.000Z",
+    "display_text_range": [
+      40,
+      90
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T11:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090024616186245269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1386670401422434304",
+          "start": 0,
+          "username": "xx1012000456"
+        },
+        {
+          "end": 24,
+          "id": "2044176423460515840",
+          "start": 14,
+          "username": "dupinkepu"
+        },
+        {
+          "end": 39,
+          "id": "1963203648437239808",
+          "start": 25,
+          "username": "Aphantasia314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090024616186245269",
+    "in_reply_to_user_id": "1386670401422434304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090015606221496595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xx1012000456 @dupinkepu @Aphantasia314 加入卡特尔的狗东西叫些什么呢，本壬对于恁这个与自由药物一点也不沾边的屑药商进行打击难道不事正义之举？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 749,
+        "media_key": "3_2090015006570278912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQE5kznbcAAe6b5.png",
+        "width": 554
+      },
+      {
+        "height": 809,
+        "media_key": "3_2090015029311750144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQE5mIVawAAn4oc.png",
+        "width": 537
+      },
+      {
+        "height": 638,
+        "media_key": "3_2090015061318533120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQE5n_kbgAA_U9K.png",
+        "width": 554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2089962217508831720",
+        "created_at": "2026-08-19T10:34:33.000Z",
+        "display_text_range": [
+          40,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090024616186245269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            },
+            {
+              "end": 24,
+              "id": "2044176423460515840",
+              "start": 14,
+              "username": "dupinkepu"
+            },
+            {
+              "end": 39,
+              "id": "1963203648437239808",
+              "start": 25,
+              "username": "Aphantasia314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090024616186245269",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090015606221496595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 @dupinkepu @Aphantasia314 加入卡特尔的狗东西叫些什么呢，本壬对于恁这个与自由药物一点也不沾边的屑药商进行打击难道不事正义之举？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090015006570278912",
+            "3_2090015029311750144",
+            "3_2090015061318533120"
+          ]
+        },
+        "author_id": "1386670401422434304",
+        "conversation_id": "2089962217508831720",
+        "created_at": "2026-08-19T09:58:45.000Z",
+        "display_text_range": [
+          26,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090015606221496595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2044176423460515840",
+              "start": 0,
+              "username": "dupinkepu"
+            },
+            {
+              "end": 25,
+              "id": "1963203648437239808",
+              "start": 11,
+              "username": "Aphantasia314"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gcp1ouOJc2",
+              "end": 177,
+              "expanded_url": "https://x.com/xx1012000456/status/2090015606221496595/photo/1",
+              "media_key": "3_2090015006570278912",
+              "start": 154,
+              "url": "https://t.co/gcp1ouOJc2"
+            },
+            {
+              "display_url": "pic.x.com/gcp1ouOJc2",
+              "end": 177,
+              "expanded_url": "https://x.com/xx1012000456/status/2090015606221496595/photo/1",
+              "media_key": "3_2090015029311750144",
+              "start": 154,
+              "url": "https://t.co/gcp1ouOJc2"
+            },
+            {
+              "display_url": "pic.x.com/gcp1ouOJc2",
+              "end": 177,
+              "expanded_url": "https://x.com/xx1012000456/status/2090015606221496595/photo/1",
+              "media_key": "3_2090015061318533120",
+              "start": 154,
+              "url": "https://t.co/gcp1ouOJc2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090015606221496595",
+        "in_reply_to_user_id": "2044176423460515840",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090015006570278912"
+          },
+          {
+            "media_key": "3_2090015029311750144"
+          },
+          {
+            "media_key": "3_2090015061318533120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090008964767580330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dupinkepu @Aphantasia314 这个当然没有问题，不过我很好奇，你们基金会是投票选择了这么一个毫无素质到处咬人的狗作为概念的发起人和代言人，还是他擅自代表基金会发言？你们能拿到卡特尔的聊天记录也应该知道，我是一直表示克制和不支持的，这傻逼干嘛对我有这么大的恶意，啥帽子都往我头上扣？？？ https://t.co/gcp1ouOJc2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "is_identity_verified": false,
+        "location": "三浦海峡",
+        "most_recent_tweet_id": "2090024616186245269",
+        "name": "ominous",
+        "pinned_tweet_id": "2078365186466156746",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2044496192734666752/1776281725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 160,
+          "like_count": 1941,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1239
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOqSC 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOqSC"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2090015606221496595",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2089350220362678485",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1801,
+          "following_count": 741,
+          "like_count": 123,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 2211
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T22:10:24.000Z",
+        "description": "知的强奸者",
+        "id": "2044176423460515840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090008964767580330",
+        "name": "橘雪莉",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2044176423460515840/1780542200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062369390272925696/pssWTzLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 200,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 123
+        },
+        "url": "",
+        "username": "dupinkepu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-03T11:33:29.000Z",
+        "description": "",
+        "id": "1963203648437239808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089996776627732760",
+        "name": "Aphantasia",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1963203648437239808/1785179481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089746399315529728/p6XZOKPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 22,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "Aphantasia314",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

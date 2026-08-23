@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2089680000186462480",
+    "created_at": "2026-08-18T11:45:11.000Z",
+    "display_text_range": [
+      0,
+      111
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T12:45:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089680000186462480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2089674593304997888",
+          "start": 3,
+          "username": "bainaba114"
+        }
+      ],
+      "urls": [
+        {
+          "description": "You can view and join @freepgbplz right away.",
+          "display_url": "t.me/freepgbplz",
+          "end": 95,
+          "expanded_url": "https://t.me/freepgbplz",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/2089677145417056256/m5qNhMsi?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2089677145417056256/m5qNhMsi?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 72,
+          "status": 200,
+          "title": "低价药商-请解放普瑞巴林！",
+          "unwound_url": "https://t.me/freepgbplz",
+          "url": "https://t.co/57T8ngQCyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089680000186462480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089678356669497435",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bainaba114: 抽奖，转发点赞加评论，pr化学试剂五份，一份十克，后天十二点开奖\npr化学试剂1.7每g，欢迎私信购买，tg频道https://t.co/57T8ngQCyg\n仅供实验教学使用，禁止人体服用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2089680000186462480",
+        "created_at": "2026-08-18T11:45:11.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T12:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089680000186462480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2089674593304997888",
+              "start": 3,
+              "username": "bainaba114"
+            }
+          ],
+          "urls": [
+            {
+              "description": "You can view and join @freepgbplz right away.",
+              "display_url": "t.me/freepgbplz",
+              "end": 95,
+              "expanded_url": "https://t.me/freepgbplz",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2089677145417056256/m5qNhMsi?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2089677145417056256/m5qNhMsi?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 72,
+              "status": 200,
+              "title": "低价药商-请解放普瑞巴林！",
+              "unwound_url": "https://t.me/freepgbplz",
+              "url": "https://t.co/57T8ngQCyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089680000186462480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089678356669497435",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bainaba114: 抽奖，转发点赞加评论，pr化学试剂五份，一份十克，后天十二点开奖\npr化学试剂1.7每g，欢迎私信购买，tg频道https://t.co/57T8ngQCyg\n仅供实验教学使用，禁止人体服用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089674593304997888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2089678356669497435",
+        "created_at": "2026-08-18T11:38:39.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T12:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089678356669497435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You can view and join @freepgbplz right away.",
+              "display_url": "t.me/freepgbplz",
+              "end": 79,
+              "expanded_url": "https://t.me/freepgbplz",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2089677145417056256/m5qNhMsi?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2089677145417056256/m5qNhMsi?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 56,
+              "status": 200,
+              "title": "低价药商-请解放普瑞巴林！",
+              "unwound_url": "https://t.me/freepgbplz",
+              "url": "https://t.co/57T8ngQCyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089678356669497435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 20,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖，转发点赞加评论，pr化学试剂五份，一份十克，后天十二点开奖\npr化学试剂1.7每g，欢迎私信购买，tg频道https://t.co/57T8ngQCyg\n仅供实验教学使用，禁止人体服用"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "is_identity_verified": false,
+        "location": "三浦海峡",
+        "most_recent_tweet_id": "2089680000186462480",
+        "name": "ominous",
+        "pinned_tweet_id": "2078365186466156746",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2044496192734666752/1776281725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 164,
+          "like_count": 1936,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1231
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-18T11:26:06.000Z",
+        "description": "pr 1.7/g，私信购买",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/freepgbplz",
+                "end": 23,
+                "expanded_url": "http://t.me/freepgbplz",
+                "start": 0,
+                "url": "https://t.co/OcmbU7KxcW"
+              }
+            ]
+          }
+        },
+        "id": "2089674593304997888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089678356669497435",
+        "name": "霾兔",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089676321630945280/BL8JD3Ko_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "https://t.co/OcmbU7KxcW",
+        "username": "bainaba114",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

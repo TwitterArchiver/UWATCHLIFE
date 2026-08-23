@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2084612590660153624",
+    "created_at": "2026-08-04T12:09:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T13:09:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084612590660153624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2022208955917979648",
+          "start": 3,
+          "username": "Ak1r4i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084612590660153624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084600195019624642",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ak1r4i: 拼團帖：\n有沒有寶寶想要一起拼團4-keto-pcp的?報價是500/g 10克起拿。感興趣的話評論一下 或者DM我 有一定人數的話我會開群統計。另外根據現有資料4-keto-pcp的普通劑量應該落在20~40mg 按目前價格的話15塊錢左右就可以玩一次…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2084612590660153624",
+        "created_at": "2026-08-04T12:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084612590660153624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2022208955917979648",
+              "start": 3,
+              "username": "Ak1r4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084612590660153624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084600195019624642",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ak1r4i: 拼團帖：\n有沒有寶寶想要一起拼團4-keto-pcp的?報價是500/g 10克起拿。感興趣的話評論一下 或者DM我 有一定人數的話我會開群統計。另外根據現有資料4-keto-pcp的普通劑量應該落在20~40mg 按目前價格的話15塊錢左右就可以玩一次…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022208955917979648",
+        "conversation_id": "2084600195019624642",
+        "created_at": "2026-08-04T11:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084600195019624642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084600195019624642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "拼團帖：\n有沒有寶寶想要一起拼團4-keto-pcp的?報價是500/g 10克起拿。感興趣的話評論一下 或者DM我 有一定人數的話我會開群統計。另外根據現有資料4-keto-pcp的普通劑量應該落在20~40mg 按目前價格的話15塊錢左右就可以玩一次 體驗效果應該像小馬和天使的混合(? 我也是第一次做這個請大家多多包容謝謝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "pinned_tweet_id": "2078365186466156746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 166,
+          "like_count": 1911,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1207
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T07:19:33.000Z",
+        "description": "這麼大的世界卻無我的立錐之地\n💊🔪🩸 Oct.09 社交無能笨蛋 希死念慮 \n發了ooc內容的話就是我嗑大了(不要討厭我🥺\n負能only sub垢@perconut 備用垢@Mi1dori\n憑感覺fo跟回fo❤️ \n愛@tanga7lc\n可以來問我問題呀↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 73,
+                "username": "perconut"
+              },
+              {
+                "end": 94,
+                "start": 86,
+                "username": "Mi1dori"
+              },
+              {
+                "end": 118,
+                "start": 109,
+                "username": "tanga7lc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ak1r4i",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ak1r4i",
+                "start": 0,
+                "url": "https://t.co/d4zjW5aAqe"
+              }
+            ]
+          }
+        },
+        "id": "2022208955917979648",
+        "location": "夢",
+        "name": "惺✨",
+        "pinned_tweet_id": "2084561341197742494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077712711434280960/C81eaJ93_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 331,
+          "like_count": 1002,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 447
+        },
+        "url": "https://t.co/d4zjW5aAqe",
+        "username": "Ak1r4i",
+        "verified": false
+      }
+    ]
+  }
+}
