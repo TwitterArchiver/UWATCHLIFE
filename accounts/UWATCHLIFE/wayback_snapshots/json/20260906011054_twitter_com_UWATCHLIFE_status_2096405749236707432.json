@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2096366184145060038",
+    "created_at": "2026-09-06T01:10:54.000Z",
+    "display_text_range": [
+      15,
+      150
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T02:10:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096405749236707432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1464941699889696768",
+          "start": 0,
+          "username": "drugs_artists"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096405749236707432",
+    "in_reply_to_user_id": "1464941699889696768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096366184145060038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drugs_artists 还有，无论你开源与否，所谓的精品璐线都事完完全全的骗局，我们一刻都不会予以承认。以你之前对月尘掺杂掺假和原料的渠道根本上就差不多，根本没有所谓精品为前提，你那与其说事精品璐线，不如说事诈骗璐线。\n如果你真的想当开源药商并和解，那就即刻公开成本价并降价，这样才有和解的可能"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 981,
+        "media_key": "3_2096366178944110592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRfJ7scbUAAv4s9.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2096366184145060038",
+        "created_at": "2026-09-06T01:10:54.000Z",
+        "display_text_range": [
+          15,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T02:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096405749236707432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1464941699889696768",
+              "start": 0,
+              "username": "drugs_artists"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096405749236707432",
+        "in_reply_to_user_id": "1464941699889696768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096366184145060038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drugs_artists 还有，无论你开源与否，所谓的精品璐线都事完完全全的骗局，我们一刻都不会予以承认。以你之前对月尘掺杂掺假和原料的渠道根本上就差不多，根本没有所谓精品为前提，你那与其说事精品璐线，不如说事诈骗璐线。\n如果你真的想当开源药商并和解，那就即刻公开成本价并降价，这样才有和解的可能"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096366178944110592"
+          ]
+        },
+        "author_id": "1464941699889696768",
+        "conversation_id": "2096366184145060038",
+        "created_at": "2026-09-05T22:33:41.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T23:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096366184145060038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x3FP4LcN5W",
+              "end": 147,
+              "expanded_url": "https://x.com/drugs_artists/status/2096366184145060038/photo/1",
+              "media_key": "3_2096366178944110592",
+              "start": 124,
+              "url": "https://t.co/x3FP4LcN5W"
+            },
+            {
+              "display_url": "x.com/UWATCHLIFE/sta…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/UWATCHLIFE/status/2096062388810236394",
+              "start": 148,
+              "url": "https://t.co/msWTNgnLhc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096366184145060038",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096366178944110592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 280,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096062388810236394",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "掺杂掺假在哪里🤔别尬黑噢\nwiki也从来没有写过任何关于月尘的内容\n真别尬黑omi前辈 合理合据黑我我认\n比如我盈利 高价倒卖 是事实\n而且我刚准备和你们和解\n意思是我现在是开源派\n你们不愿意也没关系 我摆烂了\n随你们骂 因为我发现谁的终点都是死 https://t.co/x3FP4LcN5W https://t.co/msWTNgnLhc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "is_identity_verified": false,
+        "location": "三浦海峡",
+        "most_recent_tweet_id": "2096405749236707432",
+        "name": "ominous",
+        "pinned_tweet_id": "2078365186466156746",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2044496192734666752/1776281725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 157,
+          "like_count": 1945,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1263
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-28T12:58:24.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|4i男娘INFPI|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!年号雨玄二年\n名人堂梦工厂RC-沐雨 零售策划药产品联系我的https://t.co/QsZVHyAmQG \n我的双子星：@qiyueqiye11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 127,
+                "username": "qiyueqiye11"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/drug_artist",
+                "end": 119,
+                "expanded_url": "http://t.me/drug_artist",
+                "start": 96,
+                "url": "https://t.co/QsZVHyAmQG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/7EyvDSe3J6"
+              }
+            ]
+          }
+        },
+        "id": "1464941699889696768",
+        "is_identity_verified": false,
+        "location": "Xanax天国8mg自治区",
+        "most_recent_tweet_id": "2096366184145060038",
+        "name": "沐雨八世",
+        "pinned_tweet_id": "2093068227492651062",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1464941699889696768/1787861084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093066704456953856/2BIY4fKr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 60,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 86
+        },
+        "url": "https://t.co/7EyvDSe3J6",
+        "username": "drugs_artists",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

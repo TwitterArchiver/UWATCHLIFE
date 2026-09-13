@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2095558181380395309",
+    "created_at": "2026-09-03T17:02:58.000Z",
+    "display_text_range": [
+      0,
+      152
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T18:02:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095558181380395309"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2095558181380395309",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们要知道，大部分药商的药物都事倒卖的试剂商,少部分倒卖的原料商,只有少数佼佼者（如lethal系,当然他们那系也有历史原因）才事自己料理出来的。你们如果要买哪种已知可用的rc,最ao直接找试剂商,量大就原料商,千万别信大部分药商说的自己品质比试剂原料ao等的鬼话,这些鬼话的价格事200%以上的溢价\"\""
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2095558181380395309",
+        "created_at": "2026-09-03T17:02:58.000Z",
+        "display_text_range": [
+          0,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T18:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095558181380395309"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095558181380395309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们要知道，大部分药商的药物都事倒卖的试剂商,少部分倒卖的原料商,只有少数佼佼者（如lethal系,当然他们那系也有历史原因）才事自己料理出来的。你们如果要买哪种已知可用的rc,最ao直接找试剂商,量大就原料商,千万别信大部分药商说的自己品质比试剂原料ao等的鬼话,这些鬼话的价格事200%以上的溢价\"\""
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "is_identity_verified": false,
+        "location": "三浦海峡",
+        "most_recent_tweet_id": "2095558181380395309",
+        "name": "ominous",
+        "pinned_tweet_id": "2078365186466156746",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2044496192734666752/1776281725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 156,
+          "like_count": 1927,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1240
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

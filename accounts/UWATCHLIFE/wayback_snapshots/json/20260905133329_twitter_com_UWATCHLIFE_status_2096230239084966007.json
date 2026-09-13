@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2044496192734666752",
+    "conversation_id": "2096230239084966007",
+    "created_at": "2026-09-05T13:33:29.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T14:33:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096230239084966007"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LanwujiDrink/s…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/LanwujiDrink/status/2096218267681796294",
+          "start": 38,
+          "url": "https://t.co/xmN5BcTZ6S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096230239084966007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096218267681796294",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "别壬bad trip力，你却一上来就申明不事自己家的打广告，怎么这么没壬性 https://t.co/xmN5BcTZ6S"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2096230239084966007",
+        "created_at": "2026-09-05T13:33:29.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T14:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096230239084966007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LanwujiDrink/s…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/LanwujiDrink/status/2096218267681796294",
+              "start": 38,
+              "url": "https://t.co/xmN5BcTZ6S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096230239084966007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096218267681796294",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别壬bad trip力，你却一上来就申明不事自己家的打广告，怎么这么没壬性 https://t.co/xmN5BcTZ6S"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2096218267681796294",
+        "created_at": "2026-09-05T12:45:55.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T13:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096218267681796294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kurokisama_tvt…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/kurokisama_tvt/status/2096205069297582377",
+              "start": 12,
+              "url": "https://t.co/e0ONC2Bp81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096218267681796294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 518,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096205069297582377",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "省流：买的不是我们家的 https://t.co/e0ONC2Bp81"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "is_identity_verified": false,
+        "location": "三浦海峡",
+        "most_recent_tweet_id": "2096230239084966007",
+        "name": "ominous",
+        "pinned_tweet_id": "2078365186466156746",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2044496192734666752/1776281725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 156,
+          "like_count": 1934,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1254
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "無極® Manager",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2096229962114298285",
+        "name": "☯️🧬無極® 生物科技 葉經理",
+        "pinned_tweet_id": "2094680393807241622",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1526,
+          "following_count": 98,
+          "like_count": 3523,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1933
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
